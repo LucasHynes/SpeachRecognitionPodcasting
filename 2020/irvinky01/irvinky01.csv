@@ -1,0 +1,417 @@
+,Rk,Player,Date,Tm,Unnamed: 4,Opp,Unnamed: 6,Qtr,Time,Result,Description,point_amount,distance
+0,1,Kyrie Irving,2020-02-01,BRK,@,WAS,L,1st,172,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (BRK 6, WAS 6)",2,15
+1,2,Kyrie Irving,2020-02-01,BRK,@,WAS,L,1st,388,0,"Kyrie Irving misses 2-pt jump shot from 10 ft (BRK 18, WAS 18)",2,10
+2,3,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,287,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 44, WAS 41)",3,26
+3,4,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,391,1,"Kyrie Irving makes 2-pt layup from 1 ft (BRK 51, WAS 45)",2,1
+4,5,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,440,1,"Kyrie Irving makes 3-pt jump shot from 28 ft (assist by Jarrett Allen) (BRK 54, WAS 45)",3,28
+5,6,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,470,1,"Kyrie Irving makes 2-pt jump shot from 10 ft (BRK 56, WAS 47)",2,10
+6,7,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,574,1,"Kyrie Irving makes 2-pt jump shot from 11 ft (BRK 61, WAS 51)",2,11
+7,8,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,621,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 61, WAS 52)",3,27
+8,9,Kyrie Irving,2020-02-01,BRK,@,WAS,L,2nd,641,0,"Kyrie Irving misses 2-pt layup from 7 ft (block by Ian Mahinmi) (BRK 61, WAS 52)",2,7
+9,10,Kyrie Irving,2020-02-01,BRK,@,WAS,L,3rd,171,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 62, WAS 66)",3,26
+10,11,Kyrie Irving,2020-02-01,BRK,@,WAS,L,4th,222,1,"Kyrie Irving makes 2-pt layup from 4 ft (assist by DeAndre Jordan) (BRK 98, WAS 90)",2,4
+11,12,Kyrie Irving,2020-02-01,BRK,@,WAS,L,4th,289,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 99, WAS 92)",3,27
+12,13,Kyrie Irving,2020-01-31,BRK,,CHI,W,1st,40,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 3, CHI 0)",3,25
+13,14,Kyrie Irving,2020-01-31,BRK,,CHI,W,1st,92,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Jarrett Allen) (BRK 7, CHI 2)",2,1
+14,15,Kyrie Irving,2020-01-31,BRK,,CHI,W,1st,131,1,"Kyrie Irving makes 2-pt layup from 2 ft (assist by Jarrett Allen) (BRK 9, CHI 2)",2,2
+15,16,Kyrie Irving,2020-01-31,BRK,,CHI,W,1st,385,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 21, CHI 12)",3,25
+16,17,Kyrie Irving,2020-01-31,BRK,,CHI,W,1st,515,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 28, CHI 16)",2,3
+17,18,Kyrie Irving,2020-01-31,BRK,,CHI,W,1st,538,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Caris LeVert) (BRK 30, CHI 16)",2,1
+18,19,Kyrie Irving,2020-01-31,BRK,,CHI,W,2nd,315,1,"Kyrie Irving makes 3-pt jump shot from 24 ft (BRK 52, CHI 34)",3,24
+19,20,Kyrie Irving,2020-01-31,BRK,,CHI,W,2nd,367,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (assist by Caris LeVert) (BRK 57, CHI 36)",2,13
+20,21,Kyrie Irving,2020-01-31,BRK,,CHI,W,2nd,716,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Taurean Waller-Prince) (BRK 70, CHI 57)",2,1
+21,22,Kyrie Irving,2020-01-31,BRK,,CHI,W,2nd,720,1,"Kyrie Irving makes 3-pt jump shot from 32 ft (BRK 73, CHI 57)",3,32
+22,23,Kyrie Irving,2020-01-31,BRK,,CHI,W,3rd,84,0,"Kyrie Irving misses 2-pt jump shot from 20 ft (BRK 79, CHI 61)",2,20
+23,24,Kyrie Irving,2020-01-31,BRK,,CHI,W,3rd,328,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Jarrett Allen) (BRK 90, CHI 74)",3,25
+24,25,Kyrie Irving,2020-01-31,BRK,,CHI,W,3rd,455,1,"Kyrie Irving makes 2-pt jump shot from 12 ft (BRK 97, CHI 82)",2,12
+25,26,Kyrie Irving,2020-01-31,BRK,,CHI,W,3rd,493,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Caris LeVert) (BRK 99, CHI 84)",2,1
+26,27,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,182,1,"Kyrie Irving makes 2-pt jump shot from 20 ft (BRK 109, CHI 99)",2,20
+27,28,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,202,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 111, CHI 99)",2,3
+28,29,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,223,1,"Kyrie Irving makes 3-pt jump shot from 27 ft (assist by Jarrett Allen) (BRK 114, CHI 101)",3,27
+29,30,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,257,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 116, CHI 103)",2,3
+30,31,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,284,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 117, CHI 103)",3,27
+31,32,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,387,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 123, CHI 106)",3,25
+32,33,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,455,0,"Kyrie Irving misses 3-pt jump shot from 29 ft (BRK 125, CHI 108)",3,29
+33,34,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,505,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (BRK 129, CHI 108)",2,15
+34,35,Kyrie Irving,2020-01-31,BRK,,CHI,W,4th,549,0,"Kyrie Irving misses 2-pt jump shot from 14 ft (BRK 129, CHI 110)",2,14
+35,36,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,49,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 2, DET 0)",2,16
+36,37,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,99,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 8, DET 2)",3,26
+37,38,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,202,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 10, DET 4)",3,25
+38,39,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,208,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 12, DET 4)",2,2
+39,40,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,323,0,"Kyrie Irving misses 2-pt layup from 6 ft (BRK 16, DET 4)",2,6
+40,41,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,474,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (assist by Garrett Temple) (BRK 22, DET 14)",2,15
+41,42,Kyrie Irving,2020-01-29,BRK,,DET,W,1st,500,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 22, DET 14)",3,26
+42,43,Kyrie Irving,2020-01-29,BRK,,DET,W,2nd,426,0,"Kyrie Irving misses 2-pt layup from 3 ft (BRK 49, DET 54)",2,3
+43,44,Kyrie Irving,2020-01-29,BRK,,DET,W,3rd,34,0,"Kyrie Irving misses 2-pt jump shot from 14 ft (block by Tony Snell) (BRK 70, DET 68)",2,14
+44,45,Kyrie Irving,2020-01-29,BRK,,DET,W,3rd,122,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 76, DET 70)",2,3
+45,46,Kyrie Irving,2020-01-29,BRK,,DET,W,3rd,181,1,"Kyrie Irving makes 3-pt jump shot from 30 ft (assist by Garrett Temple) (BRK 82, DET 72)",3,30
+46,47,Kyrie Irving,2020-01-29,BRK,,DET,W,3rd,450,1,"Kyrie Irving makes 2-pt jump shot from 19 ft (BRK 92, DET 83)",2,19
+47,48,Kyrie Irving,2020-01-29,BRK,,DET,W,3rd,494,0,"Kyrie Irving misses 2-pt layup from 5 ft (BRK 92, DET 86)",2,5
+48,49,Kyrie Irving,2020-01-29,BRK,,DET,W,4th,334,1,"Kyrie Irving makes 2-pt layup at rim (BRK 115, DET 100)",2,0
+49,50,Kyrie Irving,2020-01-29,BRK,,DET,W,4th,389,0,"Kyrie Irving misses 2-pt jump shot from 10 ft (BRK 115, DET 100)",2,10
+50,51,Kyrie Irving,2020-01-29,BRK,,DET,W,4th,549,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 120, DET 109)",3,27
+51,52,Kyrie Irving,2020-01-25,BRK,@,DET,W,1st,29,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (BRK 0, DET 0)",2,11
+52,53,Kyrie Irving,2020-01-25,BRK,@,DET,W,1st,154,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 6, DET 2)",2,16
+53,54,Kyrie Irving,2020-01-25,BRK,@,DET,W,1st,256,1,"Kyrie Irving makes 2-pt jump shot from 11 ft (BRK 10, DET 9)",2,11
+54,55,Kyrie Irving,2020-01-25,BRK,@,DET,W,1st,292,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 13, DET 11)",3,26
+55,56,Kyrie Irving,2020-01-25,BRK,@,DET,W,1st,345,0,"Kyrie Irving misses 3-pt jump shot from 24 ft (BRK 13, DET 13)",3,24
+56,57,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,247,0,"Kyrie Irving misses 2-pt jump shot from 21 ft (BRK 30, DET 32)",2,21
+57,58,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,279,1,"Kyrie Irving makes 2-pt jump shot from 23 ft (BRK 32, DET 35)",2,23
+58,59,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,312,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 32, DET 35)",3,26
+59,60,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,401,1,"Kyrie Irving makes 2-pt jump shot from 9 ft (BRK 37, DET 39)",2,9
+60,61,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,487,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 39, DET 46)",3,26
+61,62,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,544,1,"Kyrie Irving makes 3-pt jump shot from 27 ft (BRK 42, DET 48)",3,27
+62,63,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,576,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 42, DET 50)",2,16
+63,64,Kyrie Irving,2020-01-25,BRK,@,DET,W,2nd,678,0,"Kyrie Irving misses 2-pt layup from 3 ft (BRK 47, DET 58)",2,3
+64,65,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,14,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 52, DET 60)",2,2
+65,66,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,79,1,"Kyrie Irving makes 2-pt jump shot from 7 ft (BRK 56, DET 64)",2,7
+66,67,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,107,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 59, DET 64)",3,26
+67,68,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,135,1,"Kyrie Irving makes 3-pt jump shot from 29 ft (BRK 62, DET 64)",3,29
+68,69,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,204,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 67, DET 69)",3,25
+69,70,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,263,0,"Kyrie Irving misses 3-pt jump shot from 28 ft (BRK 69, DET 69)",3,28
+70,71,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,604,0,"Kyrie Irving misses 2-pt jump shot from 13 ft (BRK 76, DET 77)",2,13
+71,72,Kyrie Irving,2020-01-25,BRK,@,DET,W,3rd,699,0,"Kyrie Irving misses 2-pt jump shot from 5 ft (BRK 80, DET 77)",2,5
+72,73,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,260,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 87, DET 90)",2,3
+73,74,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,284,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 87, DET 90)",3,26
+74,75,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,316,1,"Kyrie Irving makes 2-pt jump shot from 12 ft (BRK 89, DET 90)",2,12
+75,76,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,382,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 91, DET 93)",2,2
+76,77,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,540,1,"Kyrie Irving makes 2-pt jump shot from 11 ft (BRK 99, DET 100)",2,11
+77,78,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,575,1,"Kyrie Irving makes 2-pt layup from 2 ft (assist by Spencer Dinwiddie) (BRK 101, DET 100)",2,2
+78,79,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,652,0,"Kyrie Irving misses 3-pt jump shot from 29 ft (BRK 104, DET 102)",3,29
+79,80,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,682,0,"Kyrie Irving misses 2-pt jump shot from 14 ft (BRK 104, DET 104)",2,14
+80,81,Kyrie Irving,2020-01-25,BRK,@,DET,W,4th,710,0,"Kyrie Irving misses 3-pt jump shot from 28 ft (BRK 106, DET 104)",3,28
+81,82,Kyrie Irving,2020-01-23,BRK,,LAL,L,1st,133,0,"Kyrie Irving misses 2-pt jump shot from 20 ft (BRK 4, LAL 4)",2,20
+82,83,Kyrie Irving,2020-01-23,BRK,,LAL,L,1st,149,1,"Kyrie Irving makes 2-pt layup at rim (BRK 6, LAL 4)",2,0
+83,84,Kyrie Irving,2020-01-23,BRK,,LAL,L,1st,235,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 8, LAL 8)",3,26
+84,85,Kyrie Irving,2020-01-23,BRK,,LAL,L,1st,437,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (assist by Caris LeVert) (BRK 17, LAL 21)",2,13
+85,86,Kyrie Irving,2020-01-23,BRK,,LAL,L,1st,560,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (BRK 22, LAL 30)",2,11
+86,87,Kyrie Irving,2020-01-23,BRK,,LAL,L,2nd,337,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Spencer Dinwiddie) (BRK 57, LAL 59)",3,25
+87,88,Kyrie Irving,2020-01-23,BRK,,LAL,L,2nd,595,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 66, LAL 71)",3,25
+88,89,Kyrie Irving,2020-01-23,BRK,,LAL,L,2nd,666,0,"Kyrie Irving misses 2-pt layup from 10 ft (BRK 68, LAL 73)",2,10
+89,90,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,248,1,"Kyrie Irving makes 2-pt jump shot from 8 ft (assist by Taurean Waller-Prince) (BRK 77, LAL 88)",2,8
+90,91,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,276,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 77, LAL 90)",3,25
+91,92,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,324,0,"Kyrie Irving misses 2-pt jump shot from 7 ft (block by Dwight Howard) (BRK 80, LAL 90)",2,7
+92,93,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,582,0,"Kyrie Irving misses 2-pt jump shot from 22 ft (BRK 89, LAL 94)",2,22
+93,94,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,643,1,"Kyrie Irving makes 2-pt jump shot from 7 ft (BRK 91, LAL 95)",2,7
+94,95,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,670,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 94, LAL 95)",3,25
+95,96,Kyrie Irving,2020-01-23,BRK,,LAL,L,3rd,685,0,"Kyrie Irving misses 2-pt layup from 5 ft (block by Anthony Davis) (BRK 94, LAL 98)",2,5
+96,97,Kyrie Irving,2020-01-23,BRK,,LAL,L,4th,234,0,"Kyrie Irving misses 2-pt jump shot from 10 ft (BRK 96, LAL 113)",2,10
+97,98,Kyrie Irving,2020-01-23,BRK,,LAL,L,4th,445,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 102, LAL 121)",3,25
+98,99,Kyrie Irving,2020-01-18,BRK,,MIL,L,1st,70,0,"Kyrie Irving misses 2-pt jump shot from 19 ft (BRK 0, MIL 4)",2,19
+99,100,Kyrie Irving,2020-01-18,BRK,,MIL,L,1st,91,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Jarrett Allen) (BRK 3, MIL 5)",3,25
+100,101,Kyrie Irving,2020-01-18,BRK,,MIL,L,1st,225,0,"Kyrie Irving misses 2-pt layup from 7 ft (BRK 9, MIL 7)",2,7
+101,102,Kyrie Irving,2020-01-18,BRK,,MIL,L,1st,435,1,"Kyrie Irving makes 2-pt jump shot from 10 ft (assist by Taurean Waller-Prince) (BRK 16, MIL 14)",2,10
+102,103,Kyrie Irving,2020-01-18,BRK,,MIL,L,2nd,254,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 28, MIL 41)",3,25
+103,104,Kyrie Irving,2020-01-18,BRK,,MIL,L,2nd,461,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 34, MIL 47)",2,2
+104,105,Kyrie Irving,2020-01-18,BRK,,MIL,L,2nd,502,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (BRK 35, MIL 47)",2,11
+105,106,Kyrie Irving,2020-01-18,BRK,,MIL,L,2nd,630,1,"Kyrie Irving makes 2-pt layup at rim (assist by Caris LeVert) (BRK 42, MIL 51)",2,0
+106,107,Kyrie Irving,2020-01-18,BRK,,MIL,L,3rd,40,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 42, MIL 57)",3,26
+107,108,Kyrie Irving,2020-01-18,BRK,,MIL,L,3rd,62,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (BRK 44, MIL 60)",2,13
+108,109,Kyrie Irving,2020-01-18,BRK,,MIL,L,3rd,94,0,"Kyrie Irving misses 2-pt jump shot from 13 ft (BRK 44, MIL 60)",2,13
+109,110,Kyrie Irving,2020-01-18,BRK,,MIL,L,3rd,307,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Spencer Dinwiddie) (BRK 56, MIL 74)",3,25
+110,111,Kyrie Irving,2020-01-18,BRK,,MIL,L,3rd,448,1,"Kyrie Irving makes 2-pt jump shot from 4 ft (BRK 61, MIL 81)",2,4
+111,112,Kyrie Irving,2020-01-18,BRK,,MIL,L,3rd,468,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 61, MIL 81)",3,25
+112,113,Kyrie Irving,2020-01-18,BRK,,MIL,L,4th,193,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 78, MIL 95)",3,25
+113,114,Kyrie Irving,2020-01-15,BRK,@,PHI,L,1st,50,0,"Kyrie Irving misses 2-pt jump shot from 19 ft (BRK 2, PHI 2)",2,19
+114,115,Kyrie Irving,2020-01-15,BRK,@,PHI,L,1st,232,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 6, PHI 4)",2,2
+115,116,Kyrie Irving,2020-01-15,BRK,@,PHI,L,1st,483,0,"Kyrie Irving misses 2-pt jump shot from 18 ft (BRK 17, PHI 18)",2,18
+116,117,Kyrie Irving,2020-01-15,BRK,@,PHI,L,2nd,38,0,"Kyrie Irving misses 2-pt jump shot from 7 ft (BRK 28, PHI 25)",2,7
+117,118,Kyrie Irving,2020-01-15,BRK,@,PHI,L,2nd,134,0,"Kyrie Irving misses 2-pt jump shot from 9 ft (BRK 30, PHI 29)",2,9
+118,119,Kyrie Irving,2020-01-15,BRK,@,PHI,L,2nd,242,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 38, PHI 33)",2,2
+119,120,Kyrie Irving,2020-01-15,BRK,@,PHI,L,2nd,359,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (block by Matisse Thybulle) (BRK 41, PHI 37)",2,15
+120,121,Kyrie Irving,2020-01-15,BRK,@,PHI,L,2nd,616,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (assist by Jarrett Allen) (BRK 53, PHI 47)",2,13
+121,122,Kyrie Irving,2020-01-15,BRK,@,PHI,L,2nd,643,0,"Kyrie Irving misses 2-pt jump shot from 6 ft (BRK 53, PHI 50)",2,6
+122,123,Kyrie Irving,2020-01-15,BRK,@,PHI,L,3rd,104,0,"Kyrie Irving misses 2-pt jump shot from 12 ft (BRK 63, PHI 59)",2,12
+123,124,Kyrie Irving,2020-01-15,BRK,@,PHI,L,3rd,149,1,"Kyrie Irving makes 2-pt jump shot from 11 ft (BRK 65, PHI 61)",2,11
+124,125,Kyrie Irving,2020-01-15,BRK,@,PHI,L,3rd,356,1,"Kyrie Irving makes 2-pt jump shot from 12 ft (BRK 74, PHI 71)",2,12
+125,126,Kyrie Irving,2020-01-15,BRK,@,PHI,L,3rd,385,1,"Kyrie Irving makes 2-pt layup from 1 ft (BRK 76, PHI 73)",2,1
+126,127,Kyrie Irving,2020-01-15,BRK,@,PHI,L,3rd,400,0,"Kyrie Irving misses 2-pt layup from 3 ft (BRK 76, PHI 73)",2,3
+127,128,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,143,0,"Kyrie Irving misses 2-pt jump shot from 10 ft (BRK 92, PHI 91)",2,10
+128,129,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,190,1,"Kyrie Irving makes 3-pt jump shot from 24 ft (BRK 95, PHI 94)",3,24
+129,130,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,268,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 96, PHI 100)",2,2
+130,131,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,301,0,"Kyrie Irving misses 3-pt jump shot from 28 ft (BRK 96, PHI 100)",3,28
+131,132,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,482,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 103, PHI 104)",2,16
+132,133,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,522,0,"Kyrie Irving misses 2-pt layup from 4 ft (block by Josh Richardson) (BRK 104, PHI 106)",2,4
+133,134,Kyrie Irving,2020-01-15,BRK,@,PHI,L,4th,649,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 106, PHI 113)",2,2
+134,135,Kyrie Irving,2020-01-14,BRK,,UTA,L,1st,152,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Spencer Dinwiddie) (BRK 7, UTA 5)",3,25
+135,136,Kyrie Irving,2020-01-14,BRK,,UTA,L,1st,185,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (BRK 9, UTA 7)",2,15
+136,137,Kyrie Irving,2020-01-14,BRK,,UTA,L,1st,312,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (BRK 14, UTA 11)",2,11
+137,138,Kyrie Irving,2020-01-14,BRK,,UTA,L,1st,425,0,"Kyrie Irving misses 2-pt jump shot from 5 ft (BRK 16, UTA 19)",2,5
+138,139,Kyrie Irving,2020-01-14,BRK,,UTA,L,1st,435,0,"Kyrie Irving misses 2-pt jump shot from 10 ft (BRK 16, UTA 19)",2,10
+139,140,Kyrie Irving,2020-01-14,BRK,,UTA,L,2nd,113,1,"Kyrie Irving makes 2-pt jump shot from 20 ft (BRK 30, UTA 34)",2,20
+140,141,Kyrie Irving,2020-01-14,BRK,,UTA,L,2nd,331,1,"Kyrie Irving makes 2-pt jump shot from 16 ft (BRK 39, UTA 40)",2,16
+141,142,Kyrie Irving,2020-01-14,BRK,,UTA,L,2nd,358,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 39, UTA 43)",3,25
+142,143,Kyrie Irving,2020-01-14,BRK,,UTA,L,2nd,380,1,"Kyrie Irving makes 2-pt jump shot from 16 ft (BRK 41, UTA 43)",2,16
+143,144,Kyrie Irving,2020-01-14,BRK,,UTA,L,3rd,135,1,"Kyrie Irving makes 2-pt jump shot from 18 ft (BRK 52, UTA 68)",2,18
+144,145,Kyrie Irving,2020-01-14,BRK,,UTA,L,3rd,340,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 63, UTA 80)",3,25
+145,146,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,158,0,"Kyrie Irving misses 2-pt jump shot from 8 ft (BRK 81, UTA 92)",2,8
+146,147,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,188,1,"Kyrie Irving makes 2-pt jump shot from 14 ft (BRK 83, UTA 95)",2,14
+147,148,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,234,1,"Kyrie Irving makes 2-pt jump shot from 11 ft (BRK 85, UTA 97)",2,11
+148,149,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,310,0,"Kyrie Irving misses 2-pt layup from 6 ft (block by Rudy Gobert) (BRK 89, UTA 99)",2,6
+149,150,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,314,1,"Kyrie Irving makes 2-pt jump shot from 4 ft (BRK 91, UTA 99)",2,4
+150,151,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,478,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 97, UTA 107)",3,25
+151,152,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,624,1,"Kyrie Irving makes 2-pt jump shot from 2 ft (BRK 105, UTA 114)",2,2
+152,153,Kyrie Irving,2020-01-14,BRK,,UTA,L,4th,656,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 105, UTA 114)",3,26
+153,154,Kyrie Irving,2020-01-12,BRK,,ATL,W,1st,124,0,"Kyrie Irving misses 2-pt jump shot from 17 ft (BRK 6, ATL 0)",2,17
+154,155,Kyrie Irving,2020-01-12,BRK,,ATL,W,1st,179,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 8, ATL 2)",2,3
+155,156,Kyrie Irving,2020-01-12,BRK,,ATL,W,1st,205,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 10, ATL 2)",2,2
+156,157,Kyrie Irving,2020-01-12,BRK,,ATL,W,1st,432,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 21, ATL 9)",3,25
+157,158,Kyrie Irving,2020-01-12,BRK,,ATL,W,2nd,24,1,"Kyrie Irving makes 2-pt jump shot from 19 ft (BRK 39, ATL 16)",2,19
+158,159,Kyrie Irving,2020-01-12,BRK,,ATL,W,2nd,199,1,"Kyrie Irving makes 2-pt layup from 4 ft (BRK 45, ATL 23)",2,4
+159,160,Kyrie Irving,2020-01-12,BRK,,ATL,W,3rd,27,1,"Kyrie Irving makes 2-pt jump shot from 12 ft (BRK 72, ATL 48)",2,12
+160,161,Kyrie Irving,2020-01-12,BRK,,ATL,W,3rd,99,1,"Kyrie Irving makes 2-pt layup from 7 ft (assist by Spencer Dinwiddie) (BRK 74, ATL 48)",2,7
+161,162,Kyrie Irving,2020-01-12,BRK,,ATL,W,3rd,278,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (BRK 83, ATL 48)",2,15
+162,163,Kyrie Irving,2020-01-12,BRK,,ATL,W,3rd,307,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (assist by Spencer Dinwiddie) (BRK 85, ATL 48)",2,15
+163,164,Kyrie Irving,2020-01-12,BRK,,ATL,W,3rd,356,1,"Kyrie Irving makes 2-pt jump shot from 19 ft (BRK 87, ATL 50)",2,19
+164,165,Kyrie Irving,2019-11-14,BRK,@,DEN,L,1st,18,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (BRK 2, DEN 0)",2,15
+165,166,Kyrie Irving,2019-11-14,BRK,@,DEN,L,1st,42,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 5, DEN 0)",3,25
+166,167,Kyrie Irving,2019-11-14,BRK,@,DEN,L,1st,207,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 10, DEN 8)",3,25
+167,168,Kyrie Irving,2019-11-14,BRK,@,DEN,L,1st,287,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 12, DEN 14)",2,16
+168,169,Kyrie Irving,2019-11-14,BRK,@,DEN,L,2nd,390,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 47, DEN 37)",3,25
+169,170,Kyrie Irving,2019-11-14,BRK,@,DEN,L,2nd,536,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 55, DEN 39)",2,2
+170,171,Kyrie Irving,2019-11-14,BRK,@,DEN,L,2nd,557,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 55, DEN 41)",3,25
+171,172,Kyrie Irving,2019-11-14,BRK,@,DEN,L,2nd,681,1,"Kyrie Irving makes 2-pt jump shot from 9 ft (BRK 59, DEN 46)",2,9
+172,173,Kyrie Irving,2019-11-14,BRK,@,DEN,L,3rd,55,0,"Kyrie Irving misses 2-pt jump shot from 12 ft (BRK 61, DEN 51)",2,12
+173,174,Kyrie Irving,2019-11-14,BRK,@,DEN,L,3rd,270,1,"Brooklyn full timeout (BRK 67, DEN 57)",6,7
+174,175,Kyrie Irving,2019-11-14,BRK,@,DEN,L,3rd,343,1,"Turnover by Jamal Murray (bad pass; steal by Kyrie Irving) (DEN 60, BRK 71)",6,0
+175,176,Kyrie Irving,2019-11-14,BRK,@,DEN,L,3rd,477,0,"Paul Millsap makes free throw 1 of 1 (DEN 68, BRK 73)",1,1
+176,177,Kyrie Irving,2019-11-14,BRK,@,DEN,L,3rd,497,1,"Monte Morris makes 2-pt jump shot from 17 ft (DEN 70, BRK 73)",2,17
+177,178,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,174,0,"Kyrie Irving enters the game for DeAndre Jordan (BRK 83, DEN 86)",8,3
+178,179,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,312,1,"Instant Replay (Request: Ruling Stands) (BRK 85, DEN 92)",8,5
+179,180,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,351,0,"Mason Plumlee makes 2-pt layup from 2 ft (assist by Juan Hernangómez) (DEN 94, BRK 87)",2,2
+180,181,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,377,0,"Monte Morris misses 2-pt jump shot from 16 ft (DEN 94, BRK 87)",2,16
+181,182,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,420,0,"Jerami Grant misses 3-pt jump shot from 24 ft (DEN 94, BRK 87)",3,24
+182,183,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,425,0,"Kyrie Irving misses 2-pt jump shot from 9 ft (BRK 87, DEN 94)",2,9
+183,184,Kyrie Irving,2019-11-14,BRK,@,DEN,L,4th,509,1,"Jamal Murray misses 2-pt jump shot from 18 ft (DEN 96, BRK 91)",2,18
+184,185,Kyrie Irving,2019-11-12,BRK,@,UTA,L,1st,16,0,"Kyrie Irving misses 2-pt jump shot from 13 ft (BRK 0, UTA 0)",2,13
+185,186,Kyrie Irving,2019-11-12,BRK,@,UTA,L,1st,144,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 4, UTA 4)",3,25
+186,187,Kyrie Irving,2019-11-12,BRK,@,UTA,L,1st,323,0,"Kyrie Irving misses 3-pt jump shot from 24 ft (BRK 10, UTA 10)",3,24
+187,188,Kyrie Irving,2019-11-12,BRK,@,UTA,L,1st,331,1,"Kyrie Irving makes 2-pt jump shot from 14 ft (BRK 12, UTA 10)",2,14
+188,189,Kyrie Irving,2019-11-12,BRK,@,UTA,L,1st,494,1,"Kyrie Irving makes 2-pt jump shot from 12 ft (BRK 20, UTA 19)",2,12
+189,190,Kyrie Irving,2019-11-12,BRK,@,UTA,L,1st,717,0,"Kyrie Irving misses 2-pt layup from 7 ft (BRK 33, UTA 29)",2,7
+190,191,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,257,0,"Kyrie Irving misses 2-pt jump shot from 17 ft (BRK 40, UTA 36)",2,17
+191,192,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,336,1,"Kyrie Irving makes 2-pt jump shot from 2 ft (BRK 47, UTA 39)",2,2
+192,193,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,456,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 53, UTA 43)",2,2
+193,194,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,520,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (BRK 57, UTA 47)",2,13
+194,195,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,575,1,"Kyrie Irving makes 2-pt jump shot from 10 ft (BRK 62, UTA 52)",2,10
+195,196,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,625,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 64, UTA 53)",3,26
+196,197,Kyrie Irving,2019-11-12,BRK,@,UTA,L,2nd,716,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 68, UTA 53)",2,3
+197,198,Kyrie Irving,2019-11-12,BRK,@,UTA,L,3rd,25,0,"Kyrie Irving misses 3-pt jump shot from 24 ft (BRK 68, UTA 53)",3,24
+198,199,Kyrie Irving,2019-11-12,BRK,@,UTA,L,3rd,157,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 68, UTA 62)",3,26
+199,200,Kyrie Irving,2019-11-12,BRK,@,UTA,L,3rd,223,0,"Kyrie Irving misses 3-pt jump shot from 23 ft (BRK 68, UTA 66)",3,23
+200,201,Kyrie Irving,2019-11-12,BRK,@,UTA,L,3rd,242,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 71, UTA 66)",3,25
+201,202,Kyrie Irving,2019-11-12,BRK,@,UTA,L,3rd,269,1,"Kyrie Irving makes 2-pt layup from 4 ft (assist by DeAndre Jordan) (BRK 73, UTA 68)",2,4
+202,203,Kyrie Irving,2019-11-12,BRK,@,UTA,L,3rd,296,0,"Kyrie Irving misses 2-pt layup from 3 ft (BRK 73, UTA 70)",2,3
+203,204,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,144,1,"Rudy Gobert enters the game for Tony Bradley (UTA 94, BRK 94)",9,4
+204,205,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,213,0,"Emmanuel Mudiay makes 2-pt jump shot from 17 ft (UTA 99, BRK 98)",2,17
+205,206,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,281,1,"Emmanuel Mudiay makes 2-pt jump shot from 12 ft (UTA 105, BRK 101)",2,12
+206,207,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,314,0,"Rudy Gobert makes 2-pt layup from 5 ft (assist by Emmanuel Mudiay) (UTA 107, BRK 104)",2,5
+207,208,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,506,0,"Defensive rebound by Kyrie Irving (BRK 110, UTA 110)",1,10
+208,209,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,545,0,"Turnover by Rudy Gobert (lost ball; steal by DeAndre Jordan) (UTA 110, BRK 112)",1,10
+209,210,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,548,0,"Offensive rebound by Team (BRK 112, UTA 110)",1,12
+210,211,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,577,0,"Defensive rebound by Taurean Waller-Prince (BRK 112, UTA 110)",1,12
+211,212,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,645,0,"Offensive rebound by DeAndre Jordan (BRK 112, UTA 114)",1,12
+212,213,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,681,0,"Rudy Gobert makes 2-pt dunk from 1 ft (UTA 116, BRK 114)",2,1
+213,214,Kyrie Irving,2019-11-12,BRK,@,UTA,L,4th,713,0,"Instant Replay (Challenge: Ruling Stands) (BRK 114, UTA 116)",1,14
+214,215,Kyrie Irving,2019-11-10,BRK,@,PHO,L,1st,92,0,"Kyrie Irving misses 2-pt jump shot from 9 ft (BRK 1, PHO 5)",2,9
+215,216,Kyrie Irving,2019-11-10,BRK,@,PHO,L,1st,198,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Caris LeVert) (BRK 6, PHO 14)",3,25
+216,217,Kyrie Irving,2019-11-10,BRK,@,PHO,L,1st,222,1,"Kyrie Irving makes 2-pt jump shot from 9 ft (BRK 8, PHO 16)",2,9
+217,218,Kyrie Irving,2019-11-10,BRK,@,PHO,L,1st,284,0,"Kyrie Irving misses 2-pt jump shot from 4 ft (BRK 11, PHO 21)",2,4
+218,219,Kyrie Irving,2019-11-10,BRK,@,PHO,L,2nd,326,0,"Kyrie Irving enters the game for Garrett Temple (BRK 42, PHO 46)",4,2
+219,220,Kyrie Irving,2019-11-10,BRK,@,PHO,L,2nd,393,0,"Tyler Johnson makes 3-pt jump shot from 25 ft (PHO 49, BRK 44)",3,25
+220,221,Kyrie Irving,2019-11-10,BRK,@,PHO,L,2nd,473,1,"Tyler Johnson makes free throw 2 of 2 (PHO 52, BRK 44)",2,2
+221,222,Kyrie Irving,2019-11-10,BRK,@,PHO,L,2nd,492,0,"Defensive rebound by Joe Harris (BRK 46, PHO 52)",4,6
+222,223,Kyrie Irving,2019-11-10,BRK,@,PHO,L,2nd,616,1,"Kelly Oubre makes 2-pt dunk from 1 ft (assist by Ricky Rubio) (PHO 59, BRK 48)",2,1
+223,224,Kyrie Irving,2019-11-10,BRK,@,PHO,L,3rd,31,0,"Start of 3rd quarter (PHO 68, BRK 50)",3,68
+224,225,Kyrie Irving,2019-11-10,BRK,@,PHO,L,3rd,125,0,"Jarrett Allen makes 2-pt layup from 2 ft (BRK 57, PHO 70)",2,2
+225,226,Kyrie Irving,2019-11-10,BRK,@,PHO,L,3rd,152,1,"DeAndre Jordan enters the game for Jarrett Allen (BRK 57, PHO 73)",5,7
+226,227,Kyrie Irving,2019-11-10,BRK,@,PHO,L,3rd,251,0,"Turnover by Joe Harris (bad pass; steal by Dario Šarić) (BRK 59, PHO 78)",5,9
+227,228,Kyrie Irving,2019-11-10,BRK,@,PHO,L,3rd,339,0,"Turnover by Spencer Dinwiddie (offensive foul) (BRK 59, PHO 82)",5,9
+228,229,Kyrie Irving,2019-11-10,BRK,@,PHO,L,4th,22,1,"Start of 4th quarter (BRK 80, PHO 106)",4,80
+229,230,Kyrie Irving,2019-11-10,BRK,@,PHO,L,4th,165,1,"Defensive rebound by Mikal Bridges (PHO 113, BRK 89)",1,13
+230,231,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,37,0,"Kyrie Irving misses 2-pt jump shot from 18 ft (BRK 0, POR 0)",2,18
+231,232,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,94,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (assist by Joe Harris) (BRK 3, POR 3)",3,26
+232,233,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,187,0,"Kyrie Irving misses 2-pt jump shot from 12 ft (BRK 5, POR 7)",2,12
+233,234,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,353,0,"Kyrie Irving misses 2-pt jump shot from 7 ft (BRK 11, POR 9)",2,7
+234,235,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,381,1,"Kyrie Irving makes 3-pt jump shot from 27 ft (BRK 14, POR 11)",3,27
+235,236,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,488,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (BRK 16, POR 13)",2,11
+236,237,Kyrie Irving,2019-11-08,BRK,@,POR,W,1st,530,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 16, POR 15)",3,25
+237,238,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,299,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 36, POR 26)",3,26
+238,239,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,399,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 38, POR 30)",2,2
+239,240,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,463,1,"Kyrie Irving makes 2-pt jump shot from 10 ft (BRK 40, POR 32)",2,10
+240,241,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,548,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (BRK 44, POR 36)",2,13
+241,242,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,571,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 44, POR 39)",3,25
+242,243,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,616,0,"Kyrie Irving misses 2-pt jump shot from 12 ft (BRK 46, POR 41)",2,12
+243,244,Kyrie Irving,2019-11-08,BRK,@,POR,W,2nd,682,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 51, POR 44)",2,2
+244,245,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,18,0,"Kyrie Irving misses 2-pt jump shot from 22 ft (BRK 54, POR 49)",2,22
+245,246,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,65,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 56, POR 54)",3,26
+246,247,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,409,1,"Kyrie Irving makes 2-pt layup at rim (BRK 73, POR 68)",2,0
+247,248,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,432,0,"Kyrie Irving misses 2-pt layup from 2 ft (block by Hassan Whiteside) (BRK 73, POR 71)",2,2
+248,249,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,521,1,"Kyrie Irving makes 2-pt jump shot from 5 ft (BRK 80, POR 77)",2,5
+249,250,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,571,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 84, POR 80)",3,26
+250,251,Kyrie Irving,2019-11-08,BRK,@,POR,W,3rd,640,0,"Kyrie Irving misses 2-pt jump shot from 19 ft (BRK 84, POR 82)",2,19
+251,252,Kyrie Irving,2019-11-08,BRK,@,POR,W,4th,209,0,"Kyrie Irving misses 2-pt jump shot from 19 ft (BRK 96, POR 93)",2,19
+252,253,Kyrie Irving,2019-11-08,BRK,@,POR,W,4th,335,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 98, POR 101)",2,2
+253,254,Kyrie Irving,2019-11-08,BRK,@,POR,W,4th,344,0,"Kyrie Irving misses 2-pt jump shot from 12 ft (BRK 98, POR 101)",2,12
+254,255,Kyrie Irving,2019-11-08,BRK,@,POR,W,4th,511,1,"Kyrie Irving makes 2-pt layup from 1 ft (BRK 108, POR 105)",2,1
+255,256,Kyrie Irving,2019-11-08,BRK,@,POR,W,4th,619,1,"Defensive rebound by Spencer Dinwiddie (BRK 112, POR 105)",1,12
+256,257,Kyrie Irving,2019-11-08,BRK,@,POR,W,4th,703,1,"Brooklyn full timeout (BRK 115, POR 112)",1,15
+257,258,Kyrie Irving,2019-11-04,BRK,,NOP,W,1st,20,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 0, NOP 0)",3,25
+258,259,Kyrie Irving,2019-11-04,BRK,,NOP,W,1st,151,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (BRK 10, NOP 6)",2,15
+259,260,Kyrie Irving,2019-11-04,BRK,,NOP,W,1st,318,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (assist by Joe Harris) (BRK 16, NOP 14)",2,15
+260,261,Kyrie Irving,2019-11-04,BRK,,NOP,W,1st,343,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 16, NOP 14)",3,25
+261,262,Kyrie Irving,2019-11-04,BRK,,NOP,W,1st,463,1,"Kyrie Irving makes 2-pt jump shot from 14 ft (BRK 23, NOP 19)",2,14
+262,263,Kyrie Irving,2019-11-04,BRK,,NOP,W,1st,490,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 23, NOP 21)",3,25
+263,264,Kyrie Irving,2019-11-04,BRK,,NOP,W,2nd,322,0,"Kyrie Irving misses 2-pt layup from 5 ft (BRK 38, NOP 35)",2,5
+264,265,Kyrie Irving,2019-11-04,BRK,,NOP,W,2nd,347,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (BRK 38, NOP 35)",2,15
+265,266,Kyrie Irving,2019-11-04,BRK,,NOP,W,2nd,410,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 43, NOP 38)",3,26
+266,267,Kyrie Irving,2019-11-04,BRK,,NOP,W,2nd,589,1,"Defensive rebound by Taurean Waller-Prince (BRK 57, NOP 44)",5,7
+267,268,Kyrie Irving,2019-11-04,BRK,,NOP,W,2nd,612,1,"Defensive rebound by Jarrett Allen (BRK 59, NOP 44)",5,9
+268,269,Kyrie Irving,2019-11-04,BRK,,NOP,W,2nd,718,1,"Lonzo Ball makes 2-pt jump shot from 10 ft (NOP 50, BRK 65)",2,10
+269,270,Kyrie Irving,2019-11-04,BRK,,NOP,W,3rd,78,1,"Personal foul by Jrue Holiday (drawn by Caris LeVert) (BRK 67, NOP 53)",6,7
+270,271,Kyrie Irving,2019-11-04,BRK,,NOP,W,3rd,220,0,"Lonzo Ball makes 3-pt jump shot from 24 ft (assist by Brandon Ingram) (NOP 61, BRK 78)",3,24
+271,272,Kyrie Irving,2019-11-04,BRK,,NOP,W,3rd,251,1,"Lonzo Ball makes 3-pt jump shot from 29 ft (NOP 64, BRK 78)",3,29
+272,273,Kyrie Irving,2019-11-04,BRK,,NOP,W,3rd,329,1,"Brooklyn full timeout (BRK 84, NOP 72)",8,4
+273,274,Kyrie Irving,2019-11-04,BRK,,NOP,W,3rd,491,1,"E'Twaun Moore makes free throw 2 of 2 (NOP 84, BRK 95)",2,2
+274,275,Kyrie Irving,2019-11-04,BRK,,NOP,W,4th,338,1,"Brandon Ingram makes 2-pt jump shot from 21 ft (NOP 113, BRK 118)",2,21
+275,276,Kyrie Irving,2019-11-04,BRK,,NOP,W,4th,427,0,"Brandon Ingram makes 2-pt jump shot from 21 ft (NOP 117, BRK 121)",2,21
+276,277,Kyrie Irving,2019-11-04,BRK,,NOP,W,4th,490,1,"Defensive rebound by Jarrett Allen (BRK 123, NOP 119)",1,23
+277,278,Kyrie Irving,2019-11-04,BRK,,NOP,W,4th,522,0,"Jrue Holiday makes 2-pt jump shot from 15 ft (assist by Jaxson Hayes) (NOP 121, BRK 125)",2,15
+278,279,Kyrie Irving,2019-11-02,BRK,@,DET,L,1st,73,1,"Kyrie Irving makes 2-pt jump shot from 17 ft (assist by DeAndre Jordan) (BRK 2, DET 5)",2,17
+279,280,Kyrie Irving,2019-11-02,BRK,@,DET,L,1st,140,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 2, DET 7)",3,26
+280,281,Kyrie Irving,2019-11-02,BRK,@,DET,L,1st,376,0,"Turnover by Andre Drummond (bad pass) (DET 19, BRK 9)",1,9
+281,282,Kyrie Irving,2019-11-02,BRK,@,DET,L,1st,495,0,"Andre Drummond makes 2-pt layup from 2 ft (assist by Markieff Morris) (DET 23, BRK 14)",2,2
+282,283,Kyrie Irving,2019-11-02,BRK,@,DET,L,2nd,431,0,"Garrett Temple enters the game for Rodions Kurucs (BRK 42, DET 37)",4,2
+283,284,Kyrie Irving,2019-11-02,BRK,@,DET,L,2nd,453,1,"Turnover by Andre Drummond (bad pass) (DET 37, BRK 42)",3,7
+284,285,Kyrie Irving,2019-11-02,BRK,@,DET,L,2nd,635,0,"Andre Drummond makes free throw 2 of 2 (DET 41, BRK 48)",2,2
+285,286,Kyrie Irving,2019-11-02,BRK,@,DET,L,3rd,22,1,"End of 2nd quarter (BRK 54, DET 46)",2,54
+286,287,Kyrie Irving,2019-11-02,BRK,@,DET,L,3rd,58,0,"Kyrie Irving makes 2-pt jump shot from 14 ft (BRK 56, DET 46)",2,14
+287,288,Kyrie Irving,2019-11-02,BRK,@,DET,L,3rd,261,0,"Luke Kennard misses 2-pt jump shot from 10 ft (DET 50, BRK 64)",2,10
+288,289,Kyrie Irving,2019-11-02,BRK,@,DET,L,3rd,455,0,"Andre Drummond makes 2-pt layup at rim (DET 61, BRK 68)",2,0
+289,290,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,255,1,"Defensive rebound by Team (BRK 81, DET 91)",8,1
+290,291,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,278,0,"Langston Galloway misses 2-pt jump shot from 11 ft (DET 91, BRK 83)",2,11
+291,292,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,322,1,"Luke Kennard enters the game for Tony Snell (DET 93, BRK 83)",9,3
+292,293,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,387,1,"DeAndre Jordan makes 2-pt dunk from 2 ft (assist by Kyrie Irving) (BRK 87, DET 97)",2,2
+293,294,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,417,1,"Bruce Brown misses 2-pt jump shot from 8 ft (DET 99, BRK 89)",2,8
+294,295,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,440,0,"Luke Kennard misses 2-pt jump shot from 20 ft (DET 99, BRK 91)",2,20
+295,296,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,568,0,"Kyrie Irving makes free throw 2 of 2 (BRK 100, DET 103)",2,2
+296,297,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,657,0,"Markieff Morris misses free throw 2 of 2 (DET 106, BRK 103)",2,2
+297,298,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,703,1,"Kyrie Irving makes free throw 2 of 2 (BRK 105, DET 106)",2,2
+298,299,Kyrie Irving,2019-11-02,BRK,@,DET,L,4th,719,0,"Andre Drummond makes free throw 1 of 2 (DET 112, BRK 109)",1,2
+299,300,Kyrie Irving,2019-11-01,BRK,,HOU,W,1st,367,0,"Clint Capela makes 2-pt dunk from 1 ft (assist by James Harden) (HOU 13, BRK 17)",2,1
+300,301,Kyrie Irving,2019-11-01,BRK,,HOU,W,2nd,145,1,"Russell Westbrook makes 2-pt jump shot from 11 ft (HOU 40, BRK 28)",2,11
+301,302,Kyrie Irving,2019-11-01,BRK,,HOU,W,2nd,181,0,"Danuel House makes 3-pt jump shot from 24 ft (assist by Eric Gordon) (HOU 43, BRK 30)",3,24
+302,303,Kyrie Irving,2019-11-01,BRK,,HOU,W,2nd,266,1,"Clint Capela makes 2-pt dunk from 2 ft (assist by James Harden) (HOU 47, BRK 33)",2,2
+303,304,Kyrie Irving,2019-11-01,BRK,,HOU,W,2nd,297,1,"Brooklyn full timeout (BRK 36, HOU 48)",3,6
+304,305,Kyrie Irving,2019-11-01,BRK,,HOU,W,2nd,362,1,"Caris LeVert makes 3-pt jump shot from 25 ft (BRK 41, HOU 49)",3,25
+305,306,Kyrie Irving,2019-11-01,BRK,,HOU,W,3rd,67,0,"Russell Westbrook misses 3-pt jump shot from 24 ft (HOU 61, BRK 63)",3,24
+306,307,Kyrie Irving,2019-11-01,BRK,,HOU,W,3rd,112,0,"Russell Westbrook misses 2-pt jump shot from 15 ft (HOU 64, BRK 66)",2,15
+307,308,Kyrie Irving,2019-11-01,BRK,,HOU,W,3rd,272,1,"P.J. Tucker misses 3-pt jump shot from 24 ft (HOU 68, BRK 70)",3,24
+308,309,Kyrie Irving,2019-11-01,BRK,,HOU,W,3rd,384,0,"Garrett Temple enters the game for Caris LeVert (BRK 77, HOU 69)",7,7
+309,310,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,236,0,"Eric Gordon misses 3-pt jump shot from 25 ft (HOU 92, BRK 103)",3,25
+310,311,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,316,0,"Brooklyn full timeout (BRK 103, HOU 94)",1,3
+311,312,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,427,1,"Ben McLemore misses 3-pt jump shot from 24 ft (HOU 98, BRK 106)",3,24
+312,313,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,457,0,"Houston full timeout (HOU 98, BRK 109)",9,8
+313,314,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,507,0,"Joe Harris makes free throw 2 of 2 (BRK 111, HOU 103)",2,2
+314,315,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,572,0,"James Harden misses 2-pt layup from 2 ft (HOU 106, BRK 111)",2,2
+315,316,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,632,0,"Eric Gordon misses 3-pt jump shot from 26 ft (HOU 106, BRK 114)",3,26
+316,317,Kyrie Irving,2019-11-01,BRK,,HOU,W,4th,665,1,"James Harden makes free throw 1 of 2 (HOU 107, BRK 114)",1,2
+317,318,Kyrie Irving,2019-10-30,BRK,,IND,L,1st,176,0,"Kyrie Irving misses 2-pt jump shot from 13 ft (BRK 6, IND 9)",2,13
+318,319,Kyrie Irving,2019-10-30,BRK,,IND,L,1st,296,1,"Kyrie Irving makes 2-pt jump shot from 3 ft (BRK 11, IND 16)",2,3
+319,320,Kyrie Irving,2019-10-30,BRK,,IND,L,1st,342,0,"Kyrie Irving misses 2-pt jump shot from 19 ft (BRK 13, IND 19)",2,19
+320,321,Kyrie Irving,2019-10-30,BRK,,IND,L,1st,425,1,"Kyrie Irving makes 3-pt jump shot from 23 ft (BRK 20, IND 23)",3,23
+321,322,Kyrie Irving,2019-10-30,BRK,,IND,L,1st,442,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 22, IND 23)",2,2
+322,323,Kyrie Irving,2019-10-30,BRK,,IND,L,2nd,473,1,"Kyrie Irving makes 3-pt jump shot from 24 ft (assist by Spencer Dinwiddie) (BRK 55, IND 50)",3,24
+323,324,Kyrie Irving,2019-10-30,BRK,,IND,L,2nd,599,1,"Kyrie Irving makes 2-pt jump shot from 11 ft (BRK 59, IND 56)",2,11
+324,325,Kyrie Irving,2019-10-30,BRK,,IND,L,2nd,650,0,"Kyrie Irving misses 3-pt jump shot from 24 ft (BRK 61, IND 58)",3,24
+325,326,Kyrie Irving,2019-10-30,BRK,,IND,L,2nd,678,0,"Kyrie Irving misses 2-pt jump shot from 10 ft (BRK 61, IND 60)",2,10
+326,327,Kyrie Irving,2019-10-30,BRK,,IND,L,3rd,55,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 65, IND 64)",2,2
+327,328,Kyrie Irving,2019-10-30,BRK,,IND,L,3rd,115,1,"Kyrie Irving makes 2-pt jump shot from 5 ft (BRK 68, IND 67)",2,5
+328,329,Kyrie Irving,2019-10-30,BRK,,IND,L,3rd,241,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 72, IND 71)",3,25
+329,330,Kyrie Irving,2019-10-30,BRK,,IND,L,3rd,282,1,"Kyrie Irving makes 2-pt layup from 7 ft (BRK 74, IND 71)",2,7
+330,331,Kyrie Irving,2019-10-30,BRK,,IND,L,3rd,428,0,"Kyrie Irving misses 2-pt layup from 2 ft (BRK 77, IND 81)",2,2
+331,332,Kyrie Irving,2019-10-30,BRK,,IND,L,4th,242,1,"Kyrie Irving makes 2-pt jump shot from 9 ft (BRK 92, IND 101)",2,9
+332,333,Kyrie Irving,2019-10-30,BRK,,IND,L,4th,318,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 92, IND 103)",3,25
+333,334,Kyrie Irving,2019-10-30,BRK,,IND,L,4th,373,1,"Kyrie Irving makes 2-pt jump shot from 13 ft (BRK 94, IND 105)",2,13
+334,335,Kyrie Irving,2019-10-30,BRK,,IND,L,4th,421,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 96, IND 109)",3,26
+335,336,Kyrie Irving,2019-10-30,BRK,,IND,L,4th,467,1,"Kyrie Irving makes 2-pt layup from 2 ft (assist by Spencer Dinwiddie) (BRK 100, IND 112)",2,2
+336,337,Kyrie Irving,2019-10-30,BRK,,IND,L,4th,627,0,"Kyrie Irving misses 2-pt layup from 1 ft (BRK 105, IND 118)",2,1
+337,338,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,21,0,"Kyrie Irving misses 2-pt jump shot from 9 ft (BRK 0, MEM 0)",2,9
+338,339,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,102,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 3, MEM 5)",2,16
+339,340,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,247,1,"Kyrie Irving makes 2-pt layup at rim (BRK 10, MEM 15)",2,0
+340,341,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,351,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 15, MEM 19)",3,26
+341,342,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,374,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 17, MEM 22)",2,3
+342,343,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,404,1,"Kyrie Irving makes 2-pt layup from 1 ft (BRK 19, MEM 22)",2,1
+343,344,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,440,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 22, MEM 24)",3,26
+344,345,Kyrie Irving,2019-10-27,BRK,@,MEM,L,1st,720,0,"Kyrie Irving misses 3-pt jump shot from 38 ft (BRK 29, MEM 35)",3,38
+345,346,Kyrie Irving,2019-10-27,BRK,@,MEM,L,2nd,381,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 41, MEM 50)",3,27
+346,347,Kyrie Irving,2019-10-27,BRK,@,MEM,L,2nd,533,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (BRK 49, MEM 56)",2,15
+347,348,Kyrie Irving,2019-10-27,BRK,@,MEM,L,3rd,28,1,"Kyrie Irving makes 2-pt jump shot from 17 ft (BRK 59, MEM 61)",2,17
+348,349,Kyrie Irving,2019-10-27,BRK,@,MEM,L,3rd,112,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (block by Jae Crowder) (BRK 62, MEM 65)",2,11
+349,350,Kyrie Irving,2019-10-27,BRK,@,MEM,L,3rd,223,1,"Kyrie Irving makes 3-pt jump shot from 24 ft (assist by Taurean Waller-Prince) (BRK 71, MEM 65)",3,24
+350,351,Kyrie Irving,2019-10-27,BRK,@,MEM,L,3rd,245,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 71, MEM 65)",3,26
+351,352,Kyrie Irving,2019-10-27,BRK,@,MEM,L,3rd,251,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 71, MEM 65)",3,25
+352,353,Kyrie Irving,2019-10-27,BRK,@,MEM,L,3rd,309,1,"Kyrie Irving makes 3-pt jump shot from 23 ft (BRK 76, MEM 70)",3,23
+353,354,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,355,0,"Kyrie Irving misses 2-pt layup from 3 ft (block by Brandon Clarke) (BRK 108, MEM 105)",2,3
+354,355,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,372,0,"Kyrie Irving misses 3-pt jump shot from 24 ft (BRK 108, MEM 105)",3,24
+355,356,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,489,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Caris LeVert) (BRK 115, MEM 110)",2,1
+356,357,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,517,0,"Kyrie Irving misses 2-pt layup from 1 ft (block by Kyle Anderson) (BRK 115, MEM 110)",2,1
+357,358,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,520,1,"Kyrie Irving makes 3-pt jump shot from 23 ft (assist by Spencer Dinwiddie) (BRK 118, MEM 110)",3,23
+358,359,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,633,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 120, MEM 118)",3,26
+359,360,Kyrie Irving,2019-10-27,BRK,@,MEM,L,4th,720,0,"Kyrie Irving misses 2-pt jump shot from 17 ft (block by Ja Morant) (BRK 120, MEM 120)",2,17
+360,361,Kyrie Irving,2019-10-27,BRK,@,MEM,L,OT,475,1,"Kyrie Irving makes 2-pt layup from 5 ft (BRK 124, MEM 122)",2,5
+361,362,Kyrie Irving,2019-10-27,BRK,@,MEM,L,OT,531,0,"Kyrie Irving misses 2-pt layup from 1 ft (BRK 126, MEM 124)",2,1
+362,363,Kyrie Irving,2019-10-27,BRK,@,MEM,L,OT,637,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 128, MEM 128)",3,27
+363,364,Kyrie Irving,2019-10-27,BRK,@,MEM,L,OT,659,0,"Kyrie Irving misses 2-pt layup from 2 ft (block by Kyle Anderson) (BRK 128, MEM 131)",2,2
+364,365,Kyrie Irving,2019-10-25,BRK,,NYK,W,1st,92,0,"Kyrie Irving misses 3-pt jump shot from 23 ft (BRK 3, NYK 2)",3,23
+365,366,Kyrie Irving,2019-10-25,BRK,,NYK,W,1st,379,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (BRK 15, NYK 12)",2,15
+366,367,Kyrie Irving,2019-10-25,BRK,,NYK,W,2nd,432,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 51, NYK 35)",3,26
+367,368,Kyrie Irving,2019-10-25,BRK,,NYK,W,2nd,514,1,"Kyrie Irving makes 2-pt layup from 1 ft (BRK 53, NYK 41)",2,1
+368,369,Kyrie Irving,2019-10-25,BRK,,NYK,W,2nd,626,0,"Kyrie Irving misses 2-pt layup from 6 ft (BRK 56, NYK 46)",2,6
+369,370,Kyrie Irving,2019-10-25,BRK,,NYK,W,2nd,683,1,"Kyrie Irving makes 3-pt jump shot from 24 ft (assist by Garrett Temple) (BRK 62, NYK 51)",3,24
+370,371,Kyrie Irving,2019-10-25,BRK,,NYK,W,2nd,718,1,"Kyrie Irving makes 2-pt jump shot from 20 ft (BRK 64, NYK 51)",2,20
+371,372,Kyrie Irving,2019-10-25,BRK,,NYK,W,3rd,82,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (BRK 67, NYK 51)",2,15
+372,373,Kyrie Irving,2019-10-25,BRK,,NYK,W,3rd,194,0,"Kyrie Irving misses 2-pt layup from 3 ft (BRK 71, NYK 56)",2,3
+373,374,Kyrie Irving,2019-10-25,BRK,,NYK,W,3rd,355,0,"Kyrie Irving misses 3-pt jump shot from 28 ft (BRK 81, NYK 66)",3,28
+374,375,Kyrie Irving,2019-10-25,BRK,,NYK,W,3rd,437,0,"Kyrie Irving misses 2-pt jump shot from 8 ft (BRK 82, NYK 71)",2,8
+375,376,Kyrie Irving,2019-10-25,BRK,,NYK,W,3rd,495,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 87, NYK 71)",2,3
+376,377,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,260,1,"Kyrie Irving makes 2-pt jump shot from 17 ft (BRK 104, NYK 94)",2,17
+377,378,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,282,0,"Kyrie Irving misses 3-pt jump shot from 27 ft (BRK 104, NYK 94)",3,27
+378,379,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,419,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 104, NYK 101)",3,25
+379,380,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,444,0,"Kyrie Irving misses 3-pt jump shot from 26 ft (BRK 104, NYK 101)",3,26
+380,381,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,473,1,"Kyrie Irving makes 2-pt layup from 4 ft (BRK 106, NYK 104)",2,4
+381,382,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,661,1,"Kyrie Irving makes 2-pt jump shot from 21 ft (BRK 108, NYK 109)",2,21
+382,383,Kyrie Irving,2019-10-25,BRK,,NYK,W,4th,698,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 111, NYK 109)",3,26
+383,384,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,144,1,"Kyrie Irving makes 2-pt jump shot from 14 ft (BRK 5, MIN 4)",2,14
+384,385,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,192,0,"Kyrie Irving misses 3-pt jump shot from 23 ft (BRK 5, MIN 6)",3,23
+385,386,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,242,1,"Kyrie Irving makes 3-pt jump shot from 26 ft (BRK 10, MIN 8)",3,26
+386,387,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,313,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 12, MIN 13)",2,3
+387,388,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,375,0,"Kyrie Irving misses 2-pt jump shot from 16 ft (BRK 12, MIN 13)",2,16
+388,389,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,445,1,"Kyrie Irving makes 3-pt jump shot from 27 ft (BRK 17, MIN 18)",3,27
+389,390,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,475,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 19, MIN 20)",2,2
+390,391,Kyrie Irving,2019-10-23,BRK,,MIN,L,1st,494,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 19, MIN 20)",3,25
+391,392,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,235,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 30, MIN 46)",2,2
+392,393,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,260,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by DeAndre Jordan) (BRK 33, MIN 46)",3,25
+393,394,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,287,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 33, MIN 48)",3,25
+394,395,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,359,0,"Kyrie Irving misses 2-pt jump shot from 13 ft (BRK 35, MIN 50)",2,13
+395,396,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,444,1,"Kyrie Irving makes 2-pt layup from 2 ft (BRK 37, MIN 52)",2,2
+396,397,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,489,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Caris LeVert) (BRK 41, MIN 56)",2,1
+397,398,Kyrie Irving,2019-10-23,BRK,,MIN,L,2nd,690,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 53, MIN 66)",3,25
+398,399,Kyrie Irving,2019-10-23,BRK,,MIN,L,3rd,47,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (assist by Joe Harris) (BRK 62, MIN 68)",3,25
+399,400,Kyrie Irving,2019-10-23,BRK,,MIN,L,3rd,253,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 71, MIN 72)",3,25
+400,401,Kyrie Irving,2019-10-23,BRK,,MIN,L,3rd,312,1,"Kyrie Irving makes 2-pt jump shot from 15 ft (BRK 75, MIN 74)",2,15
+401,402,Kyrie Irving,2019-10-23,BRK,,MIN,L,3rd,403,0,"Kyrie Irving misses 2-pt jump shot from 12 ft (BRK 77, MIN 76)",2,12
+402,403,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,328,1,"Kyrie Irving makes 2-pt jump shot from 2 ft (BRK 100, MIN 101)",2,2
+403,404,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,397,0,"Kyrie Irving misses 2-pt layup from 3 ft (BRK 100, MIN 104)",2,3
+404,405,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,476,0,"Kyrie Irving misses 2-pt layup from 5 ft (BRK 102, MIN 104)",2,5
+405,406,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,495,1,"Kyrie Irving makes 2-pt layup from 1 ft (assist by Caris LeVert) (BRK 104, MIN 106)",2,1
+406,407,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,581,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 109, MIN 108)",3,25
+407,408,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,644,1,"Kyrie Irving makes 3-pt jump shot from 25 ft (BRK 115, MIN 112)",3,25
+408,409,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,666,0,"Kyrie Irving misses 2-pt jump shot from 11 ft (BRK 115, MIN 115)",2,11
+409,410,Kyrie Irving,2019-10-23,BRK,,MIN,L,4th,674,0,"Kyrie Irving misses 3-pt jump shot from 24 ft (BRK 115, MIN 115)",3,24
+410,411,Kyrie Irving,2019-10-23,BRK,,MIN,L,OT,458,1,"Kyrie Irving makes 2-pt layup from 3 ft (BRK 117, MIN 117)",2,3
+411,412,Kyrie Irving,2019-10-23,BRK,,MIN,L,OT,537,0,"Kyrie Irving misses 2-pt layup from 1 ft (BRK 118, MIN 120)",2,1
+412,413,Kyrie Irving,2019-10-23,BRK,,MIN,L,OT,572,0,"Kyrie Irving misses 3-pt jump shot from 25 ft (BRK 118, MIN 122)",3,25
+413,414,Kyrie Irving,2019-10-23,BRK,,MIN,L,OT,576,1,"Kyrie Irving makes 3-pt jump shot from 23 ft (assist by Taurean Waller-Prince) (BRK 121, MIN 122)",3,23
+414,415,Kyrie Irving,2019-10-23,BRK,,MIN,L,OT,652,0,"Kyrie Irving misses 2-pt layup at rim (BRK 124, MIN 125)",2,0
+415,416,Kyrie Irving,2019-10-23,BRK,,MIN,L,OT,720,0,"Kyrie Irving misses 2-pt jump shot from 15 ft (BRK 126, MIN 127)",2,15

@@ -1,0 +1,606 @@
+,Rk,Player,Date,Tm,Unnamed: 4,Opp,Unnamed: 6,Qtr,Time,Result,Description,point_amount,distance
+0,1,John Collins,2020-03-11,ATL,,NYK,L,1st,75,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 0, NYK 0)",3,26
+1,2,John Collins,2020-03-11,ATL,,NYK,L,1st,321,0,"John Collins misses 2-pt jump shot from 10 ft (ATL 6, NYK 16)",2,10
+2,3,John Collins,2020-03-11,ATL,,NYK,L,1st,480,0,"John Collins misses 2-pt jump shot from 18 ft (ATL 11, NYK 22)",2,18
+3,4,John Collins,2020-03-11,ATL,,NYK,L,2nd,242,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 28, NYK 43)",3,26
+4,5,John Collins,2020-03-11,ATL,,NYK,L,2nd,296,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 30, NYK 43)",2,1
+5,6,John Collins,2020-03-11,ATL,,NYK,L,2nd,356,0,"John Collins misses 2-pt jump shot from 11 ft (ATL 30, NYK 45)",2,11
+6,7,John Collins,2020-03-11,ATL,,NYK,L,2nd,488,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Dewayne Dedmon) (ATL 39, NYK 53)",3,26
+7,8,John Collins,2020-03-11,ATL,,NYK,L,2nd,653,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 45, NYK 63)",3,26
+8,9,John Collins,2020-03-11,ATL,,NYK,L,2nd,693,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 47, NYK 67)",2,1
+9,10,John Collins,2020-03-11,ATL,,NYK,L,3rd,27,0,"John Collins misses 2-pt layup from 4 ft (block by Taj Gibson) (ATL 50, NYK 67)",2,4
+10,11,John Collins,2020-03-11,ATL,,NYK,L,3rd,33,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 52, NYK 67)",2,1
+11,12,John Collins,2020-03-11,ATL,,NYK,L,3rd,58,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 52, NYK 67)",3,25
+12,13,John Collins,2020-03-11,ATL,,NYK,L,3rd,96,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 54, NYK 70)",2,0
+13,14,John Collins,2020-03-11,ATL,,NYK,L,3rd,175,0,"John Collins misses 2-pt dunk from 1 ft (block by Elfrid Payton) (ATL 58, NYK 72)",2,1
+14,15,John Collins,2020-03-11,ATL,,NYK,L,3rd,284,0,"John Collins misses 2-pt layup from 2 ft (ATL 60, NYK 80)",2,2
+15,16,John Collins,2020-03-11,ATL,,NYK,L,3rd,664,0,"John Collins misses 3-pt jump shot from 27 ft (ATL 73, NYK 93)",3,27
+16,17,John Collins,2020-03-11,ATL,,NYK,L,4th,168,1,"John Collins makes 2-pt layup from 12 ft (assist by Trae Young) (ATL 85, NYK 99)",2,12
+17,18,John Collins,2020-03-11,ATL,,NYK,L,4th,467,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 103, NYK 109)",2,1
+18,19,John Collins,2020-03-11,ATL,,NYK,L,4th,648,1,"John Collins makes 2-pt layup from 2 ft (ATL 113, NYK 116)",2,2
+19,20,John Collins,2020-03-11,ATL,,NYK,L,OT,656,1,"John Collins makes 2-pt layup from 5 ft (assist by Trae Young) (ATL 126, NYK 131)",2,5
+20,21,John Collins,2020-03-09,ATL,,CHO,W,1st,62,1,"John Collins makes 2-pt layup at rim (assist by Trae Young) (ATL 5, CHO 0)",2,0
+21,22,John Collins,2020-03-09,ATL,,CHO,W,1st,86,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 7, CHO 3)",2,1
+22,23,John Collins,2020-03-09,ATL,,CHO,W,1st,295,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 15, CHO 12)",2,2
+23,24,John Collins,2020-03-09,ATL,,CHO,W,1st,375,1,"John Collins makes 2-pt layup from 4 ft (assist by De'Andre Hunter) (ATL 20, CHO 14)",2,4
+24,25,John Collins,2020-03-09,ATL,,CHO,W,2nd,319,1,"John Collins makes 2-pt dunk from 1 ft (assist by Vince Carter) (ATL 50, CHO 48)",2,1
+25,26,John Collins,2020-03-09,ATL,,CHO,W,3rd,65,1,"John Collins makes 2-pt layup from 2 ft (ATL 71, CHO 65)",2,2
+26,27,John Collins,2020-03-09,ATL,,CHO,W,3rd,196,1,"John Collins makes 2-pt hook shot from 7 ft (assist by Kevin Huerter) (ATL 77, CHO 69)",2,7
+27,28,John Collins,2020-03-09,ATL,,CHO,W,3rd,267,1,"John Collins makes 2-pt layup from 4 ft (assist by Trae Young) (ATL 79, CHO 73)",2,4
+28,29,John Collins,2020-03-09,ATL,,CHO,W,3rd,355,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 81, CHO 75)",2,1
+29,30,John Collins,2020-03-09,ATL,,CHO,W,3rd,400,1,"John Collins makes 2-pt layup from 3 ft (ATL 83, CHO 77)",2,3
+30,31,John Collins,2020-03-09,ATL,,CHO,W,4th,700,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 121, CHO 120)",2,1
+31,32,John Collins,2020-03-09,ATL,,CHO,W,OT,668,0,"John Collins misses 2-pt layup from 2 ft (block by Bismack Biyombo) (ATL 129, CHO 131)",2,2
+32,33,John Collins,2020-03-09,ATL,,CHO,W,OT,668,1,"John Collins makes 2-pt layup from 2 ft (ATL 131, CHO 131)",2,2
+33,34,John Collins,2020-03-07,ATL,@,MEM,L,1st,60,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 5, MEM 2)",2,2
+34,35,John Collins,2020-03-07,ATL,@,MEM,L,1st,151,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 5, MEM 8)",3,25
+35,36,John Collins,2020-03-07,ATL,@,MEM,L,1st,270,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 8, MEM 16)",3,26
+36,37,John Collins,2020-03-07,ATL,@,MEM,L,1st,428,0,"John Collins misses 2-pt layup from 2 ft (block by Kyle Anderson) (ATL 9, MEM 24)",2,2
+37,38,John Collins,2020-03-07,ATL,@,MEM,L,2nd,35,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 20, MEM 38)",2,1
+38,39,John Collins,2020-03-07,ATL,@,MEM,L,2nd,59,0,"John Collins misses 2-pt layup from 2 ft (block by Josh Jackson) (ATL 20, MEM 38)",2,2
+39,40,John Collins,2020-03-07,ATL,@,MEM,L,2nd,280,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 26, MEM 47)",2,1
+40,41,John Collins,2020-03-07,ATL,@,MEM,L,2nd,558,0,"John Collins misses 2-pt layup from 2 ft (block by Jonas Valančiūnas) (ATL 34, MEM 58)",2,2
+41,42,John Collins,2020-03-07,ATL,@,MEM,L,2nd,688,1,"John Collins makes 3-pt jump shot from 29 ft (assist by Jeff Teague) (ATL 45, MEM 66)",3,29
+42,43,John Collins,2020-03-07,ATL,@,MEM,L,3rd,15,0,"John Collins misses 2-pt layup from 1 ft (ATL 45, MEM 66)",2,1
+43,44,John Collins,2020-03-07,ATL,@,MEM,L,3rd,64,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 52, MEM 66)",2,1
+44,45,John Collins,2020-03-07,ATL,@,MEM,L,3rd,415,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 65, MEM 87)",3,26
+45,46,John Collins,2020-03-07,ATL,@,MEM,L,3rd,512,0,"John Collins misses 2-pt layup from 7 ft (block by Jonas Valančiūnas) (ATL 68, MEM 89)",2,7
+46,47,John Collins,2020-03-07,ATL,@,MEM,L,4th,292,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 87, MEM 104)",2,1
+47,48,John Collins,2020-03-07,ATL,@,MEM,L,4th,310,1,"John Collins makes 2-pt dunk at rim (assist by Treveon Graham) (ATL 89, MEM 106)",2,0
+48,49,John Collins,2020-03-07,ATL,@,MEM,L,4th,451,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 95, MEM 111)",3,26
+49,50,John Collins,2020-03-06,ATL,@,WAS,L,1st,119,0,"John Collins misses 2-pt layup from 3 ft (block by Bradley Beal) (ATL 5, WAS 4)",2,3
+50,51,John Collins,2020-03-06,ATL,@,WAS,L,1st,256,1,"John Collins makes 2-pt dunk from 3 ft (assist by Jeff Teague) (ATL 10, WAS 10)",2,3
+51,52,John Collins,2020-03-06,ATL,@,WAS,L,2nd,480,1,"John Collins makes 2-pt dunk from 3 ft (ATL 55, WAS 51)",2,3
+52,53,John Collins,2020-03-06,ATL,@,WAS,L,3rd,119,1,"John Collins makes 2-pt dunk from 2 ft (assist by Kevin Huerter) (ATL 59, WAS 70)",2,2
+53,54,John Collins,2020-03-06,ATL,@,WAS,L,3rd,377,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 61, WAS 79)",3,25
+54,55,John Collins,2020-03-06,ATL,@,WAS,L,3rd,414,1,"John Collins makes 2-pt layup from 1 ft (assist by Cam Reddish) (ATL 65, WAS 79)",2,1
+55,56,John Collins,2020-03-06,ATL,@,WAS,L,3rd,467,0,"John Collins misses 2-pt hook shot from 3 ft (ATL 65, WAS 79)",2,3
+56,57,John Collins,2020-03-06,ATL,@,WAS,L,4th,52,1,"John Collins makes 2-pt hook shot from 5 ft (ATL 79, WAS 96)",2,5
+57,58,John Collins,2020-03-06,ATL,@,WAS,L,4th,131,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Jeff Teague) (ATL 85, WAS 96)",3,26
+58,59,John Collins,2020-03-06,ATL,@,WAS,L,4th,238,1,"John Collins makes 2-pt layup from 2 ft (assist by Kevin Huerter) (ATL 89, WAS 101)",2,2
+59,60,John Collins,2020-03-06,ATL,@,WAS,L,4th,447,0,"John Collins misses 3-pt jump shot from 27 ft (ATL 95, WAS 107)",3,27
+60,61,John Collins,2020-03-06,ATL,@,WAS,L,4th,456,0,"John Collins misses 2-pt layup from 3 ft (ATL 95, WAS 107)",2,3
+61,62,John Collins,2020-03-06,ATL,@,WAS,L,4th,532,1,"John Collins makes 2-pt dunk from 2 ft (assist by Jeff Teague) (ATL 100, WAS 107)",2,2
+62,63,John Collins,2020-03-06,ATL,@,WAS,L,4th,554,1,"John Collins makes 2-pt layup from 2 ft (assist by De'Andre Hunter) (ATL 102, WAS 107)",2,2
+63,64,John Collins,2020-03-06,ATL,@,WAS,L,4th,610,1,"John Collins makes 2-pt layup at rim (ATL 107, WAS 111)",2,0
+64,65,John Collins,2020-03-02,ATL,,MEM,L,1st,170,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 4, MEM 0)",2,1
+65,66,John Collins,2020-03-02,ATL,,MEM,L,1st,240,0,"John Collins misses 2-pt dunk from 2 ft (ATL 7, MEM 0)",2,2
+66,67,John Collins,2020-03-02,ATL,,MEM,L,1st,269,0,"John Collins misses 2-pt layup from 4 ft (block by Kyle Anderson) (ATL 7, MEM 2)",2,4
+67,68,John Collins,2020-03-02,ATL,,MEM,L,2nd,63,0,"John Collins misses 2-pt jump shot from 7 ft (ATL 25, MEM 24)",2,7
+68,69,John Collins,2020-03-02,ATL,,MEM,L,2nd,193,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 27, MEM 27)",3,25
+69,70,John Collins,2020-03-02,ATL,,MEM,L,2nd,387,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Treveon Graham) (ATL 33, MEM 41)",3,26
+70,71,John Collins,2020-03-02,ATL,,MEM,L,3rd,625,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 64, MEM 82)",3,26
+71,72,John Collins,2020-03-02,ATL,,MEM,L,4th,133,0,"John Collins misses 2-pt layup from 1 ft (block by Gorgui Dieng) (ATL 70, MEM 92)",2,1
+72,73,John Collins,2020-03-02,ATL,,MEM,L,4th,455,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 77, MEM 113)",2,1
+73,74,John Collins,2020-03-02,ATL,,MEM,L,4th,499,0,"John Collins misses 2-pt jump shot from 17 ft (ATL 77, MEM 114)",2,17
+74,75,John Collins,2020-03-02,ATL,,MEM,L,4th,527,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Kevin Huerter) (ATL 80, MEM 116)",3,25
+75,76,John Collins,2020-02-29,ATL,,POR,W,1st,142,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 4, POR 4)",2,1
+76,77,John Collins,2020-02-29,ATL,,POR,W,1st,408,0,"John Collins misses 2-pt layup from 4 ft (block by Hassan Whiteside) (ATL 11, POR 15)",2,4
+77,78,John Collins,2020-02-29,ATL,,POR,W,2nd,114,1,"John Collins makes 3-pt jump shot from 23 ft (assist by Kevin Huerter) (ATL 31, POR 36)",3,23
+78,79,John Collins,2020-02-29,ATL,,POR,W,2nd,356,0,"John Collins misses 2-pt jump shot from 15 ft (ATL 41, POR 44)",2,15
+79,80,John Collins,2020-02-29,ATL,,POR,W,2nd,464,0,"John Collins misses 2-pt dunk from 1 ft (ATL 46, POR 46)",2,1
+80,81,John Collins,2020-02-29,ATL,,POR,W,2nd,467,1,"John Collins makes 2-pt dunk from 1 ft (ATL 48, POR 46)",2,1
+81,82,John Collins,2020-02-29,ATL,,POR,W,3rd,118,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 70, POR 62)",2,1
+82,83,John Collins,2020-02-29,ATL,,POR,W,3rd,210,1,"John Collins makes 2-pt layup at rim (ATL 75, POR 65)",2,0
+83,84,John Collins,2020-02-29,ATL,,POR,W,3rd,247,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 77, POR 67)",2,2
+84,85,John Collins,2020-02-29,ATL,,POR,W,3rd,269,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 82, POR 69)",3,26
+85,86,John Collins,2020-02-29,ATL,,POR,W,3rd,690,1,"John Collins makes 2-pt hook shot from 6 ft (assist by Kevin Huerter) (ATL 107, POR 88)",2,6
+86,87,John Collins,2020-02-29,ATL,,POR,W,4th,207,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 114, POR 94)",3,26
+87,88,John Collins,2020-02-29,ATL,,POR,W,4th,535,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 129, POR 113)",3,26
+88,89,John Collins,2020-02-29,ATL,,POR,W,4th,663,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 129, POR 117)",3,26
+89,90,John Collins,2020-02-28,ATL,,BRK,W,1st,64,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 3, BRK 4)",3,26
+90,91,John Collins,2020-02-28,ATL,,BRK,W,1st,111,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 7, BRK 6)",2,0
+91,92,John Collins,2020-02-28,ATL,,BRK,W,1st,159,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 10, BRK 8)",3,26
+92,93,John Collins,2020-02-28,ATL,,BRK,W,1st,279,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 14, BRK 14)",2,1
+93,94,John Collins,2020-02-28,ATL,,BRK,W,1st,324,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 16, BRK 17)",2,1
+94,95,John Collins,2020-02-28,ATL,,BRK,W,1st,486,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 18, BRK 29)",2,2
+95,96,John Collins,2020-02-28,ATL,,BRK,W,2nd,278,1,"John Collins makes 2-pt jump shot from 8 ft (ATL 40, BRK 43)",2,8
+96,97,John Collins,2020-02-28,ATL,,BRK,W,2nd,342,1,"John Collins makes 2-pt jump shot from 9 ft (assist by Trae Young) (ATL 44, BRK 48)",2,9
+97,98,John Collins,2020-02-28,ATL,,BRK,W,2nd,368,0,"John Collins misses 2-pt jump shot from 15 ft (ATL 44, BRK 48)",2,15
+98,99,John Collins,2020-02-28,ATL,,BRK,W,2nd,539,1,"John Collins makes 2-pt layup at rim (ATL 59, BRK 53)",2,0
+99,100,John Collins,2020-02-28,ATL,,BRK,W,3rd,264,0,"John Collins misses 2-pt layup at rim (block by Jarrett Allen) (ATL 86, BRK 72)",2,0
+100,101,John Collins,2020-02-28,ATL,,BRK,W,3rd,302,0,"John Collins misses 2-pt layup from 3 ft (ATL 86, BRK 74)",2,3
+101,102,John Collins,2020-02-28,ATL,,BRK,W,3rd,643,1,"John Collins makes 3-pt jump shot from 24 ft (assist by Jeff Teague) (ATL 107, BRK 94)",3,24
+102,103,John Collins,2020-02-28,ATL,,BRK,W,4th,65,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 108, BRK 100)",3,26
+103,104,John Collins,2020-02-28,ATL,,BRK,W,4th,471,1,"John Collins makes 2-pt dunk from 1 ft (ATL 124, BRK 111)",2,1
+104,105,John Collins,2020-02-26,ATL,,ORL,L,1st,195,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 6, ORL 4)",2,1
+105,106,John Collins,2020-02-26,ATL,,ORL,L,1st,265,1,"John Collins makes 2-pt jump shot from 6 ft (assist by Trae Young) (ATL 9, ORL 6)",2,6
+106,107,John Collins,2020-02-26,ATL,,ORL,L,1st,400,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 14, ORL 10)",3,26
+107,108,John Collins,2020-02-26,ATL,,ORL,L,1st,445,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Kevin Huerter) (ATL 17, ORL 12)",3,25
+108,109,John Collins,2020-02-26,ATL,,ORL,L,2nd,225,0,"John Collins misses 2-pt dunk from 3 ft (block by Mohamed Bamba) (ATL 35, ORL 36)",2,3
+109,110,John Collins,2020-02-26,ATL,,ORL,L,2nd,275,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 35, ORL 42)",3,26
+110,111,John Collins,2020-02-26,ATL,,ORL,L,2nd,308,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 37, ORL 42)",2,1
+111,112,John Collins,2020-02-26,ATL,,ORL,L,2nd,663,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Trae Young) (ATL 62, ORL 62)",3,25
+112,113,John Collins,2020-02-26,ATL,,ORL,L,3rd,94,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 73, ORL 66)",3,26
+113,114,John Collins,2020-02-26,ATL,,ORL,L,3rd,119,0,"John Collins misses 2-pt layup from 1 ft (ATL 73, ORL 66)",2,1
+114,115,John Collins,2020-02-26,ATL,,ORL,L,3rd,291,0,"John Collins misses 2-pt layup from 1 ft (block by Aaron Gordon) (ATL 75, ORL 76)",2,1
+115,116,John Collins,2020-02-26,ATL,,ORL,L,3rd,307,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 77, ORL 79)",2,1
+116,117,John Collins,2020-02-26,ATL,,ORL,L,3rd,344,1,"John Collins makes 2-pt layup from 1 ft (ATL 79, ORL 82)",2,1
+117,118,John Collins,2020-02-26,ATL,,ORL,L,3rd,400,1,"John Collins makes 2-pt dunk from 1 ft (assist by Jeff Teague) (ATL 81, ORL 84)",2,1
+118,119,John Collins,2020-02-26,ATL,,ORL,L,3rd,562,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 86, ORL 97)",2,1
+119,120,John Collins,2020-02-26,ATL,,ORL,L,4th,416,0,"John Collins misses 2-pt hook shot from 9 ft (block by Nikola Vučević) (ATL 109, ORL 115)",2,9
+120,121,John Collins,2020-02-26,ATL,,ORL,L,4th,457,0,"John Collins misses 2-pt jump shot from 13 ft (ATL 109, ORL 120)",2,13
+121,122,John Collins,2020-02-26,ATL,,ORL,L,4th,508,0,"John Collins misses 2-pt layup from 2 ft (block by Aaron Gordon) (ATL 112, ORL 120)",2,2
+122,123,John Collins,2020-02-26,ATL,,ORL,L,4th,679,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 120, ORL 128)",2,1
+123,124,John Collins,2020-02-24,ATL,@,PHI,L,1st,105,0,"John Collins misses 2-pt jump shot from 16 ft (ATL 5, PHI 3)",2,16
+124,125,John Collins,2020-02-24,ATL,@,PHI,L,1st,362,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 11, PHI 24)",3,26
+125,126,John Collins,2020-02-24,ATL,@,PHI,L,1st,439,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 16, PHI 27)",3,26
+126,127,John Collins,2020-02-24,ATL,@,PHI,L,2nd,132,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 29, PHI 46)",2,1
+127,128,John Collins,2020-02-24,ATL,@,PHI,L,2nd,162,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 31, PHI 48)",2,1
+128,129,John Collins,2020-02-24,ATL,@,PHI,L,2nd,222,0,"John Collins misses 2-pt dunk from 2 ft (ATL 31, PHI 48)",2,2
+129,130,John Collins,2020-02-24,ATL,@,PHI,L,3rd,52,1,"John Collins makes 3-pt jump shot from 26 ft (assist by De'Andre Hunter) (ATL 55, PHI 69)",3,26
+130,131,John Collins,2020-02-24,ATL,@,PHI,L,3rd,172,0,"John Collins misses 2-pt layup from 2 ft (ATL 59, PHI 72)",2,2
+131,132,John Collins,2020-02-24,ATL,@,PHI,L,3rd,177,1,"John Collins makes 2-pt layup at rim (ATL 61, PHI 72)",2,0
+132,133,John Collins,2020-02-24,ATL,@,PHI,L,3rd,208,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 63, PHI 74)",2,1
+133,134,John Collins,2020-02-24,ATL,@,PHI,L,3rd,263,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 65, PHI 76)",3,26
+134,135,John Collins,2020-02-24,ATL,@,PHI,L,3rd,537,1,"John Collins makes 2-pt layup from 5 ft (assist by Kevin Huerter) (ATL 79, PHI 84)",2,5
+135,136,John Collins,2020-02-24,ATL,@,PHI,L,3rd,638,1,"John Collins makes 2-pt jump shot from 4 ft (ATL 83, PHI 89)",2,4
+136,137,John Collins,2020-02-24,ATL,@,PHI,L,4th,314,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 100, PHI 107)",3,26
+137,138,John Collins,2020-02-24,ATL,@,PHI,L,4th,466,0,"John Collins misses 2-pt layup from 3 ft (block by Tobias Harris) (ATL 102, PHI 113)",2,3
+138,139,John Collins,2020-02-24,ATL,@,PHI,L,4th,637,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 110, PHI 124)",2,1
+139,140,John Collins,2020-02-22,ATL,,DAL,W,1st,42,1,"John Collins makes 3-pt jump shot from 27 ft (assist by Trae Young) (ATL 3, DAL 4)",3,27
+140,141,John Collins,2020-02-22,ATL,,DAL,W,1st,69,0,"John Collins misses 2-pt jump shot from 9 ft (ATL 3, DAL 4)",2,9
+141,142,John Collins,2020-02-22,ATL,,DAL,W,1st,113,1,"John Collins makes 2-pt layup from 1 ft (assist by Dewayne Dedmon) (ATL 5, DAL 7)",2,1
+142,143,John Collins,2020-02-22,ATL,,DAL,W,1st,195,0,"John Collins misses 2-pt layup from 2 ft (block by Maxi Kleber) (ATL 5, DAL 13)",2,2
+143,144,John Collins,2020-02-22,ATL,,DAL,W,1st,326,0,"John Collins misses 2-pt layup from 7 ft (ATL 9, DAL 16)",2,7
+144,145,John Collins,2020-02-22,ATL,,DAL,W,1st,329,0,"John Collins misses 2-pt layup from 2 ft (ATL 9, DAL 16)",2,2
+145,146,John Collins,2020-02-22,ATL,,DAL,W,1st,355,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 13, DAL 18)",2,1
+146,147,John Collins,2020-02-22,ATL,,DAL,W,2nd,21,1,"John Collins makes 3-pt jump shot from 27 ft (assist by Bruno Fernando) (ATL 24, DAL 35)",3,27
+147,148,John Collins,2020-02-22,ATL,,DAL,W,2nd,45,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Trae Young) (ATL 27, DAL 36)",3,25
+148,149,John Collins,2020-02-22,ATL,,DAL,W,2nd,234,0,"John Collins misses 2-pt layup from 4 ft (ATL 35, DAL 49)",2,4
+149,150,John Collins,2020-02-22,ATL,,DAL,W,2nd,253,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 37, DAL 51)",2,1
+150,151,John Collins,2020-02-22,ATL,,DAL,W,2nd,320,1,"John Collins makes 2-pt layup from 3 ft (assist by Kevin Huerter) (ATL 41, DAL 54)",2,3
+151,152,John Collins,2020-02-22,ATL,,DAL,W,2nd,444,1,"John Collins makes 2-pt layup from 4 ft (assist by Trae Young) (ATL 48, DAL 59)",2,4
+152,153,John Collins,2020-02-22,ATL,,DAL,W,3rd,174,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 64, DAL 68)",2,1
+153,154,John Collins,2020-02-22,ATL,,DAL,W,3rd,589,1,"John Collins makes 2-pt layup from 4 ft (assist by Brandon Goodwin) (ATL 75, DAL 86)",2,4
+154,155,John Collins,2020-02-22,ATL,,DAL,W,4th,261,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 88, DAL 92)",2,2
+155,156,John Collins,2020-02-22,ATL,,DAL,W,4th,287,1,"John Collins makes 2-pt dunk from 2 ft (assist by Kevin Huerter) (ATL 90, DAL 92)",2,2
+156,157,John Collins,2020-02-22,ATL,,DAL,W,4th,712,1,"John Collins makes 2-pt layup at rim (ATL 111, DAL 107)",2,0
+157,158,John Collins,2020-02-20,ATL,,MIA,W,1st,180,1,"John Collins makes 2-pt jump shot from 5 ft (assist by Trae Young) (ATL 6, MIA 11)",2,5
+158,159,John Collins,2020-02-20,ATL,,MIA,W,1st,382,1,"John Collins makes 2-pt layup from 2 ft (assist by Kevin Huerter) (ATL 16, MIA 19)",2,2
+159,160,John Collins,2020-02-20,ATL,,MIA,W,1st,433,1,"John Collins makes 2-pt jump shot from 17 ft (assist by Jeff Teague) (ATL 20, MIA 21)",2,17
+160,161,John Collins,2020-02-20,ATL,,MIA,W,2nd,246,0,"John Collins misses 2-pt jump shot from 10 ft (block by Andre Iguodala) (ATL 42, MIA 41)",2,10
+161,162,John Collins,2020-02-20,ATL,,MIA,W,3rd,154,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 71, MIA 70)",2,2
+162,163,John Collins,2020-02-20,ATL,,MIA,W,3rd,231,0,"John Collins misses 2-pt layup from 1 ft (ATL 71, MIA 72)",2,1
+163,164,John Collins,2020-02-20,ATL,,MIA,W,4th,386,0,"John Collins misses 2-pt hook shot from 8 ft (ATL 110, MIA 113)",2,8
+164,165,John Collins,2020-02-20,ATL,,MIA,W,4th,497,0,"John Collins misses 2-pt layup from 3 ft (block by Andre Iguodala) (ATL 116, MIA 117)",2,3
+165,166,John Collins,2020-02-20,ATL,,MIA,W,4th,629,1,"John Collins makes 2-pt dunk at rim (ATL 121, MIA 124)",2,0
+166,167,John Collins,2020-02-12,ATL,@,CLE,L,1st,32,0,"John Collins misses 2-pt layup from 3 ft (block by Andre Drummond) (ATL 0, CLE 0)",2,3
+167,168,John Collins,2020-02-12,ATL,@,CLE,L,1st,248,1,"John Collins makes 2-pt dunk from 3 ft (assist by Trae Young) (ATL 5, CLE 6)",2,3
+168,169,John Collins,2020-02-12,ATL,@,CLE,L,1st,451,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 13, CLE 17)",2,0
+169,170,John Collins,2020-02-12,ATL,@,CLE,L,1st,482,0,"John Collins misses 3-pt jump shot from 27 ft (ATL 13, CLE 19)",3,27
+170,171,John Collins,2020-02-12,ATL,@,CLE,L,1st,525,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 16, CLE 21)",2,1
+171,172,John Collins,2020-02-12,ATL,@,CLE,L,2nd,154,0,"John Collins misses 2-pt jump shot from 7 ft (ATL 24, CLE 37)",2,7
+172,173,John Collins,2020-02-12,ATL,@,CLE,L,2nd,280,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 34, CLE 45)",2,1
+173,174,John Collins,2020-02-12,ATL,@,CLE,L,2nd,357,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 37, CLE 51)",2,1
+174,175,John Collins,2020-02-12,ATL,@,CLE,L,3rd,506,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 71, CLE 89)",2,0
+175,176,John Collins,2020-02-12,ATL,@,CLE,L,4th,160,1,"John Collins makes 3-pt jump shot from 24 ft (assist by De'Andre Hunter) (ATL 86, CLE 102)",3,24
+176,177,John Collins,2020-02-12,ATL,@,CLE,L,4th,222,1,"John Collins makes 2-pt dunk from 1 ft (assist by De'Andre Hunter) (ATL 90, CLE 102)",2,1
+177,178,John Collins,2020-02-12,ATL,@,CLE,L,4th,246,1,"John Collins makes 2-pt dunk at rim (assist by Dewayne Dedmon) (ATL 92, CLE 104)",2,0
+178,179,John Collins,2020-02-10,ATL,@,ORL,L,1st,215,0,"John Collins misses 3-pt jump shot from 27 ft (ATL 6, ORL 8)",3,27
+179,180,John Collins,2020-02-10,ATL,@,ORL,L,1st,240,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 6, ORL 8)",3,25
+180,181,John Collins,2020-02-10,ATL,@,ORL,L,1st,263,1,"John Collins makes 2-pt layup from 2 ft (ATL 8, ORL 8)",2,2
+181,182,John Collins,2020-02-10,ATL,@,ORL,L,2nd,406,1,"John Collins makes 2-pt layup from 4 ft (ATL 44, ORL 43)",2,4
+182,183,John Collins,2020-02-10,ATL,@,ORL,L,3rd,137,1,"John Collins makes 2-pt dunk from 3 ft (assist by Trae Young) (ATL 65, ORL 63)",2,3
+183,184,John Collins,2020-02-10,ATL,@,ORL,L,3rd,382,1,"John Collins makes 2-pt jump shot from 5 ft (assist by Trae Young) (ATL 75, ORL 79)",2,5
+184,185,John Collins,2020-02-10,ATL,@,ORL,L,3rd,654,1,"John Collins makes 2-pt layup from 2 ft (assist by Jeff Teague) (ATL 92, ORL 89)",2,2
+185,186,John Collins,2020-02-10,ATL,@,ORL,L,3rd,712,0,"John Collins misses 2-pt layup from 2 ft (block by Mohamed Bamba) (ATL 96, ORL 92)",2,2
+186,187,John Collins,2020-02-10,ATL,@,ORL,L,4th,51,1,"John Collins makes 2-pt jump shot from 10 ft (assist by Jeff Teague) (ATL 101, ORL 95)",2,10
+187,188,John Collins,2020-02-10,ATL,@,ORL,L,4th,531,1,"John Collins makes 2-pt layup from 3 ft (assist by Kevin Huerter) (ATL 117, ORL 127)",2,3
+188,189,John Collins,2020-02-10,ATL,@,ORL,L,4th,559,1,"John Collins makes 3-pt jump shot from 24 ft (assist by Trae Young) (ATL 120, ORL 127)",3,24
+189,190,John Collins,2020-02-10,ATL,@,ORL,L,4th,667,1,"John Collins makes 2-pt layup from 3 ft (assist by Trae Young) (ATL 124, ORL 131)",2,3
+190,191,John Collins,2020-02-10,ATL,@,ORL,L,4th,689,1,"John Collins makes 2-pt dunk from 1 ft (ATL 126, ORL 131)",2,1
+191,192,John Collins,2020-02-10,ATL,@,ORL,L,4th,697,0,"John Collins misses 2-pt layup from 1 ft (ATL 126, ORL 133)",2,1
+192,193,John Collins,2020-02-09,ATL,,NYK,W,1st,58,0,"John Collins misses 2-pt layup from 3 ft (ATL 2, NYK 2)",2,3
+193,194,John Collins,2020-02-09,ATL,,NYK,W,1st,62,0,"John Collins misses 2-pt dunk from 1 ft (ATL 2, NYK 2)",2,1
+194,195,John Collins,2020-02-09,ATL,,NYK,W,1st,157,1,"John Collins makes 2-pt layup from 4 ft (assist by Kevin Huerter) (ATL 9, NYK 4)",2,4
+195,196,John Collins,2020-02-09,ATL,,NYK,W,1st,501,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 15, NYK 23)",2,1
+196,197,John Collins,2020-02-09,ATL,,NYK,W,1st,526,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 15, NYK 23)",3,26
+197,198,John Collins,2020-02-09,ATL,,NYK,W,2nd,45,1,"John Collins makes 2-pt jump shot from 12 ft (assist by De'Andre Hunter) (ATL 22, NYK 33)",2,12
+198,199,John Collins,2020-02-09,ATL,,NYK,W,2nd,175,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 31, NYK 39)",3,26
+199,200,John Collins,2020-02-09,ATL,,NYK,W,2nd,208,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 33, NYK 39)",2,1
+200,201,John Collins,2020-02-09,ATL,,NYK,W,2nd,239,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 36, NYK 41)",2,1
+201,202,John Collins,2020-02-09,ATL,,NYK,W,3rd,47,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 63, NYK 63)",2,2
+202,203,John Collins,2020-02-09,ATL,,NYK,W,3rd,83,1,"John Collins makes 2-pt jump shot from 22 ft (assist by Kevin Huerter) (ATL 65, NYK 63)",2,22
+203,204,John Collins,2020-02-09,ATL,,NYK,W,3rd,368,1,"John Collins makes 2-pt layup from 2 ft (assist by Kevin Huerter) (ATL 83, NYK 71)",2,2
+204,205,John Collins,2020-02-09,ATL,,NYK,W,3rd,682,0,"John Collins misses 2-pt layup from 3 ft (ATL 92, NYK 80)",2,3
+205,206,John Collins,2020-02-09,ATL,,NYK,W,4th,270,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 109, NYK 99)",2,1
+206,207,John Collins,2020-02-09,ATL,,NYK,W,4th,622,0,"John Collins misses 2-pt hook shot from 8 ft (ATL 116, NYK 112)",2,8
+207,208,John Collins,2020-02-09,ATL,,NYK,W,OT,460,1,"John Collins makes 2-pt layup from 2 ft (assist by Kevin Huerter) (ATL 118, NYK 118)",2,2
+208,209,John Collins,2020-02-09,ATL,,NYK,W,OT,559,0,"John Collins misses 3-pt jump shot from 26 ft (block by Mitchell Robinson) (ATL 118, NYK 123)",3,26
+209,210,John Collins,2020-02-09,ATL,,NYK,W,OT,622,0,"John Collins misses 2-pt layup at rim (ATL 118, NYK 126)",2,0
+210,211,John Collins,2020-02-09,ATL,,NYK,W,OT,688,1,"John Collins makes 2-pt layup at rim (ATL 124, NYK 126)",2,0
+211,212,John Collins,2020-02-07,ATL,@,BOS,L,1st,137,1,"John Collins makes 2-pt jump shot from 14 ft (assist by Kevin Huerter) (ATL 3, BOS 11)",2,14
+212,213,John Collins,2020-02-07,ATL,@,BOS,L,1st,228,0,"John Collins misses 2-pt jump shot from 18 ft (ATL 5, BOS 15)",2,18
+213,214,John Collins,2020-02-07,ATL,@,BOS,L,1st,256,1,"John Collins makes 2-pt dunk at rim (ATL 7, BOS 18)",2,0
+214,215,John Collins,2020-02-07,ATL,@,BOS,L,1st,363,1,"John Collins makes 2-pt layup from 1 ft (ATL 12, BOS 24)",2,1
+215,216,John Collins,2020-02-07,ATL,@,BOS,L,1st,651,0,"John Collins misses 2-pt layup from 5 ft (ATL 22, BOS 26)",2,5
+216,217,John Collins,2020-02-07,ATL,@,BOS,L,2nd,36,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 26, BOS 30)",3,23
+217,218,John Collins,2020-02-07,ATL,@,BOS,L,2nd,241,0,"John Collins misses 2-pt jump shot from 16 ft (ATL 35, BOS 33)",2,16
+218,219,John Collins,2020-02-07,ATL,@,BOS,L,2nd,398,0,"John Collins misses 2-pt hook shot from 3 ft (ATL 35, BOS 43)",2,3
+219,220,John Collins,2020-02-07,ATL,@,BOS,L,2nd,462,0,"John Collins misses 2-pt layup from 3 ft (block by Romeo Langford) (ATL 40, BOS 43)",2,3
+220,221,John Collins,2020-02-07,ATL,@,BOS,L,2nd,608,1,"John Collins makes 2-pt hook shot from 4 ft (assist by Brandon Goodwin) (ATL 48, BOS 47)",2,4
+221,222,John Collins,2020-02-07,ATL,@,BOS,L,2nd,636,1,"John Collins makes 3-pt jump shot from 28 ft (assist by Brandon Goodwin) (ATL 51, BOS 49)",3,28
+222,223,John Collins,2020-02-07,ATL,@,BOS,L,3rd,101,1,"John Collins makes 2-pt jump shot from 7 ft (ATL 57, BOS 57)",2,7
+223,224,John Collins,2020-02-07,ATL,@,BOS,L,3rd,171,1,"John Collins makes 2-pt layup from 1 ft (assist by Damian Jones) (ATL 59, BOS 60)",2,1
+224,225,John Collins,2020-02-07,ATL,@,BOS,L,3rd,261,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 62, BOS 63)",3,26
+225,226,John Collins,2020-02-07,ATL,@,BOS,L,3rd,349,1,"John Collins makes 2-pt layup from 5 ft (assist by Kevin Huerter) (ATL 64, BOS 67)",2,5
+226,227,John Collins,2020-02-07,ATL,@,BOS,L,4th,34,0,"John Collins misses 2-pt dunk from 2 ft (ATL 73, BOS 89)",2,2
+227,228,John Collins,2020-02-07,ATL,@,BOS,L,4th,118,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 80, BOS 89)",3,25
+228,229,John Collins,2020-02-07,ATL,@,BOS,L,4th,553,1,"John Collins makes 2-pt layup from 1 ft (ATL 96, BOS 101)",2,1
+229,230,John Collins,2020-02-07,ATL,@,BOS,L,4th,679,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 107, BOS 110)",2,1
+230,231,John Collins,2020-02-05,ATL,@,MIN,W,1st,51,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 4, MIN 1)",2,1
+231,232,John Collins,2020-02-05,ATL,@,MIN,W,1st,78,1,"John Collins makes 2-pt hook shot from 5 ft (assist by De'Andre Hunter) (ATL 6, MIN 1)",2,5
+232,233,John Collins,2020-02-05,ATL,@,MIN,W,1st,328,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 18, MIN 11)",2,0
+233,234,John Collins,2020-02-05,ATL,@,MIN,W,1st,482,1,"John Collins makes 2-pt dunk from 3 ft (assist by Trae Young) (ATL 24, MIN 20)",2,3
+234,235,John Collins,2020-02-05,ATL,@,MIN,W,2nd,37,0,"John Collins misses 2-pt jump shot from 12 ft (ATL 36, MIN 26)",2,12
+235,236,John Collins,2020-02-05,ATL,@,MIN,W,2nd,156,1,"John Collins makes 3-pt jump shot from 25 ft (assist by De'Andre Hunter) (ATL 43, MIN 28)",3,25
+236,237,John Collins,2020-02-05,ATL,@,MIN,W,2nd,343,1,"John Collins makes 2-pt dunk from 2 ft (assist by Trae Young) (ATL 51, MIN 40)",2,2
+237,238,John Collins,2020-02-05,ATL,@,MIN,W,2nd,494,0,"John Collins misses 2-pt layup from 5 ft (ATL 55, MIN 44)",2,5
+238,239,John Collins,2020-02-05,ATL,@,MIN,W,2nd,565,0,"John Collins misses 2-pt dunk from 6 ft (block by Naz Reid) (ATL 55, MIN 46)",2,6
+239,240,John Collins,2020-02-05,ATL,@,MIN,W,2nd,609,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 60, MIN 49)",2,1
+240,241,John Collins,2020-02-05,ATL,@,MIN,W,2nd,645,0,"John Collins misses 2-pt layup from 4 ft (block by Naz Reid) (ATL 60, MIN 52)",2,4
+241,242,John Collins,2020-02-05,ATL,@,MIN,W,3rd,64,0,"John Collins misses 3-pt jump shot from 24 ft (ATL 66, MIN 58)",3,24
+242,243,John Collins,2020-02-05,ATL,@,MIN,W,3rd,216,1,"John Collins makes 2-pt layup at rim (ATL 77, MIN 62)",2,0
+243,244,John Collins,2020-02-05,ATL,@,MIN,W,3rd,242,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 79, MIN 62)",2,1
+244,245,John Collins,2020-02-05,ATL,@,MIN,W,3rd,449,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 88, MIN 67)",3,26
+245,246,John Collins,2020-02-05,ATL,@,MIN,W,4th,126,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Trae Young) (ATL 103, MIN 86)",3,25
+246,247,John Collins,2020-02-05,ATL,@,MIN,W,4th,333,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 112, MIN 95)",2,1
+247,248,John Collins,2020-02-05,ATL,@,MIN,W,4th,401,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 115, MIN 100)",3,23
+248,249,John Collins,2020-02-05,ATL,@,MIN,W,4th,511,0,"John Collins misses 2-pt dunk from 3 ft (ATL 120, MIN 107)",2,3
+249,250,John Collins,2020-02-03,ATL,,BOS,L,1st,132,1,"John Collins makes 2-pt layup from 2 ft (assist by Jeff Teague) (ATL 5, BOS 5)",2,2
+250,251,John Collins,2020-02-03,ATL,,BOS,L,1st,416,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 20, BOS 18)",2,1
+251,252,John Collins,2020-02-03,ATL,,BOS,L,2nd,264,0,"John Collins misses 2-pt layup from 5 ft (ATL 45, BOS 44)",2,5
+252,253,John Collins,2020-02-03,ATL,,BOS,L,2nd,312,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 48, BOS 47)",3,26
+253,254,John Collins,2020-02-03,ATL,,BOS,L,2nd,709,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 59, BOS 58)",2,1
+254,255,John Collins,2020-02-03,ATL,,BOS,L,2nd,720,1,"John Collins makes 3-pt jump shot from 28 ft (assist by Kevin Huerter) (ATL 62, BOS 60)",3,28
+255,256,John Collins,2020-02-03,ATL,,BOS,L,3rd,130,1,"John Collins makes 2-pt jump shot from 15 ft (ATL 66, BOS 69)",2,15
+256,257,John Collins,2020-02-03,ATL,,BOS,L,3rd,199,1,"John Collins makes 2-pt layup from 1 ft (ATL 68, BOS 74)",2,1
+257,258,John Collins,2020-02-03,ATL,,BOS,L,3rd,685,1,"John Collins makes 2-pt layup from 6 ft (assist by Brandon Goodwin) (ATL 84, BOS 95)",2,6
+258,259,John Collins,2020-02-03,ATL,,BOS,L,4th,176,0,"John Collins misses 2-pt layup from 2 ft (block by Semi Ojeleye) (ATL 91, BOS 99)",2,2
+259,260,John Collins,2020-02-03,ATL,,BOS,L,4th,582,1,"John Collins makes 2-pt hook shot from 7 ft (assist by Evan Turner) (ATL 109, BOS 115)",2,7
+260,261,John Collins,2020-02-03,ATL,,BOS,L,4th,636,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 113, BOS 117)",2,1
+261,262,John Collins,2020-02-01,ATL,@,DAL,L,1st,109,1,"John Collins makes 2-pt layup from 3 ft (assist by Kevin Huerter) (ATL 7, DAL 0)",2,3
+262,263,John Collins,2020-02-01,ATL,@,DAL,L,1st,234,0,"John Collins misses 2-pt jump shot from 5 ft (ATL 15, DAL 5)",2,5
+263,264,John Collins,2020-02-01,ATL,@,DAL,L,1st,370,0,"John Collins misses 2-pt layup from 5 ft (block by Maxi Kleber) (ATL 17, DAL 17)",2,5
+264,265,John Collins,2020-02-01,ATL,@,DAL,L,1st,424,0,"John Collins misses 2-pt dunk from 1 ft (block by Willie Cauley-Stein) (ATL 17, DAL 19)",2,1
+265,266,John Collins,2020-02-01,ATL,@,DAL,L,1st,522,1,"John Collins makes 2-pt dunk at rim (ATL 19, DAL 23)",2,0
+266,267,John Collins,2020-02-01,ATL,@,DAL,L,2nd,351,1,"John Collins makes 3-pt jump shot from 24 ft (assist by Brandon Goodwin) (ATL 36, DAL 48)",3,24
+267,268,John Collins,2020-02-01,ATL,@,DAL,L,2nd,463,1,"John Collins makes 2-pt layup from 3 ft (assist by Kevin Huerter) (ATL 41, DAL 55)",2,3
+268,269,John Collins,2020-02-01,ATL,@,DAL,L,2nd,521,0,"John Collins misses 2-pt hook shot from 4 ft (ATL 41, DAL 55)",2,4
+269,270,John Collins,2020-02-01,ATL,@,DAL,L,2nd,618,1,"John Collins makes 2-pt dunk from 2 ft (assist by Kevin Huerter) (ATL 45, DAL 57)",2,2
+270,271,John Collins,2020-02-01,ATL,@,DAL,L,2nd,705,0,"John Collins misses 2-pt layup from 3 ft (block by Maxi Kleber) (ATL 47, DAL 59)",2,3
+271,272,John Collins,2020-02-01,ATL,@,DAL,L,2nd,720,0,"John Collins misses 3-pt jump shot from 44 ft (ATL 49, DAL 62)",3,44
+272,273,John Collins,2020-02-01,ATL,@,DAL,L,3rd,25,0,"John Collins misses 2-pt jump shot from 16 ft (block by Maxi Kleber) (ATL 49, DAL 62)",2,16
+273,274,John Collins,2020-02-01,ATL,@,DAL,L,3rd,87,1,"John Collins makes 2-pt layup from 1 ft (ATL 51, DAL 65)",2,1
+274,275,John Collins,2020-02-01,ATL,@,DAL,L,3rd,224,0,"John Collins misses 2-pt layup from 4 ft (ATL 56, DAL 72)",2,4
+275,276,John Collins,2020-02-01,ATL,@,DAL,L,3rd,228,1,"John Collins makes 2-pt dunk from 1 ft (ATL 58, DAL 72)",2,1
+276,277,John Collins,2020-02-01,ATL,@,DAL,L,3rd,373,1,"John Collins makes 2-pt layup from 1 ft (assist by Brandon Goodwin) (ATL 64, DAL 84)",2,1
+277,278,John Collins,2020-02-01,ATL,@,DAL,L,4th,60,1,"John Collins makes 2-pt layup from 3 ft (ATL 76, DAL 97)",2,3
+278,279,John Collins,2020-02-01,ATL,@,DAL,L,4th,84,1,"John Collins makes 2-pt layup from 3 ft (assist by Jeff Teague) (ATL 78, DAL 97)",2,3
+279,280,John Collins,2020-02-01,ATL,@,DAL,L,4th,162,1,"John Collins makes 2-pt dunk from 1 ft (ATL 82, DAL 103)",2,1
+280,281,John Collins,2020-02-01,ATL,@,DAL,L,4th,247,0,"John Collins misses 2-pt jump shot from 10 ft (ATL 87, DAL 106)",2,10
+281,282,John Collins,2020-01-30,ATL,,PHI,W,1st,19,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 2, PHI 0)",2,1
+282,283,John Collins,2020-01-30,ATL,,PHI,W,1st,517,1,"John Collins makes 2-pt layup from 4 ft (assist by Trae Young) (ATL 28, PHI 23)",2,4
+283,284,John Collins,2020-01-30,ATL,,PHI,W,2nd,506,0,"John Collins misses 2-pt layup from 1 ft (ATL 55, PHI 50)",2,1
+284,285,John Collins,2020-01-30,ATL,,PHI,W,2nd,509,1,"John Collins makes 2-pt dunk from 1 ft (ATL 57, PHI 50)",2,1
+285,286,John Collins,2020-01-30,ATL,,PHI,W,2nd,523,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 57, PHI 50)",3,25
+286,287,John Collins,2020-01-30,ATL,,PHI,W,3rd,58,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 74, PHI 69)",3,26
+287,288,John Collins,2020-01-30,ATL,,PHI,W,3rd,236,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 82, PHI 75)",3,26
+288,289,John Collins,2020-01-30,ATL,,PHI,W,3rd,277,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 84, PHI 75)",2,1
+289,290,John Collins,2020-01-30,ATL,,PHI,W,3rd,328,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 87, PHI 77)",2,1
+290,291,John Collins,2020-01-30,ATL,,PHI,W,4th,71,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 103, PHI 94)",2,1
+291,292,John Collins,2020-01-30,ATL,,PHI,W,4th,464,0,"John Collins misses 2-pt hook shot from 9 ft (ATL 115, PHI 104)",2,9
+292,293,John Collins,2020-01-30,ATL,,PHI,W,4th,550,1,"John Collins makes 2-pt layup at rim (ATL 119, PHI 111)",2,0
+293,294,John Collins,2020-01-30,ATL,,PHI,W,4th,638,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 121, PHI 114)",2,1
+294,295,John Collins,2020-01-28,ATL,@,TOR,L,1st,57,1,"John Collins makes 2-pt jump shot from 16 ft (assist by De'Andre Hunter) (ATL 2, TOR 2)",2,16
+295,296,John Collins,2020-01-28,ATL,@,TOR,L,1st,79,1,"John Collins makes 2-pt layup from 3 ft (assist by Trae Young) (ATL 4, TOR 5)",2,3
+296,297,John Collins,2020-01-28,ATL,@,TOR,L,1st,414,1,"John Collins makes 2-pt hook shot from 5 ft (ATL 14, TOR 21)",2,5
+297,298,John Collins,2020-01-28,ATL,@,TOR,L,1st,470,0,"John Collins misses 3-pt jump shot from 23 ft (block by OG Anunoby) (ATL 15, TOR 26)",3,23
+298,299,John Collins,2020-01-28,ATL,@,TOR,L,1st,532,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 19, TOR 26)",2,1
+299,300,John Collins,2020-01-28,ATL,@,TOR,L,1st,559,1,"John Collins makes 2-pt layup from 1 ft (assist by Jeff Teague) (ATL 21, TOR 29)",2,1
+300,301,John Collins,2020-01-28,ATL,@,TOR,L,2nd,329,1,"John Collins makes 2-pt jump shot from 8 ft (assist by Trae Young) (ATL 39, TOR 53)",2,8
+301,302,John Collins,2020-01-28,ATL,@,TOR,L,2nd,540,1,"John Collins makes 2-pt layup from 2 ft (ATL 48, TOR 58)",2,2
+302,303,John Collins,2020-01-28,ATL,@,TOR,L,3rd,48,0,"John Collins misses 2-pt jump shot from 14 ft (ATL 56, TOR 68)",2,14
+303,304,John Collins,2020-01-28,ATL,@,TOR,L,3rd,118,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 58, TOR 68)",2,1
+304,305,John Collins,2020-01-28,ATL,@,TOR,L,3rd,228,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 61, TOR 75)",2,0
+305,306,John Collins,2020-01-28,ATL,@,TOR,L,3rd,294,0,"John Collins misses 2-pt layup from 1 ft (ATL 63, TOR 77)",2,1
+306,307,John Collins,2020-01-28,ATL,@,TOR,L,3rd,309,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 65, TOR 79)",2,1
+307,308,John Collins,2020-01-28,ATL,@,TOR,L,4th,264,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 88, TOR 113)",2,1
+308,309,John Collins,2020-01-26,ATL,,WAS,W,1st,104,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 2, WAS 0)",3,26
+309,310,John Collins,2020-01-26,ATL,,WAS,W,1st,189,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 2, WAS 5)",3,26
+310,311,John Collins,2020-01-26,ATL,,WAS,W,1st,437,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 17, WAS 17)",2,1
+311,312,John Collins,2020-01-26,ATL,,WAS,W,1st,464,0,"John Collins misses 2-pt dunk from 1 ft (ATL 17, WAS 17)",2,1
+312,313,John Collins,2020-01-26,ATL,,WAS,W,2nd,259,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 49, WAS 44)",2,1
+313,314,John Collins,2020-01-26,ATL,,WAS,W,2nd,346,0,"John Collins misses 2-pt dunk from 1 ft (block by Jordan McRae) (ATL 53, WAS 48)",2,1
+314,315,John Collins,2020-01-26,ATL,,WAS,W,3rd,277,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 100, WAS 77)",2,1
+315,316,John Collins,2020-01-26,ATL,,WAS,W,4th,18,1,"John Collins makes 2-pt dunk from 2 ft (assist by Jeff Teague) (ATL 121, WAS 102)",2,2
+316,317,John Collins,2020-01-26,ATL,,WAS,W,4th,182,1,"John Collins makes 2-pt dunk at rim (ATL 125, WAS 106)",2,0
+317,318,John Collins,2020-01-26,ATL,,WAS,W,4th,191,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 127, WAS 106)",2,1
+318,319,John Collins,2020-01-26,ATL,,WAS,W,4th,320,1,"John Collins makes 2-pt layup from 6 ft (ATL 131, WAS 112)",2,6
+319,320,John Collins,2020-01-24,ATL,@,OKC,L,1st,59,1,"John Collins makes 2-pt dunk from 2 ft (assist by Trae Young) (ATL 2, OKC 2)",2,2
+320,321,John Collins,2020-01-24,ATL,@,OKC,L,1st,141,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 2, OKC 8)",3,23
+321,322,John Collins,2020-01-24,ATL,@,OKC,L,1st,255,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 11, OKC 14)",2,1
+322,323,John Collins,2020-01-24,ATL,@,OKC,L,1st,438,1,"John Collins makes 2-pt jump shot from 15 ft (assist by Trae Young) (ATL 16, OKC 18)",2,15
+323,324,John Collins,2020-01-24,ATL,@,OKC,L,1st,470,1,"John Collins makes 2-pt layup from 1 ft (ATL 18, OKC 21)",2,1
+324,325,John Collins,2020-01-24,ATL,@,OKC,L,2nd,196,1,"John Collins makes 2-pt jump shot from 18 ft (assist by Brandon Goodwin) (ATL 34, OKC 39)",2,18
+325,326,John Collins,2020-01-24,ATL,@,OKC,L,2nd,328,1,"John Collins makes 2-pt layup from 5 ft (assist by Trae Young) (ATL 36, OKC 45)",2,5
+326,327,John Collins,2020-01-24,ATL,@,OKC,L,2nd,361,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 39, OKC 48)",3,26
+327,328,John Collins,2020-01-24,ATL,@,OKC,L,2nd,449,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 45, OKC 52)",2,1
+328,329,John Collins,2020-01-24,ATL,@,OKC,L,3rd,122,1,"John Collins makes 3-pt jump shot from 24 ft (assist by Trae Young) (ATL 66, OKC 71)",3,24
+329,330,John Collins,2020-01-24,ATL,@,OKC,L,3rd,202,1,"John Collins makes 2-pt dunk from 2 ft (assist by Trae Young) (ATL 70, OKC 74)",2,2
+330,331,John Collins,2020-01-24,ATL,@,OKC,L,3rd,275,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 72, OKC 77)",2,1
+331,332,John Collins,2020-01-24,ATL,@,OKC,L,4th,31,1,"John Collins makes 2-pt dunk from 2 ft (assist by Trae Young) (ATL 92, OKC 106)",2,2
+332,333,John Collins,2020-01-24,ATL,@,OKC,L,4th,121,0,"John Collins misses 2-pt jump shot from 18 ft (ATL 94, OKC 114)",2,18
+333,334,John Collins,2020-01-24,ATL,@,OKC,L,4th,166,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 96, OKC 116)",2,1
+334,335,John Collins,2020-01-24,ATL,@,OKC,L,4th,190,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 96, OKC 116)",3,25
+335,336,John Collins,2020-01-22,ATL,,LAC,W,1st,45,1,"John Collins makes 2-pt dunk from 1 ft (assist by Jeff Teague) (ATL 2, LAC 0)",2,1
+336,337,John Collins,2020-01-22,ATL,,LAC,W,1st,116,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 4, LAC 2)",2,1
+337,338,John Collins,2020-01-22,ATL,,LAC,W,1st,191,1,"John Collins makes 3-pt jump shot from 23 ft (assist by Jeff Teague) (ATL 9, LAC 4)",3,23
+338,339,John Collins,2020-01-22,ATL,,LAC,W,2nd,119,0,"John Collins misses 2-pt layup from 6 ft (block by Terance Mann) (ATL 21, LAC 35)",2,6
+339,340,John Collins,2020-01-22,ATL,,LAC,W,2nd,178,1,"John Collins makes 2-pt layup from 1 ft (assist by Cam Reddish) (ATL 25, LAC 41)",2,1
+340,341,John Collins,2020-01-22,ATL,,LAC,W,2nd,271,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 25, LAC 43)",3,25
+341,342,John Collins,2020-01-22,ATL,,LAC,W,2nd,388,1,"John Collins makes 2-pt dunk from 1 ft (assist by Brandon Goodwin) (ATL 31, LAC 47)",2,1
+342,343,John Collins,2020-01-22,ATL,,LAC,W,2nd,438,1,"John Collins makes 2-pt jump shot from 14 ft (ATL 35, LAC 47)",2,14
+343,344,John Collins,2020-01-22,ATL,,LAC,W,2nd,478,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 35, LAC 49)",3,26
+344,345,John Collins,2020-01-22,ATL,,LAC,W,3rd,146,0,"John Collins misses 2-pt layup from 2 ft (ATL 48, LAC 61)",2,2
+345,346,John Collins,2020-01-22,ATL,,LAC,W,3rd,184,1,"John Collins makes 2-pt layup from 2 ft (ATL 50, LAC 61)",2,2
+346,347,John Collins,2020-01-22,ATL,,LAC,W,3rd,184,0,"John Collins misses 2-pt layup from 3 ft (ATL 48, LAC 61)",2,3
+347,348,John Collins,2020-01-22,ATL,,LAC,W,3rd,492,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Jeff Teague) (ATL 61, LAC 72)",3,26
+348,349,John Collins,2020-01-22,ATL,,LAC,W,3rd,531,1,"John Collins makes 3-pt jump shot from 26 ft (ATL 64, LAC 72)",3,26
+349,350,John Collins,2020-01-22,ATL,,LAC,W,3rd,562,0,"John Collins misses 2-pt layup from 5 ft (ATL 64, LAC 74)",2,5
+350,351,John Collins,2020-01-22,ATL,,LAC,W,3rd,564,0,"John Collins misses 2-pt layup from 2 ft (ATL 64, LAC 74)",2,2
+351,352,John Collins,2020-01-22,ATL,,LAC,W,4th,132,0,"John Collins misses 2-pt dunk from 1 ft (ATL 72, LAC 80)",2,1
+352,353,John Collins,2020-01-22,ATL,,LAC,W,4th,173,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 72, LAC 80)",3,26
+353,354,John Collins,2020-01-22,ATL,,LAC,W,4th,196,1,"John Collins makes 2-pt layup at rim (ATL 74, LAC 80)",2,0
+354,355,John Collins,2020-01-22,ATL,,LAC,W,4th,418,1,"John Collins makes 2-pt dunk from 1 ft (assist by Brandon Goodwin) (ATL 88, LAC 91)",2,1
+355,356,John Collins,2020-01-22,ATL,,LAC,W,4th,454,0,"John Collins misses 2-pt layup at rim (ATL 88, LAC 91)",2,0
+356,357,John Collins,2020-01-22,ATL,,LAC,W,4th,456,1,"John Collins makes 2-pt layup at rim (ATL 90, LAC 91)",2,0
+357,358,John Collins,2020-01-20,ATL,,TOR,L,1st,396,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 14, TOR 18)",2,1
+358,359,John Collins,2020-01-20,ATL,,TOR,L,1st,491,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 18, TOR 22)",3,25
+359,360,John Collins,2020-01-20,ATL,,TOR,L,1st,515,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 20, TOR 22)",2,1
+360,361,John Collins,2020-01-20,ATL,,TOR,L,2nd,324,1,"John Collins makes 2-pt jump shot from 17 ft (assist by De'Andre Hunter) (ATL 45, TOR 45)",2,17
+361,362,John Collins,2020-01-20,ATL,,TOR,L,2nd,500,0,"John Collins misses 2-pt layup from 8 ft (ATL 48, TOR 51)",2,8
+362,363,John Collins,2020-01-20,ATL,,TOR,L,2nd,702,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 60, TOR 57)",2,1
+363,364,John Collins,2020-01-20,ATL,,TOR,L,3rd,75,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 65, TOR 59)",2,1
+364,365,John Collins,2020-01-20,ATL,,TOR,L,4th,441,0,"John Collins misses 2-pt jump shot from 12 ft (ATL 91, TOR 109)",2,12
+365,366,John Collins,2020-01-20,ATL,,TOR,L,4th,532,1,"John Collins makes 2-pt dunk at rim (ATL 97, TOR 112)",2,0
+366,367,John Collins,2020-01-20,ATL,,TOR,L,4th,576,1,"John Collins makes 2-pt dunk from 2 ft (assist by De'Andre Hunter) (ATL 100, TOR 114)",2,2
+367,368,John Collins,2020-01-20,ATL,,TOR,L,4th,686,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 115, TOR 117)",2,1
+368,369,John Collins,2020-01-18,ATL,,DET,L,1st,69,0,"John Collins misses 2-pt layup from 1 ft (ATL 3, DET 0)",2,1
+369,370,John Collins,2020-01-18,ATL,,DET,L,1st,151,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 5, DET 8)",3,25
+370,371,John Collins,2020-01-18,ATL,,DET,L,1st,188,0,"John Collins misses 2-pt layup from 1 ft (block by Andre Drummond) (ATL 5, DET 10)",2,1
+371,372,John Collins,2020-01-18,ATL,,DET,L,1st,272,1,"John Collins makes 2-pt dunk from 1 ft (assist by De'Andre Hunter) (ATL 12, DET 14)",2,1
+372,373,John Collins,2020-01-18,ATL,,DET,L,1st,368,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 14, DET 20)",2,1
+373,374,John Collins,2020-01-18,ATL,,DET,L,1st,471,1,"John Collins makes 2-pt layup from 3 ft (assist by Jeff Teague) (ATL 16, DET 26)",2,3
+374,375,John Collins,2020-01-18,ATL,,DET,L,2nd,117,1,"John Collins makes 2-pt dunk at rim (assist by De'Andre Hunter) (ATL 33, DET 38)",2,0
+375,376,John Collins,2020-01-18,ATL,,DET,L,2nd,259,1,"John Collins makes 2-pt jump shot from 20 ft (assist by Trae Young) (ATL 41, DET 48)",2,20
+376,377,John Collins,2020-01-18,ATL,,DET,L,2nd,338,0,"John Collins misses 2-pt layup from 1 ft (ATL 41, DET 56)",2,1
+377,378,John Collins,2020-01-18,ATL,,DET,L,3rd,172,1,"John Collins makes 2-pt hook shot from 9 ft (ATL 59, DET 77)",2,9
+378,379,John Collins,2020-01-18,ATL,,DET,L,3rd,214,0,"John Collins misses 2-pt layup from 1 ft (ATL 59, DET 80)",2,1
+379,380,John Collins,2020-01-18,ATL,,DET,L,3rd,235,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 59, DET 82)",3,26
+380,381,John Collins,2020-01-18,ATL,,DET,L,3rd,284,1,"John Collins makes 3-pt jump shot from 25 ft (assist by De'Andre Hunter) (ATL 65, DET 84)",3,25
+381,382,John Collins,2020-01-18,ATL,,DET,L,3rd,709,0,"John Collins misses 2-pt jump shot from 20 ft (ATL 76, DET 103)",2,20
+382,383,John Collins,2020-01-18,ATL,,DET,L,4th,36,0,"John Collins misses 2-pt layup from 1 ft (ATL 76, DET 105)",2,1
+383,384,John Collins,2020-01-18,ATL,,DET,L,4th,139,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 81, DET 112)",3,26
+384,385,John Collins,2020-01-17,ATL,@,SAS,W,1st,175,1,"John Collins makes 2-pt dunk from 4 ft (assist by Cam Reddish) (ATL 10, SAS 6)",2,4
+385,386,John Collins,2020-01-17,ATL,@,SAS,W,1st,204,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 13, SAS 8)",3,26
+386,387,John Collins,2020-01-17,ATL,@,SAS,W,1st,267,0,"John Collins misses 2-pt dunk from 7 ft (ATL 15, SAS 10)",2,7
+387,388,John Collins,2020-01-17,ATL,@,SAS,W,1st,312,0,"John Collins misses 2-pt layup from 5 ft (ATL 15, SAS 12)",2,5
+388,389,John Collins,2020-01-17,ATL,@,SAS,W,1st,334,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 15, SAS 12)",3,26
+389,390,John Collins,2020-01-17,ATL,@,SAS,W,1st,368,1,"John Collins makes 2-pt dunk from 4 ft (assist by Trae Young) (ATL 19, SAS 14)",2,4
+390,391,John Collins,2020-01-17,ATL,@,SAS,W,2nd,497,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 54, SAS 47)",3,26
+391,392,John Collins,2020-01-17,ATL,@,SAS,W,2nd,590,1,"John Collins makes 2-pt dunk from 3 ft (assist by Trae Young) (ATL 62, SAS 49)",2,3
+392,393,John Collins,2020-01-17,ATL,@,SAS,W,3rd,34,1,"John Collins makes 2-pt jump shot from 16 ft (assist by Cam Reddish) (ATL 69, SAS 60)",2,16
+393,394,John Collins,2020-01-17,ATL,@,SAS,W,3rd,124,0,"John Collins misses 2-pt layup from 4 ft (block by Trey Lyles) (ATL 69, SAS 62)",2,4
+394,395,John Collins,2020-01-17,ATL,@,SAS,W,3rd,526,0,"John Collins misses 2-pt jump shot from 14 ft (ATL 77, SAS 88)",2,14
+395,396,John Collins,2020-01-17,ATL,@,SAS,W,3rd,562,1,"John Collins makes 2-pt layup from 1 ft (ATL 79, SAS 90)",2,1
+396,397,John Collins,2020-01-17,ATL,@,SAS,W,4th,275,1,"John Collins makes 2-pt layup from 3 ft (assist by Cam Reddish) (ATL 101, SAS 108)",2,3
+397,398,John Collins,2020-01-14,ATL,,PHO,W,1st,30,0,"John Collins misses 2-pt hook shot from 10 ft (ATL 0, PHO 2)",2,10
+398,399,John Collins,2020-01-14,ATL,,PHO,W,1st,38,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 0, PHO 2)",3,25
+399,400,John Collins,2020-01-14,ATL,,PHO,W,1st,393,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 16, PHO 13)",2,1
+400,401,John Collins,2020-01-14,ATL,,PHO,W,2nd,44,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 28, PHO 28)",3,25
+401,402,John Collins,2020-01-14,ATL,,PHO,W,2nd,80,1,"John Collins makes 2-pt layup at rim (ATL 30, PHO 28)",2,0
+402,403,John Collins,2020-01-14,ATL,,PHO,W,2nd,167,1,"John Collins makes 2-pt layup at rim (ATL 32, PHO 30)",2,0
+403,404,John Collins,2020-01-14,ATL,,PHO,W,3rd,16,1,"John Collins makes 2-pt hook shot from 9 ft (ATL 58, PHO 51)",2,9
+404,405,John Collins,2020-01-14,ATL,,PHO,W,3rd,100,0,"John Collins misses 2-pt jump shot from 12 ft (ATL 63, PHO 53)",2,12
+405,406,John Collins,2020-01-14,ATL,,PHO,W,3rd,135,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 65, PHO 55)",2,2
+406,407,John Collins,2020-01-14,ATL,,PHO,W,3rd,154,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 68, PHO 55)",3,26
+407,408,John Collins,2020-01-14,ATL,,PHO,W,3rd,273,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 75, PHO 61)",3,26
+408,409,John Collins,2020-01-14,ATL,,PHO,W,3rd,537,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 78, PHO 75)",3,26
+409,410,John Collins,2020-01-14,ATL,,PHO,W,3rd,672,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 82, PHO 83)",2,1
+410,411,John Collins,2020-01-14,ATL,,PHO,W,3rd,720,1,"John Collins makes 2-pt layup from 1 ft (assist by Kevin Huerter) (ATL 84, PHO 83)",2,1
+411,412,John Collins,2020-01-14,ATL,,PHO,W,4th,36,1,"John Collins makes 2-pt dunk at rim (assist by Trae Young) (ATL 86, PHO 83)",2,0
+412,413,John Collins,2020-01-14,ATL,,PHO,W,4th,617,0,"John Collins misses 2-pt layup from 1 ft (block by Cameron Johnson) (ATL 117, PHO 106)",2,1
+413,414,John Collins,2020-01-12,ATL,@,BRK,L,1st,88,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 0, BRK 4)",3,25
+414,415,John Collins,2020-01-12,ATL,@,BRK,L,1st,195,0,"John Collins misses 2-pt hook shot from 11 ft (ATL 2, BRK 8)",2,11
+415,416,John Collins,2020-01-12,ATL,@,BRK,L,2nd,37,1,"John Collins makes 2-pt layup from 3 ft (assist by Paul Watson) (ATL 18, BRK 39)",2,3
+416,417,John Collins,2020-01-12,ATL,@,BRK,L,2nd,315,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 32, BRK 47)",3,25
+417,418,John Collins,2020-01-12,ATL,@,BRK,L,2nd,458,0,"John Collins misses 2-pt jump shot from 14 ft (ATL 36, BRK 53)",2,14
+418,419,John Collins,2020-01-12,ATL,@,BRK,L,2nd,473,0,"John Collins misses 2-pt jump shot from 12 ft (ATL 36, BRK 54)",2,12
+419,420,John Collins,2020-01-12,ATL,@,BRK,L,3rd,247,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 48, BRK 78)",3,26
+420,421,John Collins,2020-01-12,ATL,@,BRK,L,3rd,347,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 50, BRK 85)",3,26
+421,422,John Collins,2020-01-12,ATL,@,BRK,L,3rd,398,0,"John Collins misses 2-pt hook shot from 4 ft (ATL 50, BRK 89)",2,4
+422,423,John Collins,2020-01-12,ATL,@,BRK,L,4th,248,1,"John Collins makes 2-pt layup from 2 ft (assist by Kevin Huerter) (ATL 74, BRK 97)",2,2
+423,424,John Collins,2020-01-12,ATL,@,BRK,L,4th,302,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 74, BRK 99)",3,25
+424,425,John Collins,2020-01-10,ATL,@,WAS,L,1st,33,0,"John Collins misses 2-pt layup from 9 ft (ATL 0, WAS 0)",2,9
+425,426,John Collins,2020-01-10,ATL,@,WAS,L,1st,66,1,"John Collins makes 2-pt jump shot from 16 ft (assist by Cam Reddish) (ATL 2, WAS 0)",2,16
+426,427,John Collins,2020-01-10,ATL,@,WAS,L,1st,98,0,"John Collins misses 2-pt dunk from 1 ft (ATL 2, WAS 0)",2,1
+427,428,John Collins,2020-01-10,ATL,@,WAS,L,1st,190,1,"John Collins makes 2-pt dunk from 1 ft (assist by Kevin Huerter) (ATL 7, WAS 4)",2,1
+428,429,John Collins,2020-01-10,ATL,@,WAS,L,1st,414,0,"John Collins misses 2-pt layup from 1 ft (ATL 11, WAS 14)",2,1
+429,430,John Collins,2020-01-10,ATL,@,WAS,L,2nd,276,0,"John Collins misses 2-pt jump shot from 17 ft (ATL 29, WAS 43)",2,17
+430,431,John Collins,2020-01-10,ATL,@,WAS,L,3rd,70,1,"John Collins makes 2-pt layup from 2 ft (assist by Trae Young) (ATL 55, WAS 59)",2,2
+431,432,John Collins,2020-01-10,ATL,@,WAS,L,3rd,318,1,"John Collins makes 3-pt jump shot from 26 ft (assist by De'Andre Hunter) (ATL 68, WAS 68)",3,26
+432,433,John Collins,2020-01-10,ATL,@,WAS,L,3rd,459,1,"John Collins makes 2-pt dunk at rim (assist by DeAndre' Bembry) (ATL 74, WAS 72)",2,0
+433,434,John Collins,2020-01-10,ATL,@,WAS,L,4th,33,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 79, WAS 81)",3,26
+434,435,John Collins,2020-01-10,ATL,@,WAS,L,4th,201,1,"John Collins makes 2-pt layup from 5 ft (assist by Allen Crabbe) (ATL 89, WAS 83)",2,5
+435,436,John Collins,2020-01-10,ATL,@,WAS,L,4th,703,0,"John Collins misses 2-pt layup at rim (ATL 101, WAS 111)",2,0
+436,437,John Collins,2020-01-08,ATL,,HOU,L,1st,59,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 4, HOU 4)",2,1
+437,438,John Collins,2020-01-08,ATL,,HOU,L,1st,184,1,"John Collins makes 2-pt layup from 1 ft (ATL 8, HOU 12)",2,1
+438,439,John Collins,2020-01-08,ATL,,HOU,L,1st,204,1,"John Collins makes 2-pt dunk at rim (assist by Kevin Huerter) (ATL 10, HOU 12)",2,0
+439,440,John Collins,2020-01-08,ATL,,HOU,L,1st,387,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 17, HOU 21)",3,26
+440,441,John Collins,2020-01-08,ATL,,HOU,L,2nd,51,0,"John Collins misses 2-pt jump shot from 10 ft (ATL 29, HOU 45)",2,10
+441,442,John Collins,2020-01-08,ATL,,HOU,L,2nd,109,1,"John Collins makes 2-pt dunk from 1 ft (assist by Brandon Goodwin) (ATL 33, HOU 49)",2,1
+442,443,John Collins,2020-01-08,ATL,,HOU,L,2nd,136,0,"John Collins misses 2-pt jump shot from 13 ft (ATL 33, HOU 52)",2,13
+443,444,John Collins,2020-01-08,ATL,,HOU,L,2nd,198,0,"John Collins misses 2-pt layup from 1 ft (block by Clint Capela) (ATL 35, HOU 57)",2,1
+444,445,John Collins,2020-01-08,ATL,,HOU,L,2nd,390,1,"John Collins makes 2-pt jump shot from 12 ft (ATL 43, HOU 61)",2,12
+445,446,John Collins,2020-01-08,ATL,,HOU,L,3rd,429,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 77, HOU 87)",3,26
+446,447,John Collins,2020-01-08,ATL,,HOU,L,3rd,459,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 80, HOU 87)",2,1
+447,448,John Collins,2020-01-08,ATL,,HOU,L,4th,151,0,"John Collins misses 2-pt hook shot from 9 ft (block by Clint Capela) (ATL 93, HOU 104)",2,9
+448,449,John Collins,2020-01-08,ATL,,HOU,L,4th,175,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 93, HOU 104)",3,26
+449,450,John Collins,2020-01-08,ATL,,HOU,L,4th,442,0,"John Collins misses 2-pt layup at rim (ATL 105, HOU 108)",2,0
+450,451,John Collins,2020-01-08,ATL,,HOU,L,4th,443,0,"John Collins misses 2-pt layup from 5 ft (ATL 105, HOU 108)",2,5
+451,452,John Collins,2020-01-06,ATL,,DEN,L,1st,297,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 10, DEN 11)",2,1
+452,453,John Collins,2020-01-06,ATL,,DEN,L,1st,406,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 17, DEN 16)",3,26
+453,454,John Collins,2020-01-06,ATL,,DEN,L,2nd,36,0,"John Collins misses 2-pt layup at rim (ATL 31, DEN 31)",2,0
+454,455,John Collins,2020-01-06,ATL,,DEN,L,2nd,201,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 34, DEN 38)",3,26
+455,456,John Collins,2020-01-06,ATL,,DEN,L,2nd,376,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 39, DEN 49)",3,26
+456,457,John Collins,2020-01-06,ATL,,DEN,L,2nd,478,1,"John Collins makes 2-pt dunk from 1 ft (assist by Alex Len) (ATL 47, DEN 51)",2,1
+457,458,John Collins,2020-01-06,ATL,,DEN,L,4th,22,1,"John Collins makes 2-pt dunk at rim (assist by De'Andre Hunter) (ATL 88, DEN 91)",2,0
+458,459,John Collins,2020-01-06,ATL,,DEN,L,4th,55,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 88, DEN 93)",3,26
+459,460,John Collins,2020-01-06,ATL,,DEN,L,4th,221,1,"John Collins makes 2-pt layup from 6 ft (ATL 99, DEN 101)",2,6
+460,461,John Collins,2020-01-06,ATL,,DEN,L,4th,243,0,"John Collins misses 2-pt layup from 7 ft (block by Jamal Murray) (ATL 100, DEN 101)",2,7
+461,462,John Collins,2020-01-06,ATL,,DEN,L,4th,251,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 100, DEN 101)",3,26
+462,463,John Collins,2020-01-06,ATL,,DEN,L,4th,298,0,"John Collins misses 2-pt jump shot from 10 ft (ATL 100, DEN 103)",2,10
+463,464,John Collins,2020-01-06,ATL,,DEN,L,4th,541,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 109, DEN 114)",3,26
+464,465,John Collins,2020-01-06,ATL,,DEN,L,4th,585,0,"John Collins misses 2-pt layup from 3 ft (ATL 109, DEN 116)",2,3
+465,466,John Collins,2020-01-06,ATL,,DEN,L,4th,641,1,"John Collins makes 2-pt layup from 1 ft (assist by Trae Young) (ATL 113, DEN 120)",2,1
+466,467,John Collins,2020-01-03,ATL,@,BOS,L,1st,207,1,"John Collins makes 2-pt layup from 3 ft (assist by Trae Young) (ATL 11, BOS 6)",2,3
+467,468,John Collins,2020-01-03,ATL,@,BOS,L,1st,239,1,"John Collins makes 2-pt dunk from 2 ft (assist by Trae Young) (ATL 13, BOS 6)",2,2
+468,469,John Collins,2020-01-03,ATL,@,BOS,L,1st,263,1,"John Collins makes 3-pt jump shot from 28 ft (assist by Trae Young) (ATL 16, BOS 6)",3,28
+469,470,John Collins,2020-01-03,ATL,@,BOS,L,1st,392,0,"John Collins misses 3-pt jump shot from 28 ft (ATL 18, BOS 6)",3,28
+470,471,John Collins,2020-01-03,ATL,@,BOS,L,2nd,111,0,"John Collins misses 2-pt jump shot from 22 ft (ATL 32, BOS 24)",2,22
+471,472,John Collins,2020-01-03,ATL,@,BOS,L,2nd,134,0,"John Collins misses 2-pt layup from 7 ft (ATL 32, BOS 24)",2,7
+472,473,John Collins,2020-01-03,ATL,@,BOS,L,2nd,548,1,"John Collins makes 3-pt jump shot from 29 ft (assist by Kevin Huerter) (ATL 50, BOS 45)",3,29
+473,474,John Collins,2020-01-03,ATL,@,BOS,L,2nd,629,1,"John Collins makes 2-pt dunk from 4 ft (assist by Brandon Goodwin) (ATL 52, BOS 49)",2,4
+474,475,John Collins,2020-01-03,ATL,@,BOS,L,3rd,141,1,"John Collins makes 2-pt dunk from 2 ft (assist by Kevin Huerter) (ATL 59, BOS 59)",2,2
+475,476,John Collins,2019-12-30,ATL,@,ORL,W,1st,21,1,"John Collins makes 2-pt jump shot from 7 ft (assist by Kevin Huerter) (ATL 2, ORL 0)",2,7
+476,477,John Collins,2019-12-30,ATL,@,ORL,W,1st,250,0,"John Collins misses 2-pt layup from 3 ft (ATL 8, ORL 5)",2,3
+477,478,John Collins,2019-12-30,ATL,@,ORL,W,2nd,115,1,"John Collins makes 2-pt hook shot from 7 ft (ATL 27, ORL 25)",2,7
+478,479,John Collins,2019-12-30,ATL,@,ORL,W,2nd,165,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 27, ORL 25)",3,25
+479,480,John Collins,2019-12-30,ATL,@,ORL,W,2nd,224,0,"John Collins misses 3-pt jump shot from 24 ft (ATL 27, ORL 27)",3,24
+480,481,John Collins,2019-12-30,ATL,@,ORL,W,2nd,321,1,"John Collins makes 2-pt layup from 3 ft (ATL 31, ORL 35)",2,3
+481,482,John Collins,2019-12-30,ATL,@,ORL,W,3rd,214,0,"John Collins misses 2-pt jump shot from 19 ft (ATL 54, ORL 61)",2,19
+482,483,John Collins,2019-12-30,ATL,@,ORL,W,3rd,687,1,"John Collins makes 2-pt layup from 2 ft (assist by Allen Crabbe) (ATL 72, ORL 72)",2,2
+483,484,John Collins,2019-12-30,ATL,@,ORL,W,4th,587,1,"John Collins makes 2-pt dunk from 2 ft (assist by Brandon Goodwin) (ATL 94, ORL 87)",2,2
+484,485,John Collins,2019-12-28,ATL,@,CHI,L,1st,66,1,"John Collins makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 4, CHI 0)",2,1
+485,486,John Collins,2019-12-28,ATL,@,CHI,L,1st,106,0,"John Collins misses 2-pt layup from 2 ft (ATL 4, CHI 3)",2,2
+486,487,John Collins,2019-12-28,ATL,@,CHI,L,1st,222,0,"John Collins misses 3-pt jump shot from 27 ft (ATL 4, CHI 11)",3,27
+487,488,John Collins,2019-12-28,ATL,@,CHI,L,1st,317,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 9, CHI 19)",3,25
+488,489,John Collins,2019-12-28,ATL,@,CHI,L,2nd,18,1,"John Collins makes 2-pt hook shot from 9 ft (assist by Kevin Huerter) (ATL 21, CHI 35)",2,9
+489,490,John Collins,2019-12-28,ATL,@,CHI,L,2nd,105,1,"John Collins makes 2-pt layup from 2 ft (assist by Cam Reddish) (ATL 25, CHI 35)",2,2
+490,491,John Collins,2019-12-28,ATL,@,CHI,L,2nd,172,1,"John Collins makes 2-pt layup from 1 ft (assist by De'Andre Hunter) (ATL 27, CHI 39)",2,1
+491,492,John Collins,2019-12-28,ATL,@,CHI,L,2nd,199,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 27, CHI 41)",3,23
+492,493,John Collins,2019-12-28,ATL,@,CHI,L,2nd,215,0,"John Collins misses 2-pt layup from 1 ft (ATL 27, CHI 41)",2,1
+493,494,John Collins,2019-12-28,ATL,@,CHI,L,2nd,221,1,"John Collins makes 2-pt dunk from 1 ft (assist by Damian Jones) (ATL 29, CHI 41)",2,1
+494,495,John Collins,2019-12-28,ATL,@,CHI,L,2nd,448,1,"John Collins makes 2-pt layup from 1 ft (ATL 37, CHI 55)",2,1
+495,496,John Collins,2019-12-28,ATL,@,CHI,L,2nd,478,1,"John Collins makes 2-pt layup from 1 ft (assist by Allen Crabbe) (ATL 39, CHI 55)",2,1
+496,497,John Collins,2019-12-28,ATL,@,CHI,L,2nd,510,1,"John Collins makes 2-pt jump shot from 14 ft (ATL 41, CHI 55)",2,14
+497,498,John Collins,2019-12-28,ATL,@,CHI,L,2nd,572,0,"John Collins misses 2-pt jump shot from 10 ft (ATL 41, CHI 58)",2,10
+498,499,John Collins,2019-12-28,ATL,@,CHI,L,3rd,107,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 48, CHI 66)",3,26
+499,500,John Collins,2019-12-28,ATL,@,CHI,L,3rd,137,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Cam Reddish) (ATL 51, CHI 68)",3,25
+500,501,John Collins,2019-12-28,ATL,@,CHI,L,3rd,243,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 51, CHI 73)",3,25
+501,502,John Collins,2019-12-28,ATL,@,CHI,L,3rd,276,1,"John Collins makes 2-pt layup from 2 ft (assist by Brandon Goodwin) (ATL 53, CHI 75)",2,2
+502,503,John Collins,2019-12-28,ATL,@,CHI,L,3rd,499,1,"John Collins makes 2-pt layup at rim (ATL 58, CHI 78)",2,0
+503,504,John Collins,2019-12-28,ATL,@,CHI,L,3rd,533,0,"John Collins misses 2-pt hook shot from 4 ft (block by Daniel Gafford) (ATL 58, CHI 81)",2,4
+504,505,John Collins,2019-12-28,ATL,@,CHI,L,3rd,536,0,"John Collins misses 2-pt jump shot from 10 ft (ATL 58, CHI 81)",2,10
+505,506,John Collins,2019-12-28,ATL,@,CHI,L,3rd,650,0,"John Collins misses 2-pt layup from 2 ft (ATL 63, CHI 83)",2,2
+506,507,John Collins,2019-12-28,ATL,@,CHI,L,3rd,658,1,"John Collins makes 2-pt layup from 1 ft (ATL 65, CHI 83)",2,1
+507,508,John Collins,2019-12-28,ATL,@,CHI,L,3rd,688,0,"John Collins misses 2-pt layup from 2 ft (block by Daniel Gafford) (ATL 65, CHI 83)",2,2
+508,509,John Collins,2019-12-28,ATL,@,CHI,L,4th,291,1,"John Collins makes 2-pt jump shot from 8 ft (ATL 76, CHI 100)",2,8
+509,510,John Collins,2019-12-28,ATL,@,CHI,L,4th,458,0,"John Collins misses 2-pt layup from 5 ft (block by Luke Kornet) (ATL 76, CHI 106)",2,5
+510,511,John Collins,2019-12-27,ATL,,MIL,L,1st,55,0,"John Collins misses 2-pt layup from 2 ft (ATL 0, MIL 3)",2,2
+511,512,John Collins,2019-12-27,ATL,,MIL,L,1st,98,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 0, MIL 3)",3,23
+512,513,John Collins,2019-12-27,ATL,,MIL,L,1st,155,1,"John Collins makes 2-pt layup from 6 ft (assist by Trae Young) (ATL 2, MIL 8)",2,6
+513,514,John Collins,2019-12-27,ATL,,MIL,L,1st,212,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 4, MIL 10)",3,26
+514,515,John Collins,2019-12-27,ATL,,MIL,L,2nd,231,1,"John Collins makes 2-pt layup from 3 ft (assist by Trae Young) (ATL 30, MIL 38)",2,3
+515,516,John Collins,2019-12-27,ATL,,MIL,L,2nd,258,1,"John Collins makes 3-pt jump shot from 25 ft (ATL 33, MIL 41)",3,25
+516,517,John Collins,2019-12-27,ATL,,MIL,L,2nd,368,0,"John Collins misses 2-pt layup from 5 ft (ATL 33, MIL 47)",2,5
+517,518,John Collins,2019-12-27,ATL,,MIL,L,2nd,651,0,"John Collins misses 2-pt jump shot from 8 ft (block by Brook Lopez) (ATL 40, MIL 60)",2,8
+518,519,John Collins,2019-12-27,ATL,,MIL,L,3rd,32,0,"John Collins misses 2-pt jump shot from 15 ft (ATL 40, MIL 63)",2,15
+519,520,John Collins,2019-12-27,ATL,,MIL,L,3rd,58,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 40, MIL 66)",3,26
+520,521,John Collins,2019-12-27,ATL,,MIL,L,3rd,85,1,"John Collins makes 2-pt layup from 1 ft (assist by Cam Reddish) (ATL 42, MIL 69)",2,1
+521,522,John Collins,2019-12-27,ATL,,MIL,L,3rd,351,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 46, MIL 78)",3,23
+522,523,John Collins,2019-12-27,ATL,,MIL,L,3rd,401,0,"John Collins misses 2-pt layup from 5 ft (block by Donte DiVincenzo) (ATL 48, MIL 78)",2,5
+523,524,John Collins,2019-12-27,ATL,,MIL,L,4th,86,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 63, MIL 88)",3,26
+524,525,John Collins,2019-12-23,ATL,@,CLE,L,1st,36,0,"John Collins misses 2-pt jump shot from 22 ft (ATL 0, CLE 1)",2,22
+525,526,John Collins,2019-12-23,ATL,@,CLE,L,1st,50,1,"John Collins makes 2-pt dunk from 1 ft (ATL 2, CLE 1)",2,1
+526,527,John Collins,2019-12-23,ATL,@,CLE,L,1st,97,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 5, CLE 4)",3,26
+527,528,John Collins,2019-12-23,ATL,@,CLE,L,1st,122,1,"John Collins makes 2-pt jump shot from 7 ft (assist by Trae Young) (ATL 7, CLE 6)",2,7
+528,529,John Collins,2019-12-23,ATL,@,CLE,L,1st,454,1,"John Collins makes 2-pt dunk from 2 ft (assist by Trae Young) (ATL 19, CLE 27)",2,2
+529,530,John Collins,2019-12-23,ATL,@,CLE,L,1st,500,1,"John Collins makes 2-pt jump shot from 17 ft (ATL 21, CLE 29)",2,17
+530,531,John Collins,2019-12-23,ATL,@,CLE,L,1st,523,0,"John Collins misses 2-pt layup from 4 ft (block by John Henson) (ATL 21, CLE 31)",2,4
+531,532,John Collins,2019-12-23,ATL,@,CLE,L,1st,526,1,"John Collins makes 2-pt layup from 1 ft (assist by Cam Reddish) (ATL 23, CLE 31)",2,1
+532,533,John Collins,2019-12-23,ATL,@,CLE,L,1st,627,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 27, CLE 35)",3,26
+533,534,John Collins,2019-12-23,ATL,@,CLE,L,2nd,17,1,"John Collins makes 2-pt hook shot from 8 ft (assist by Trae Young) (ATL 34, CLE 42)",2,8
+534,535,John Collins,2019-12-23,ATL,@,CLE,L,2nd,106,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 38, CLE 44)",2,1
+535,536,John Collins,2019-12-23,ATL,@,CLE,L,2nd,662,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 62, CLE 66)",3,26
+536,537,John Collins,2019-12-23,ATL,@,CLE,L,3rd,87,0,"John Collins misses 2-pt jump shot from 6 ft (ATL 66, CLE 74)",2,6
+537,538,John Collins,2019-12-23,ATL,@,CLE,L,3rd,91,1,"John Collins makes 2-pt jump shot from 1 ft (ATL 68, CLE 74)",2,1
+538,539,John Collins,2019-12-23,ATL,@,CLE,L,3rd,158,1,"John Collins makes 2-pt layup from 1 ft (assist by Vince Carter) (ATL 72, CLE 74)",2,1
+539,540,John Collins,2019-12-23,ATL,@,CLE,L,3rd,195,1,"John Collins makes 2-pt layup from 1 ft (ATL 74, CLE 74)",2,1
+540,541,John Collins,2019-12-23,ATL,@,CLE,L,3rd,266,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 76, CLE 76)",3,26
+541,542,John Collins,2019-12-23,ATL,@,CLE,L,4th,156,0,"John Collins misses 2-pt dunk from 1 ft (ATL 96, CLE 97)",2,1
+542,543,John Collins,2019-12-23,ATL,@,CLE,L,4th,308,0,"John Collins misses 2-pt layup from 2 ft (ATL 96, CLE 106)",2,2
+543,544,John Collins,2019-12-23,ATL,@,CLE,L,4th,463,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 105, CLE 115)",3,26
+544,545,John Collins,2019-10-31,ATL,,MIA,L,1st,20,0,"John Collins misses 2-pt jump shot from 14 ft (ATL 0, MIA 0)",2,14
+545,546,John Collins,2019-10-31,ATL,,MIA,L,1st,310,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Kevin Huerter) (ATL 14, MIA 8)",3,26
+546,547,John Collins,2019-10-31,ATL,,MIA,L,1st,366,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 14, MIA 10)",3,26
+547,548,John Collins,2019-10-31,ATL,,MIA,L,1st,656,0,"John Collins misses 2-pt layup from 11 ft (block by Chris Silva) (ATL 18, MIA 29)",2,11
+548,549,John Collins,2019-10-31,ATL,,MIA,L,1st,661,1,"John Collins makes 2-pt dunk from 1 ft (ATL 20, MIA 29)",2,1
+549,550,John Collins,2019-10-31,ATL,,MIA,L,2nd,357,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 33, MIA 44)",3,23
+550,551,John Collins,2019-10-31,ATL,,MIA,L,3rd,34,1,"John Collins makes 2-pt hook shot from 12 ft (assist by Alex Len) (ATL 48, MIA 55)",2,12
+551,552,John Collins,2019-10-31,ATL,,MIA,L,3rd,111,0,"John Collins misses 2-pt jump shot from 20 ft (ATL 51, MIA 59)",2,20
+552,553,John Collins,2019-10-31,ATL,,MIA,L,3rd,385,0,"John Collins misses 2-pt jump shot from 13 ft (block by Bam Adebayo) (ATL 57, MIA 71)",2,13
+553,554,John Collins,2019-10-31,ATL,,MIA,L,4th,244,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 83, MIA 92)",3,26
+554,555,John Collins,2019-10-31,ATL,,MIA,L,4th,696,1,"John Collins makes 3-pt jump shot from 26 ft (assist by DeAndre' Bembry) (ATL 97, MIA 106)",3,26
+555,556,John Collins,2019-10-29,ATL,@,MIA,L,1st,140,1,"John Collins makes 3-pt jump shot from 23 ft (assist by Trae Young) (ATL 5, MIA 4)",3,23
+556,557,John Collins,2019-10-29,ATL,@,MIA,L,1st,164,0,"John Collins misses 2-pt jump shot from 9 ft (ATL 5, MIA 4)",2,9
+557,558,John Collins,2019-10-29,ATL,@,MIA,L,1st,302,0,"John Collins misses 3-pt jump shot from 23 ft (ATL 7, MIA 9)",3,23
+558,559,John Collins,2019-10-29,ATL,@,MIA,L,1st,333,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 10, MIA 9)",3,26
+559,560,John Collins,2019-10-29,ATL,@,MIA,L,1st,469,1,"John Collins makes 3-pt jump shot from 23 ft (assist by Kevin Huerter) (ATL 15, MIA 18)",3,23
+560,561,John Collins,2019-10-29,ATL,@,MIA,L,1st,529,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Kevin Huerter) (ATL 18, MIA 20)",3,25
+561,562,John Collins,2019-10-29,ATL,@,MIA,L,2nd,165,1,"John Collins makes 2-pt layup from 1 ft (assist by De'Andre Hunter) (ATL 33, MIA 36)",2,1
+562,563,John Collins,2019-10-29,ATL,@,MIA,L,2nd,310,1,"John Collins makes 2-pt layup from 1 ft (assist by Cam Reddish) (ATL 42, MIA 43)",2,1
+563,564,John Collins,2019-10-29,ATL,@,MIA,L,3rd,137,0,"Defensive rebound by Cam Reddish (ATL 53, MIA 64)",5,3
+564,565,John Collins,2019-10-29,ATL,@,MIA,L,3rd,213,1,"Kendrick Nunn makes 2-pt layup from 2 ft (MIA 66, ATL 53)",2,2
+565,566,John Collins,2019-10-29,ATL,@,MIA,L,3rd,282,0,"Defensive rebound by De'Andre Hunter (ATL 55, MIA 68)",5,5
+566,567,John Collins,2019-10-29,ATL,@,MIA,L,3rd,344,0,"Offensive rebound by Damian Jones (ATL 55, MIA 71)",5,5
+567,568,John Collins,2019-10-29,ATL,@,MIA,L,3rd,391,1,"Bam Adebayo makes 2-pt hook shot from 8 ft (MIA 73, ATL 55)",2,8
+568,569,John Collins,2019-10-29,ATL,@,MIA,L,4th,133,1,"Offensive rebound by John Collins (ATL 73, MIA 90)",7,3
+569,570,John Collins,2019-10-29,ATL,@,MIA,L,4th,184,0,"Tyler Herro makes 3-pt jump shot from 25 ft (assist by Goran Dragić) (MIA 93, ATL 77)",3,25
+570,571,John Collins,2019-10-29,ATL,@,MIA,L,4th,490,1,"Jabari Parker makes 2-pt dunk from 1 ft (assist by Cam Reddish) (ATL 91, MIA 104)",2,1
+571,572,John Collins,2019-10-29,ATL,@,MIA,L,4th,552,0,"Jimmy Butler misses free throw 2 of 2 (MIA 106, ATL 95)",2,2
+572,573,John Collins,2019-10-28,ATL,,PHI,L,1st,7,1,"John Collins makes 3-pt jump shot from 26 ft (assist by Trae Young) (ATL 3, PHI 0)",3,26
+573,574,John Collins,2019-10-28,ATL,,PHI,L,1st,77,1,"John Collins makes 2-pt layup from 4 ft (ATL 7, PHI 0)",2,4
+574,575,John Collins,2019-10-28,ATL,,PHI,L,1st,587,1,"John Collins makes 2-pt jump shot from 19 ft (ATL 35, PHI 23)",2,19
+575,576,John Collins,2019-10-28,ATL,,PHI,L,1st,638,0,"John Collins misses 2-pt jump shot from 15 ft (block by Josh Richardson) (ATL 38, PHI 26)",2,15
+576,577,John Collins,2019-10-28,ATL,,PHI,L,1st,712,0,"John Collins misses 2-pt layup from 1 ft (block by Matisse Thybulle) (ATL 40, PHI 31)",2,1
+577,578,John Collins,2019-10-28,ATL,,PHI,L,2nd,106,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 44, PHI 37)",2,1
+578,579,John Collins,2019-10-28,ATL,,PHI,L,3rd,61,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 69, PHI 63)",2,1
+579,580,John Collins,2019-10-28,ATL,,PHI,L,3rd,640,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 81, PHI 80)",3,26
+580,581,John Collins,2019-10-28,ATL,,PHI,L,4th,643,0,"John Collins misses 2-pt layup from 1 ft (ATL 100, PHI 101)",2,1
+581,582,John Collins,2019-10-28,ATL,,PHI,L,4th,713,1,"John Collins makes 2-pt layup from 1 ft (ATL 103, PHI 103)",2,1
+582,583,John Collins,2019-10-26,ATL,,ORL,W,1st,254,0,"John Collins misses 2-pt jump shot from 15 ft (block by Jonathan Isaac) (ATL 14, ORL 9)",2,15
+583,584,John Collins,2019-10-26,ATL,,ORL,W,2nd,188,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 32, ORL 32)",2,1
+584,585,John Collins,2019-10-26,ATL,,ORL,W,2nd,234,0,"John Collins misses 2-pt layup from 1 ft (ATL 32, ORL 32)",2,1
+585,586,John Collins,2019-10-26,ATL,,ORL,W,2nd,240,1,"John Collins makes 2-pt layup from 2 ft (ATL 34, ORL 32)",2,2
+586,587,John Collins,2019-10-26,ATL,,ORL,W,2nd,578,0,"John Collins misses 2-pt layup from 4 ft (block by Jonathan Isaac) (ATL 49, ORL 44)",2,4
+587,588,John Collins,2019-10-26,ATL,,ORL,W,2nd,687,0,"John Collins misses 3-pt jump shot from 26 ft (ATL 52, ORL 50)",3,26
+588,589,John Collins,2019-10-26,ATL,,ORL,W,3rd,656,1,"John Collins makes 2-pt layup from 2 ft (assist by Kevin Huerter) (ATL 75, ORL 70)",2,2
+589,590,John Collins,2019-10-26,ATL,,ORL,W,4th,21,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 79, ORL 75)",2,1
+590,591,John Collins,2019-10-24,ATL,@,DET,W,1st,101,0,"John Collins misses 2-pt layup from 4 ft (ATL 4, DET 2)",2,4
+591,592,John Collins,2019-10-24,ATL,@,DET,W,1st,159,1,"John Collins makes 3-pt jump shot from 25 ft (assist by Alex Len) (ATL 7, DET 4)",3,25
+592,593,John Collins,2019-10-24,ATL,@,DET,W,1st,206,1,"John Collins makes 2-pt dunk from 1 ft (assist by Trae Young) (ATL 9, DET 4)",2,1
+593,594,John Collins,2019-10-24,ATL,@,DET,W,1st,229,1,"John Collins makes 2-pt jump shot from 10 ft (assist by Trae Young) (ATL 11, DET 4)",2,10
+594,595,John Collins,2019-10-24,ATL,@,DET,W,2nd,46,1,"John Collins makes 2-pt jump shot from 17 ft (ATL 40, DET 33)",2,17
+595,596,John Collins,2019-10-24,ATL,@,DET,W,2nd,157,1,"John Collins makes 2-pt layup from 2 ft (ATL 44, DET 39)",2,2
+596,597,John Collins,2019-10-24,ATL,@,DET,W,2nd,254,0,"John Collins misses 3-pt jump shot from 25 ft (ATL 46, DET 43)",3,25
+597,598,John Collins,2019-10-24,ATL,@,DET,W,3rd,50,0,"John Collins misses 2-pt hook shot from 6 ft (ATL 60, DET 63)",2,6
+598,599,John Collins,2019-10-24,ATL,@,DET,W,3rd,95,0,"John Collins misses 3-pt jump shot from 24 ft (ATL 60, DET 63)",3,24
+599,600,John Collins,2019-10-24,ATL,@,DET,W,3rd,150,1,"John Collins makes 2-pt dunk from 1 ft (ATL 62, DET 63)",2,1
+600,601,John Collins,2019-10-24,ATL,@,DET,W,3rd,395,0,"John Collins misses 2-pt layup from 2 ft (ATL 71, DET 71)",2,2
+601,602,John Collins,2019-10-24,ATL,@,DET,W,3rd,587,1,"John Collins makes 2-pt layup from 4 ft (assist by Evan Turner) (ATL 84, DET 79)",2,4
+602,603,John Collins,2019-10-24,ATL,@,DET,W,3rd,716,0,"John Collins misses 2-pt layup from 6 ft (block by Thon Maker) (ATL 91, DET 81)",2,6
+603,604,John Collins,2019-10-24,ATL,@,DET,W,4th,261,0,"John Collins misses 2-pt jump shot from 14 ft (ATL 97, DET 88)",2,14
+604,605,John Collins,2019-10-24,ATL,@,DET,W,4th,418,1,"John Collins makes 2-pt dunk from 1 ft (ATL 102, DET 92)",2,1

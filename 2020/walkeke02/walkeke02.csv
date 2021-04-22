@@ -1,0 +1,833 @@
+,Rk,Player,Date,Tm,Unnamed: 4,Opp,Unnamed: 6,Qtr,Time,Result,Description,point_amount,distance
+0,1,Kemba Walker,2020-03-10,BOS,@,IND,W,1st,16,0,"Kemba Walker misses 2-pt jump shot from 21 ft (BOS 0, IND 0)",2,21
+1,2,Kemba Walker,2020-03-10,BOS,@,IND,W,1st,123,0,"Kemba Walker misses 2-pt jump shot from 16 ft (BOS 5, IND 4)",2,16
+2,3,Kemba Walker,2020-03-10,BOS,@,IND,W,1st,292,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 16, IND 9)",3,26
+3,4,Kemba Walker,2020-03-10,BOS,@,IND,W,1st,389,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 18, IND 13)",3,27
+4,5,Kemba Walker,2020-03-10,BOS,@,IND,W,2nd,529,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 50, IND 40)",3,26
+5,6,Kemba Walker,2020-03-10,BOS,@,IND,W,3rd,152,1,"Kemba Walker makes 2-pt jump shot from 19 ft (BOS 68, IND 54)",2,19
+6,7,Kemba Walker,2020-03-10,BOS,@,IND,W,3rd,375,0,"Kemba Walker misses 3-pt jump shot from 29 ft (BOS 79, IND 64)",3,29
+7,8,Kemba Walker,2020-03-10,BOS,@,IND,W,3rd,469,1,"Kemba Walker makes 3-pt jump shot from 23 ft (assist by Brad Wanamaker) (BOS 82, IND 66)",3,23
+8,9,Kemba Walker,2020-03-10,BOS,@,IND,W,4th,325,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 102, IND 89)",3,27
+9,10,Kemba Walker,2020-03-10,BOS,@,IND,W,4th,338,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 102, IND 89)",3,27
+10,11,Kemba Walker,2020-03-10,BOS,@,IND,W,4th,371,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 102, IND 91)",3,28
+11,12,Kemba Walker,2020-03-10,BOS,@,IND,W,4th,569,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 104, IND 104)",2,18
+12,13,Kemba Walker,2020-03-08,BOS,,OKC,L,1st,100,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 3, OKC 2)",3,26
+13,14,Kemba Walker,2020-03-08,BOS,,OKC,L,1st,163,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 6, OKC 5)",3,26
+14,15,Kemba Walker,2020-03-08,BOS,,OKC,L,1st,374,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 15, OKC 14)",3,23
+15,16,Kemba Walker,2020-03-08,BOS,,OKC,L,2nd,61,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Luguentz Dort) (BOS 30, OKC 29)",2,2
+16,17,Kemba Walker,2020-03-08,BOS,,OKC,L,2nd,117,1,"Kemba Walker makes 2-pt jump shot from 18 ft (BOS 32, OKC 34)",2,18
+17,18,Kemba Walker,2020-03-08,BOS,,OKC,L,2nd,145,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 32, OKC 34)",3,26
+18,19,Kemba Walker,2020-03-08,BOS,,OKC,L,2nd,206,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 37, OKC 34)",3,27
+19,20,Kemba Walker,2020-03-08,BOS,,OKC,L,2nd,265,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 40, OKC 36)",3,24
+20,21,Kemba Walker,2020-03-08,BOS,,OKC,L,2nd,345,0,"Kemba Walker misses 3-pt jump shot from 27 ft (block by Abdel Nader) (BOS 44, OKC 36)",3,27
+21,22,Kemba Walker,2020-03-08,BOS,,OKC,L,3rd,61,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 63, OKC 55)",3,23
+22,23,Kemba Walker,2020-03-08,BOS,,OKC,L,3rd,406,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 73, OKC 67)",3,27
+23,24,Kemba Walker,2020-03-08,BOS,,OKC,L,4th,31,1,"Kemba Walker makes 2-pt jump shot from 22 ft (BOS 86, OKC 83)",2,22
+24,25,Kemba Walker,2020-03-08,BOS,,OKC,L,4th,103,0,"Kemba Walker misses 2-pt jump shot from 21 ft (BOS 86, OKC 88)",2,21
+25,26,Kemba Walker,2020-03-08,BOS,,OKC,L,4th,578,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 100, OKC 99)",2,3
+26,27,Kemba Walker,2020-03-06,BOS,,UTA,L,1st,144,1,"Kemba Walker makes 2-pt jump shot from 15 ft (BOS 10, UTA 9)",2,15
+27,28,Kemba Walker,2020-03-06,BOS,,UTA,L,1st,188,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 10, UTA 9)",3,27
+28,29,Kemba Walker,2020-03-06,BOS,,UTA,L,1st,345,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Daniel Theis) (BOS 23, UTA 16)",2,2
+29,30,Kemba Walker,2020-03-06,BOS,,UTA,L,2nd,47,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 33, UTA 33)",2,2
+30,31,Kemba Walker,2020-03-06,BOS,,UTA,L,2nd,73,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Tony Bradley) (BOS 33, UTA 36)",2,2
+31,32,Kemba Walker,2020-03-06,BOS,,UTA,L,2nd,94,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 33, UTA 36)",3,25
+32,33,Kemba Walker,2020-03-06,BOS,,UTA,L,3rd,19,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 49, UTA 62)",3,26
+33,34,Kemba Walker,2020-03-06,BOS,,UTA,L,3rd,107,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 53, UTA 65)",2,2
+34,35,Kemba Walker,2020-03-06,BOS,,UTA,L,3rd,175,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 56, UTA 65)",3,26
+35,36,Kemba Walker,2020-03-06,BOS,,UTA,L,3rd,267,0,"Kemba Walker misses 2-pt layup from 1 ft (BOS 60, UTA 65)",2,1
+36,37,Kemba Walker,2020-03-06,BOS,,UTA,L,3rd,293,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 60, UTA 65)",3,27
+37,38,Kemba Walker,2020-03-06,BOS,,UTA,L,4th,119,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 71, UTA 81)",3,26
+38,39,Kemba Walker,2020-03-06,BOS,,UTA,L,4th,168,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Tony Bradley) (BOS 71, UTA 81)",2,3
+39,40,Kemba Walker,2020-03-06,BOS,,UTA,L,4th,227,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 73, UTA 87)",2,2
+40,41,Kemba Walker,2020-03-06,BOS,,UTA,L,4th,472,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Rudy Gobert) (BOS 80, UTA 92)",2,3
+41,42,Kemba Walker,2020-03-06,BOS,,UTA,L,4th,642,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 89, UTA 96)",2,4
+42,43,Kemba Walker,2020-03-06,BOS,,UTA,L,4th,706,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 89, UTA 97)",3,25
+43,44,Kemba Walker,2020-03-03,BOS,,BRK,L,1st,87,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 5, BRK 3)",3,27
+44,45,Kemba Walker,2020-03-03,BOS,,BRK,L,1st,183,1,"Kemba Walker makes 2-pt jump shot from 16 ft (BOS 11, BRK 10)",2,16
+45,46,Kemba Walker,2020-03-03,BOS,,BRK,L,1st,246,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 17, BRK 14)",3,28
+46,47,Kemba Walker,2020-03-03,BOS,,BRK,L,2nd,133,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 39, BRK 32)",2,1
+47,48,Kemba Walker,2020-03-03,BOS,,BRK,L,2nd,156,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 39, BRK 34)",3,27
+48,49,Kemba Walker,2020-03-03,BOS,,BRK,L,2nd,247,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 40, BRK 34)",3,25
+49,50,Kemba Walker,2020-03-03,BOS,,BRK,L,2nd,285,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 40, BRK 34)",3,28
+50,51,Kemba Walker,2020-03-03,BOS,,BRK,L,2nd,325,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 42, BRK 34)",3,26
+51,52,Kemba Walker,2020-03-03,BOS,,BRK,L,2nd,385,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 42, BRK 34)",2,2
+52,53,Kemba Walker,2020-03-03,BOS,,BRK,L,3rd,554,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 79, BRK 62)",3,25
+53,54,Kemba Walker,2020-03-03,BOS,,BRK,L,3rd,716,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Romeo Langford) (BOS 84, BRK 67)",3,26
+54,55,Kemba Walker,2020-03-03,BOS,,BRK,L,4th,126,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 87, BRK 73)",3,26
+55,56,Kemba Walker,2020-03-03,BOS,,BRK,L,4th,437,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 102, BRK 91)",3,28
+56,57,Kemba Walker,2020-03-03,BOS,,BRK,L,4th,572,0,"Kemba Walker misses 2-pt jump shot from 16 ft (BOS 104, BRK 100)",2,16
+57,58,Kemba Walker,2020-03-03,BOS,,BRK,L,4th,596,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 109, BRK 103)",3,27
+58,59,Kemba Walker,2020-03-03,BOS,,BRK,L,4th,616,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 109, BRK 105)",3,27
+59,60,Kemba Walker,2020-02-13,BOS,,LAC,W,1st,37,0,"Kemba Walker misses 2-pt layup from 1 ft (block by Ivica Zubac) (BOS 0, LAC 2)",2,1
+60,61,Kemba Walker,2020-02-13,BOS,,LAC,W,1st,674,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 28, LAC 28)",3,25
+61,62,Kemba Walker,2020-02-13,BOS,,LAC,W,1st,719,0,"Kemba Walker misses 3-pt jump shot from 58 ft (BOS 30, LAC 32)",3,58
+62,63,Kemba Walker,2020-02-13,BOS,,LAC,W,2nd,58,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 35, LAC 32)",3,26
+63,64,Kemba Walker,2020-02-13,BOS,,LAC,W,2nd,127,0,"Kemba Walker misses 3-pt jump shot from 30 ft (BOS 35, LAC 37)",3,30
+64,65,Kemba Walker,2020-02-13,BOS,,LAC,W,2nd,152,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Brad Wanamaker) (BOS 38, LAC 38)",3,25
+65,66,Kemba Walker,2020-02-13,BOS,,LAC,W,2nd,195,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 43, LAC 40)",2,1
+66,67,Kemba Walker,2020-02-13,BOS,,LAC,W,2nd,247,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 45, LAC 43)",2,2
+67,68,Kemba Walker,2020-02-13,BOS,,LAC,W,3rd,640,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 86, LAC 80)",3,26
+68,69,Kemba Walker,2020-02-13,BOS,,LAC,W,3rd,666,0,"Kemba Walker misses 2-pt jump shot from 2 ft (BOS 86, LAC 82)",2,2
+69,70,Kemba Walker,2020-02-13,BOS,,LAC,W,4th,73,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Brad Wanamaker) (BOS 94, LAC 89)",3,27
+70,71,Kemba Walker,2020-02-13,BOS,,LAC,W,4th,198,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 98, LAC 95)",2,17
+71,72,Kemba Walker,2020-02-13,BOS,,LAC,W,4th,463,0,"Kemba Walker misses 2-pt jump shot from 2 ft (BOS 105, LAC 104)",2,2
+72,73,Kemba Walker,2020-02-13,BOS,,LAC,W,4th,535,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 109, LAC 109)",3,27
+73,74,Kemba Walker,2020-02-13,BOS,,LAC,W,4th,720,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 114, LAC 114)",2,15
+74,75,Kemba Walker,2020-02-13,BOS,,LAC,W,OT,607,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 121, LAC 124)",3,24
+75,76,Kemba Walker,2020-02-13,BOS,,LAC,W,2OT,486,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 130, LAC 127)",3,26
+76,77,Kemba Walker,2020-02-11,BOS,@,HOU,L,1st,55,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Jayson Tatum) (BOS 5, HOU 0)",3,26
+77,78,Kemba Walker,2020-02-11,BOS,@,HOU,L,1st,112,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 7, HOU 5)",3,27
+78,79,Kemba Walker,2020-02-11,BOS,@,HOU,L,1st,231,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Gordon Hayward) (BOS 12, HOU 7)",2,1
+79,80,Kemba Walker,2020-02-11,BOS,@,HOU,L,1st,373,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 14, HOU 15)",2,18
+80,81,Kemba Walker,2020-02-11,BOS,@,HOU,L,1st,390,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 14, HOU 15)",2,2
+81,82,Kemba Walker,2020-02-11,BOS,@,HOU,L,2nd,370,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 31, HOU 34)",3,27
+82,83,Kemba Walker,2020-02-11,BOS,@,HOU,L,2nd,402,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 33, HOU 37)",2,1
+83,84,Kemba Walker,2020-02-11,BOS,@,HOU,L,2nd,432,0,"Kemba Walker misses 2-pt layup from 1 ft (BOS 33, HOU 37)",2,1
+84,85,Kemba Walker,2020-02-11,BOS,@,HOU,L,2nd,512,1,"Kemba Walker makes 2-pt jump shot from 15 ft (assist by Marcus Smart) (BOS 37, HOU 43)",2,15
+85,86,Kemba Walker,2020-02-11,BOS,@,HOU,L,2nd,641,1,"Kemba Walker makes 2-pt jump shot from 20 ft (assist by Marcus Smart) (BOS 47, HOU 43)",2,20
+86,87,Kemba Walker,2020-02-11,BOS,@,HOU,L,2nd,691,0,"Kemba Walker misses 3-pt jump shot from 46 ft (BOS 47, HOU 47)",3,46
+87,88,Kemba Walker,2020-02-11,BOS,@,HOU,L,3rd,78,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Robert Covington) (BOS 49, HOU 53)",2,4
+88,89,Kemba Walker,2020-02-11,BOS,@,HOU,L,3rd,226,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 50, HOU 57)",3,26
+89,90,Kemba Walker,2020-02-11,BOS,@,HOU,L,3rd,295,0,"Kemba Walker misses 2-pt jump shot from 13 ft (BOS 53, HOU 57)",2,13
+90,91,Kemba Walker,2020-02-11,BOS,@,HOU,L,4th,315,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 87, HOU 92)",3,26
+91,92,Kemba Walker,2020-02-11,BOS,@,HOU,L,4th,541,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Robert Covington) (BOS 98, HOU 111)",2,2
+92,93,Kemba Walker,2020-02-11,BOS,@,HOU,L,4th,571,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Robert Covington) (BOS 98, HOU 113)",2,4
+93,94,Kemba Walker,2020-02-09,BOS,@,OKC,W,1st,65,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 2, OKC 0)",3,26
+94,95,Kemba Walker,2020-02-09,BOS,@,OKC,W,1st,99,0,"Kemba Walker misses 2-pt layup from 8 ft (block by Steven Adams) (BOS 2, OKC 2)",2,8
+95,96,Kemba Walker,2020-02-09,BOS,@,OKC,W,1st,337,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 15, OKC 16)",3,25
+96,97,Kemba Walker,2020-02-09,BOS,@,OKC,W,1st,433,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 18, OKC 20)",3,26
+97,98,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,350,0,"Kemba Walker misses 2-pt jump shot from 23 ft (BOS 40, OKC 42)",2,23
+98,99,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,377,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 40, OKC 44)",3,23
+99,100,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,473,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 42, OKC 49)",3,24
+100,101,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,539,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 44, OKC 51)",2,3
+101,102,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,597,0,"Kemba Walker misses 2-pt layup from 7 ft (BOS 47, OKC 53)",2,7
+102,103,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,667,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 52, OKC 57)",3,26
+103,104,Kemba Walker,2020-02-09,BOS,@,OKC,W,2nd,691,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 52, OKC 59)",2,4
+104,105,Kemba Walker,2020-02-09,BOS,@,OKC,W,3rd,308,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 70, OKC 71)",3,26
+105,106,Kemba Walker,2020-02-09,BOS,@,OKC,W,3rd,427,0,"Kemba Walker misses 2-pt layup from 6 ft (BOS 75, OKC 76)",2,6
+106,107,Kemba Walker,2020-02-09,BOS,@,OKC,W,4th,376,1,"Kemba Walker makes 2-pt jump shot from 18 ft (BOS 101, OKC 95)",2,18
+107,108,Kemba Walker,2020-02-09,BOS,@,OKC,W,4th,560,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 106, OKC 99)",3,28
+108,109,Kemba Walker,2020-02-09,BOS,@,OKC,W,4th,589,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 109, OKC 101)",3,26
+109,110,Kemba Walker,2020-02-07,BOS,,ATL,W,1st,38,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 3, ATL 1)",3,27
+110,111,Kemba Walker,2020-02-07,BOS,,ATL,W,1st,272,1,"Kemba Walker makes 3-pt jump shot from 29 ft (BOS 21, ATL 7)",3,29
+111,112,Kemba Walker,2020-02-07,BOS,,ATL,W,1st,411,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 24, ATL 13)",3,26
+112,113,Kemba Walker,2020-02-07,BOS,,ATL,W,1st,469,0,"Kemba Walker misses 2-pt jump shot from 3 ft (BOS 24, ATL 16)",2,3
+113,114,Kemba Walker,2020-02-07,BOS,,ATL,W,2nd,679,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 51, ATL 53)",3,27
+114,115,Kemba Walker,2020-02-07,BOS,,ATL,W,3rd,18,1,"Kemba Walker makes 2-pt jump shot from 22 ft (assist by Jayson Tatum) (BOS 56, ATL 55)",2,22
+115,116,Kemba Walker,2020-02-07,BOS,,ATL,W,3rd,124,0,"Kemba Walker misses 2-pt jump shot from 7 ft (BOS 57, ATL 57)",2,7
+116,117,Kemba Walker,2020-02-07,BOS,,ATL,W,3rd,186,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 60, ATL 59)",3,26
+117,118,Kemba Walker,2020-02-07,BOS,,ATL,W,3rd,271,1,"Kemba Walker makes 2-pt jump shot from 16 ft (BOS 65, ATL 62)",2,16
+118,119,Kemba Walker,2020-02-07,BOS,,ATL,W,3rd,373,0,"Kemba Walker misses 2-pt jump shot from 21 ft (BOS 67, ATL 64)",2,21
+119,120,Kemba Walker,2020-02-07,BOS,,ATL,W,3rd,427,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 73, ATL 66)",3,26
+120,121,Kemba Walker,2020-02-07,BOS,,ATL,W,4th,331,0,"Kemba Walker misses 2-pt jump shot from 21 ft (BOS 96, ATL 85)",2,21
+121,122,Kemba Walker,2020-02-07,BOS,,ATL,W,4th,347,0,"Kemba Walker misses 2-pt jump shot from 20 ft (BOS 96, ATL 85)",2,20
+122,123,Kemba Walker,2020-02-07,BOS,,ATL,W,4th,506,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 101, ATL 91)",2,2
+123,124,Kemba Walker,2020-01-30,BOS,,GSW,W,1st,92,0,"Kemba Walker misses 2-pt jump shot from 16 ft (BOS 1, GSW 7)",2,16
+124,125,Kemba Walker,2020-01-30,BOS,,GSW,W,1st,144,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 4, GSW 9)",3,26
+125,126,Kemba Walker,2020-01-30,BOS,,GSW,W,2nd,206,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 37, GSW 24)",3,25
+126,127,Kemba Walker,2020-01-30,BOS,,GSW,W,2nd,221,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Jayson Tatum) (BOS 40, GSW 24)",3,27
+127,128,Kemba Walker,2020-01-30,BOS,,GSW,W,2nd,291,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 44, GSW 27)",2,1
+128,129,Kemba Walker,2020-01-30,BOS,,GSW,W,2nd,414,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 46, GSW 33)",2,18
+129,130,Kemba Walker,2020-01-30,BOS,,GSW,W,2nd,530,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 50, GSW 39)",2,18
+130,131,Kemba Walker,2020-01-30,BOS,,GSW,W,2nd,720,1,"Kemba Walker makes 2-pt jump shot from 4 ft (BOS 60, GSW 50)",2,4
+131,132,Kemba Walker,2020-01-30,BOS,,GSW,W,3rd,107,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 68, GSW 52)",3,26
+132,133,Kemba Walker,2020-01-30,BOS,,GSW,W,3rd,150,0,"Kemba Walker misses 2-pt jump shot from 8 ft (BOS 68, GSW 54)",2,8
+133,134,Kemba Walker,2020-01-30,BOS,,GSW,W,3rd,247,0,"Kemba Walker misses 2-pt layup from 1 ft (block by Glenn Robinson) (BOS 72, GSW 56)",2,1
+134,135,Kemba Walker,2020-01-30,BOS,,GSW,W,4th,255,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 100, GSW 84)",3,27
+135,136,Kemba Walker,2020-01-30,BOS,,GSW,W,4th,285,1,"Kemba Walker makes 2-pt jump shot from 17 ft (BOS 102, GSW 86)",2,17
+136,137,Kemba Walker,2020-01-28,BOS,@,MIA,W,1st,173,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 13, MIA 4)",2,17
+137,138,Kemba Walker,2020-01-28,BOS,@,MIA,W,1st,279,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 13, MIA 10)",3,26
+138,139,Kemba Walker,2020-01-28,BOS,@,MIA,W,1st,572,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 29, MIA 21)",3,26
+139,140,Kemba Walker,2020-01-28,BOS,@,MIA,W,1st,677,1,"Kemba Walker makes 2-pt jump shot from 18 ft (BOS 33, MIA 25)",2,18
+140,141,Kemba Walker,2020-01-28,BOS,@,MIA,W,1st,715,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 36, MIA 28)",3,25
+141,142,Kemba Walker,2020-01-28,BOS,@,MIA,W,2nd,84,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 36, MIA 32)",3,28
+142,143,Kemba Walker,2020-01-28,BOS,@,MIA,W,2nd,455,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 46, MIA 44)",2,1
+143,144,Kemba Walker,2020-01-28,BOS,@,MIA,W,2nd,523,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 49, MIA 44)",2,2
+144,145,Kemba Walker,2020-01-28,BOS,@,MIA,W,2nd,660,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 51, MIA 48)",3,25
+145,146,Kemba Walker,2020-01-28,BOS,@,MIA,W,3rd,86,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 55, MIA 48)",3,26
+146,147,Kemba Walker,2020-01-28,BOS,@,MIA,W,3rd,159,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 58, MIA 51)",3,26
+147,148,Kemba Walker,2020-01-28,BOS,@,MIA,W,3rd,194,0,"Kemba Walker misses 2-pt jump shot from 10 ft (block by Tyler Herro) (BOS 58, MIA 51)",2,10
+148,149,Kemba Walker,2020-01-28,BOS,@,MIA,W,3rd,221,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 58, MIA 53)",3,26
+149,150,Kemba Walker,2020-01-28,BOS,@,MIA,W,3rd,650,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 75, MIA 72)",3,25
+150,151,Kemba Walker,2020-01-28,BOS,@,MIA,W,3rd,716,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 77, MIA 76)",3,25
+151,152,Kemba Walker,2020-01-28,BOS,@,MIA,W,4th,65,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 82, MIA 76)",2,2
+152,153,Kemba Walker,2020-01-28,BOS,@,MIA,W,4th,158,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 86, MIA 78)",3,24
+153,154,Kemba Walker,2020-01-28,BOS,@,MIA,W,4th,411,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 97, MIA 88)",3,25
+154,155,Kemba Walker,2020-01-28,BOS,@,MIA,W,4th,681,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 105, MIA 98)",3,25
+155,156,Kemba Walker,2020-01-26,BOS,@,NOP,L,1st,99,0,"Kemba Walker misses 2-pt layup from 1 ft (BOS 0, NOP 0)",2,1
+156,157,Kemba Walker,2020-01-26,BOS,@,NOP,L,1st,243,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 7, NOP 5)",3,27
+157,158,Kemba Walker,2020-01-26,BOS,@,NOP,L,1st,358,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 9, NOP 13)",3,26
+158,159,Kemba Walker,2020-01-26,BOS,@,NOP,L,1st,474,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Josh Hart) (BOS 16, NOP 18)",2,2
+159,160,Kemba Walker,2020-01-26,BOS,@,NOP,L,1st,507,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 16, NOP 21)",3,26
+160,161,Kemba Walker,2020-01-26,BOS,@,NOP,L,1st,537,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 18, NOP 24)",2,2
+161,162,Kemba Walker,2020-01-26,BOS,@,NOP,L,2nd,164,0,"Kemba Walker misses 2-pt jump shot from 4 ft (block by Lonzo Ball) (BOS 26, NOP 34)",2,4
+162,163,Kemba Walker,2020-01-26,BOS,@,NOP,L,2nd,222,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Grant Williams) (BOS 29, NOP 36)",3,25
+163,164,Kemba Walker,2020-01-26,BOS,@,NOP,L,2nd,253,1,"Kemba Walker makes 2-pt jump shot from 10 ft (BOS 31, NOP 39)",2,10
+164,165,Kemba Walker,2020-01-26,BOS,@,NOP,L,2nd,294,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 33, NOP 42)",2,2
+165,166,Kemba Walker,2020-01-26,BOS,@,NOP,L,2nd,420,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 37, NOP 47)",3,26
+166,167,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,87,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 44, NOP 66)",2,3
+167,168,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,124,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 46, NOP 66)",2,2
+168,169,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,253,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 53, NOP 71)",3,23
+169,170,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,283,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 55, NOP 73)",2,2
+170,171,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,343,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 58, NOP 75)",2,2
+171,172,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,422,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 63, NOP 81)",3,25
+172,173,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,480,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 68, NOP 83)",2,2
+173,174,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,541,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Javonte Green) (BOS 75, NOP 87)",3,26
+174,175,Kemba Walker,2020-01-26,BOS,@,NOP,L,3rd,691,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 79, NOP 91)",3,24
+175,176,Kemba Walker,2020-01-26,BOS,@,NOP,L,4th,341,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 96, NOP 105)",2,2
+176,177,Kemba Walker,2020-01-26,BOS,@,NOP,L,4th,499,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 104, NOP 115)",3,25
+177,178,Kemba Walker,2020-01-26,BOS,@,NOP,L,4th,556,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 106, NOP 117)",2,15
+178,179,Kemba Walker,2020-01-26,BOS,@,NOP,L,4th,613,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 108, NOP 119)",2,3
+179,180,Kemba Walker,2020-01-24,BOS,@,ORL,W,1st,81,1,"Kemba Walker makes 2-pt jump shot from 15 ft (assist by Daniel Theis) (BOS 7, ORL 3)",2,15
+180,181,Kemba Walker,2020-01-24,BOS,@,ORL,W,1st,155,1,"Kemba Walker makes 2-pt jump shot from 15 ft (BOS 12, ORL 7)",2,15
+181,182,Kemba Walker,2020-01-24,BOS,@,ORL,W,1st,266,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Vincent Poirier) (BOS 17, ORL 14)",3,26
+182,183,Kemba Walker,2020-01-24,BOS,@,ORL,W,1st,327,0,"Kemba Walker misses 2-pt layup from 1 ft (BOS 18, ORL 14)",2,1
+183,184,Kemba Walker,2020-01-24,BOS,@,ORL,W,1st,367,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 18, ORL 16)",3,26
+184,185,Kemba Walker,2020-01-24,BOS,@,ORL,W,1st,710,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 24, ORL 30)",2,4
+185,186,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,82,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 26, ORL 32)",2,2
+186,187,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,119,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 26, ORL 35)",3,26
+187,188,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,207,1,"Kemba Walker makes 2-pt jump shot from 16 ft (BOS 30, ORL 42)",2,16
+188,189,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,373,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 32, ORL 46)",3,25
+189,190,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,401,1,"Kemba Walker makes 2-pt jump shot from 14 ft (assist by Marcus Smart) (BOS 34, ORL 46)",2,14
+190,191,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,438,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Gordon Hayward) (BOS 37, ORL 49)",3,25
+191,192,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,480,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 40, ORL 51)",3,26
+192,193,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,510,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Marcus Smart) (BOS 43, ORL 54)",3,25
+193,194,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,604,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 47, ORL 54)",2,2
+194,195,Kemba Walker,2020-01-24,BOS,@,ORL,W,2nd,634,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 47, ORL 57)",3,25
+195,196,Kemba Walker,2020-01-24,BOS,@,ORL,W,3rd,312,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 62, ORL 64)",2,2
+196,197,Kemba Walker,2020-01-24,BOS,@,ORL,W,4th,17,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Grant Williams) (BOS 85, ORL 77)",3,27
+197,198,Kemba Walker,2020-01-24,BOS,@,ORL,W,4th,194,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 95, ORL 81)",3,27
+198,199,Kemba Walker,2020-01-24,BOS,@,ORL,W,4th,302,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 97, ORL 86)",2,3
+199,200,Kemba Walker,2020-01-24,BOS,@,ORL,W,4th,320,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 97, ORL 86)",3,25
+200,201,Kemba Walker,2020-01-24,BOS,@,ORL,W,4th,490,0,"Kemba Walker misses 2-pt jump shot from 5 ft (BOS 98, ORL 92)",2,5
+201,202,Kemba Walker,2020-01-24,BOS,@,ORL,W,4th,694,0,"Kemba Walker misses 3-pt jump shot from 31 ft (BOS 109, ORL 98)",3,31
+202,203,Kemba Walker,2020-01-22,BOS,,MEM,W,1st,31,0,"Kemba Walker misses 2-pt jump shot from 16 ft (BOS 0, MEM 0)",2,16
+203,204,Kemba Walker,2020-01-22,BOS,,MEM,W,1st,237,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 7, MEM 2)",3,26
+204,205,Kemba Walker,2020-01-22,BOS,,MEM,W,1st,312,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Jaren Jackson) (BOS 7, MEM 3)",2,3
+205,206,Kemba Walker,2020-01-22,BOS,,MEM,W,1st,444,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 9, MEM 12)",2,3
+206,207,Kemba Walker,2020-01-22,BOS,,MEM,W,2nd,102,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 29, MEM 29)",3,26
+207,208,Kemba Walker,2020-01-22,BOS,,MEM,W,2nd,275,0,"Kemba Walker misses 2-pt jump shot from 8 ft (BOS 35, MEM 39)",2,8
+208,209,Kemba Walker,2020-01-22,BOS,,MEM,W,2nd,361,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 38, MEM 42)",3,25
+209,210,Kemba Walker,2020-01-22,BOS,,MEM,W,3rd,247,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 71, MEM 51)",3,27
+210,211,Kemba Walker,2020-01-22,BOS,,MEM,W,3rd,268,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Jayson Tatum) (BOS 74, MEM 51)",3,25
+211,212,Kemba Walker,2020-01-20,BOS,,LAL,W,1st,40,0,"Kemba Walker misses 2-pt layup from 1 ft (block by JaVale McGee) (BOS 0, LAL 6)",2,1
+212,213,Kemba Walker,2020-01-20,BOS,,LAL,W,1st,195,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Anthony Davis) (BOS 6, LAL 12)",2,2
+213,214,Kemba Walker,2020-01-20,BOS,,LAL,W,1st,244,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 12, LAL 13)",2,2
+214,215,Kemba Walker,2020-01-20,BOS,,LAL,W,1st,429,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Marcus Smart) (BOS 22, LAL 21)",3,25
+215,216,Kemba Walker,2020-01-20,BOS,,LAL,W,2nd,18,1,"Kemba Walker makes 2-pt jump shot from 17 ft (assist by Marcus Smart) (BOS 35, LAL 30)",2,17
+216,217,Kemba Walker,2020-01-20,BOS,,LAL,W,2nd,156,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 42, LAL 37)",3,25
+217,218,Kemba Walker,2020-01-20,BOS,,LAL,W,2nd,460,1,"Kemba Walker makes 2-pt jump shot from 22 ft (assist by Jaylen Brown) (BOS 55, LAL 45)",2,22
+218,219,Kemba Walker,2020-01-20,BOS,,LAL,W,2nd,648,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 67, LAL 53)",2,2
+219,220,Kemba Walker,2020-01-20,BOS,,LAL,W,3rd,50,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Jaylen Brown) (BOS 72, LAL 55)",3,26
+220,221,Kemba Walker,2020-01-20,BOS,,LAL,W,3rd,123,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 77, LAL 59)",2,3
+221,222,Kemba Walker,2020-01-20,BOS,,LAL,W,3rd,148,1,"Kemba Walker makes 2-pt layup from 5 ft (BOS 79, LAL 61)",2,5
+222,223,Kemba Walker,2020-01-20,BOS,,LAL,W,3rd,204,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 79, LAL 63)",3,26
+223,224,Kemba Walker,2020-01-20,BOS,,LAL,W,3rd,388,1,"Kemba Walker makes 2-pt jump shot from 7 ft (assist by Jayson Tatum) (BOS 95, LAL 68)",2,7
+224,225,Kemba Walker,2020-01-16,BOS,@,MIL,L,1st,245,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 6, MIL 15)",2,4
+225,226,Kemba Walker,2020-01-16,BOS,@,MIL,L,1st,255,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 6, MIL 15)",3,27
+226,227,Kemba Walker,2020-01-16,BOS,@,MIL,L,1st,326,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 8, MIL 18)",3,28
+227,228,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,80,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 20, MIL 42)",3,27
+228,229,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,126,1,"Kemba Walker makes 2-pt jump shot from 17 ft (BOS 22, MIL 44)",2,17
+229,230,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,163,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 24, MIL 44)",2,2
+230,231,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,259,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 28, MIL 49)",3,27
+231,232,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,310,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 31, MIL 53)",3,27
+232,233,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,361,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 33, MIL 58)",2,2
+233,234,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,380,1,"Kemba Walker makes 2-pt jump shot from 23 ft (BOS 35, MIL 58)",2,23
+234,235,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,450,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 39, MIL 60)",2,1
+235,236,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,538,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 45, MIL 65)",3,26
+236,237,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,684,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 53, MIL 73)",2,3
+237,238,Kemba Walker,2020-01-16,BOS,@,MIL,L,2nd,719,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 58, MIL 76)",3,26
+238,239,Kemba Walker,2020-01-16,BOS,@,MIL,L,3rd,108,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Brook Lopez) (BOS 62, MIL 77)",2,2
+239,240,Kemba Walker,2020-01-16,BOS,@,MIL,L,3rd,166,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 68, MIL 81)",2,1
+240,241,Kemba Walker,2020-01-16,BOS,@,MIL,L,3rd,447,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 81, MIL 89)",3,26
+241,242,Kemba Walker,2020-01-16,BOS,@,MIL,L,3rd,642,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 84, MIL 101)",3,26
+242,243,Kemba Walker,2020-01-16,BOS,@,MIL,L,4th,290,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 103, MIL 113)",2,1
+243,244,Kemba Walker,2020-01-16,BOS,@,MIL,L,4th,421,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 109, MIL 119)",3,26
+244,245,Kemba Walker,2020-01-16,BOS,@,MIL,L,4th,466,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 109, MIL 121)",3,27
+245,246,Kemba Walker,2020-01-16,BOS,@,MIL,L,4th,505,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 111, MIL 123)",2,2
+246,247,Kemba Walker,2020-01-16,BOS,@,MIL,L,4th,648,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 121, MIL 127)",2,1
+247,248,Kemba Walker,2020-01-15,BOS,,DET,L,1st,15,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Daniel Theis) (BOS 3, DET 0)",3,26
+248,249,Kemba Walker,2020-01-15,BOS,,DET,L,1st,87,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 4, DET 4)",2,18
+249,250,Kemba Walker,2020-01-15,BOS,,DET,L,1st,171,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 4, DET 9)",3,27
+250,251,Kemba Walker,2020-01-15,BOS,,DET,L,1st,413,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Marcus Smart) (BOS 14, DET 18)",3,26
+251,252,Kemba Walker,2020-01-15,BOS,,DET,L,1st,440,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 14, DET 18)",3,26
+252,253,Kemba Walker,2020-01-15,BOS,,DET,L,1st,551,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 18, DET 24)",2,2
+253,254,Kemba Walker,2020-01-15,BOS,,DET,L,2nd,621,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 50, DET 54)",3,25
+254,255,Kemba Walker,2020-01-15,BOS,,DET,L,2nd,687,1,"Kemba Walker makes 2-pt jump shot from 18 ft (BOS 57, DET 57)",2,18
+255,256,Kemba Walker,2020-01-15,BOS,,DET,L,3rd,49,1,"Kemba Walker makes 2-pt layup from 3 ft (assist by Daniel Theis) (BOS 61, DET 59)",2,3
+256,257,Kemba Walker,2020-01-15,BOS,,DET,L,3rd,91,1,"Kemba Walker makes 2-pt jump shot from 15 ft (BOS 63, DET 61)",2,15
+257,258,Kemba Walker,2020-01-15,BOS,,DET,L,3rd,148,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 63, DET 65)",3,26
+258,259,Kemba Walker,2020-01-15,BOS,,DET,L,3rd,458,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 73, DET 76)",3,27
+259,260,Kemba Walker,2020-01-15,BOS,,DET,L,3rd,525,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 73, DET 79)",3,27
+260,261,Kemba Walker,2020-01-15,BOS,,DET,L,4th,13,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 82, DET 91)",3,25
+261,262,Kemba Walker,2020-01-15,BOS,,DET,L,4th,165,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 87, DET 99)",3,28
+262,263,Kemba Walker,2020-01-15,BOS,,DET,L,4th,202,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 87, DET 101)",2,3
+263,264,Kemba Walker,2020-01-15,BOS,,DET,L,4th,395,0,"Kemba Walker misses 2-pt layup from 6 ft (BOS 93, DET 108)",2,6
+264,265,Kemba Walker,2020-01-15,BOS,,DET,L,4th,475,1,"Kemba Walker makes 2-pt jump shot from 19 ft (BOS 95, DET 109)",2,19
+265,266,Kemba Walker,2020-01-15,BOS,,DET,L,4th,563,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 97, DET 111)",3,26
+266,267,Kemba Walker,2020-01-13,BOS,,CHI,W,1st,318,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Jayson Tatum) (BOS 12, CHI 8)",2,2
+267,268,Kemba Walker,2020-01-13,BOS,,CHI,W,1st,436,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Gordon Hayward) (BOS 18, CHI 9)",2,1
+268,269,Kemba Walker,2020-01-13,BOS,,CHI,W,1st,500,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Marcus Smart) (BOS 21, CHI 9)",3,26
+269,270,Kemba Walker,2020-01-13,BOS,,CHI,W,2nd,619,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 49, CHI 33)",3,26
+270,271,Kemba Walker,2020-01-13,BOS,,CHI,W,3rd,92,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 57, CHI 41)",3,26
+271,272,Kemba Walker,2020-01-13,BOS,,CHI,W,3rd,359,0,"Kemba Walker misses 2-pt jump shot from 19 ft (BOS 63, CHI 56)",2,19
+272,273,Kemba Walker,2020-01-13,BOS,,CHI,W,3rd,437,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 67, CHI 58)",3,23
+273,274,Kemba Walker,2020-01-13,BOS,,CHI,W,4th,561,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 108, CHI 93)",3,25
+274,275,Kemba Walker,2020-01-13,BOS,,CHI,W,4th,598,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 111, CHI 95)",3,26
+275,276,Kemba Walker,2020-01-11,BOS,,NOP,W,1st,144,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 5, NOP 7)",3,26
+276,277,Kemba Walker,2020-01-11,BOS,,NOP,W,1st,291,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Jayson Tatum) (BOS 14, NOP 7)",3,26
+277,278,Kemba Walker,2020-01-11,BOS,,NOP,W,2nd,301,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 57, NOP 37)",3,26
+278,279,Kemba Walker,2020-01-11,BOS,,NOP,W,2nd,483,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 62, NOP 45)",3,26
+279,280,Kemba Walker,2020-01-11,BOS,,NOP,W,2nd,668,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 72, NOP 55)",2,2
+280,281,Kemba Walker,2020-01-11,BOS,,NOP,W,3rd,165,1,"Kemba Walker makes 2-pt jump shot from 19 ft (assist by Daniel Theis) (BOS 85, NOP 61)",2,19
+281,282,Kemba Walker,2020-01-11,BOS,,NOP,W,3rd,290,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 90, NOP 64)",3,27
+282,283,Kemba Walker,2020-01-11,BOS,,NOP,W,3rd,432,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 96, NOP 71)",2,18
+283,284,Kemba Walker,2020-01-11,BOS,,NOP,W,3rd,715,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 114, NOP 79)",2,3
+284,285,Kemba Walker,2020-01-11,BOS,,NOP,W,4th,86,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 116, NOP 90)",3,27
+285,286,Kemba Walker,2020-01-11,BOS,,NOP,W,4th,134,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 116, NOP 92)",3,26
+286,287,Kemba Walker,2020-01-11,BOS,,NOP,W,4th,154,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 118, NOP 92)",2,2
+287,288,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,145,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 7, PHI 8)",3,26
+288,289,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,172,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 10, PHI 11)",3,26
+289,290,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,254,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 19, PHI 17)",3,25
+290,291,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,283,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 19, PHI 17)",3,26
+291,292,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,473,1,"Kemba Walker makes 2-pt jump shot from 15 ft (BOS 26, PHI 22)",2,15
+292,293,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,515,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 26, PHI 22)",3,26
+293,294,Kemba Walker,2020-01-09,BOS,@,PHI,L,1st,585,1,"Kemba Walker makes 2-pt jump shot from 18 ft (BOS 30, PHI 24)",2,18
+294,295,Kemba Walker,2020-01-09,BOS,@,PHI,L,2nd,447,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 51, PHI 38)",3,26
+295,296,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,122,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Al Horford) (BOS 57, PHI 55)",2,4
+296,297,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,149,0,"Kemba Walker misses 2-pt jump shot from 20 ft (BOS 57, PHI 57)",2,20
+297,298,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,197,1,"Kemba Walker makes 2-pt jump shot from 12 ft (assist by Marcus Smart) (BOS 59, PHI 59)",2,12
+298,299,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,301,1,"Kemba Walker makes 2-pt jump shot from 18 ft (BOS 63, PHI 67)",2,18
+299,300,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,431,1,"Kemba Walker makes 3-pt jump shot from 23 ft (assist by Jayson Tatum) (BOS 69, PHI 69)",3,23
+300,301,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,466,1,"Kemba Walker makes 3-pt jump shot from 24 ft (assist by Semi Ojeleye) (BOS 72, PHI 71)",3,24
+301,302,Kemba Walker,2020-01-09,BOS,@,PHI,L,3rd,518,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 72, PHI 73)",2,4
+302,303,Kemba Walker,2020-01-09,BOS,@,PHI,L,4th,369,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 87, PHI 94)",3,26
+303,304,Kemba Walker,2020-01-09,BOS,@,PHI,L,4th,380,1,"Kemba Walker makes 2-pt jump shot from 9 ft (BOS 89, PHI 94)",2,9
+304,305,Kemba Walker,2020-01-09,BOS,@,PHI,L,4th,495,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 94, PHI 98)",3,26
+305,306,Kemba Walker,2020-01-09,BOS,@,PHI,L,4th,599,0,"Kemba Walker misses 3-pt jump shot from 29 ft (BOS 94, PHI 103)",3,29
+306,307,Kemba Walker,2020-01-09,BOS,@,PHI,L,4th,699,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 98, PHI 107)",2,2
+307,308,Kemba Walker,2020-01-08,BOS,,SAS,L,1st,99,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 0, SAS 6)",3,26
+308,309,Kemba Walker,2020-01-08,BOS,,SAS,L,2nd,118,1,"Kemba Walker makes 2-pt jump shot from 13 ft (BOS 24, SAS 40)",2,13
+309,310,Kemba Walker,2020-01-08,BOS,,SAS,L,2nd,243,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 27, SAS 47)",3,27
+310,311,Kemba Walker,2020-01-08,BOS,,SAS,L,2nd,296,1,"Kemba Walker makes 2-pt layup from 4 ft (BOS 31, SAS 49)",2,4
+311,312,Kemba Walker,2020-01-08,BOS,,SAS,L,2nd,323,0,"Kemba Walker misses 2-pt jump shot from 20 ft (block by Trey Lyles) (BOS 31, SAS 52)",2,20
+312,313,Kemba Walker,2020-01-08,BOS,,SAS,L,3rd,286,1,"Kemba Walker makes 2-pt jump shot from 17 ft (assist by Daniel Theis) (BOS 62, SAS 76)",2,17
+313,314,Kemba Walker,2019-12-31,BOS,@,CHO,W,1st,190,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 6, CHO 8)",2,3
+314,315,Kemba Walker,2019-12-31,BOS,@,CHO,W,1st,362,0,"Kemba Walker misses 2-pt layup from 7 ft (block by Devonte' Graham) (BOS 10, CHO 12)",2,7
+315,316,Kemba Walker,2019-12-31,BOS,@,CHO,W,1st,399,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Marcus Smart) (BOS 15, CHO 14)",3,26
+316,317,Kemba Walker,2019-12-31,BOS,@,CHO,W,1st,481,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 17, CHO 16)",2,2
+317,318,Kemba Walker,2019-12-31,BOS,@,CHO,W,1st,539,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 20, CHO 16)",3,27
+318,319,Kemba Walker,2019-12-31,BOS,@,CHO,W,2nd,436,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 40, CHO 29)",2,2
+319,320,Kemba Walker,2019-12-31,BOS,@,CHO,W,2nd,595,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 45, CHO 38)",2,3
+320,321,Kemba Walker,2019-12-31,BOS,@,CHO,W,2nd,678,1,"Kemba Walker makes 3-pt jump shot from 28 ft (assist by Marcus Smart) (BOS 50, CHO 43)",3,28
+321,322,Kemba Walker,2019-12-31,BOS,@,CHO,W,2nd,720,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 50, CHO 43)",3,27
+322,323,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,100,1,"Kemba Walker makes 3-pt jump shot from 24 ft (BOS 55, CHO 45)",3,24
+323,324,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,171,0,"Kemba Walker misses 2-pt layup from 5 ft (block by P.J. Washington) (BOS 57, CHO 47)",2,5
+324,325,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,212,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 59, CHO 50)",3,25
+325,326,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,365,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 64, CHO 57)",3,25
+326,327,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,424,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 69, CHO 62)",2,1
+327,328,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,497,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Enes Kanter) (BOS 71, CHO 64)",2,1
+328,329,Kemba Walker,2019-12-31,BOS,@,CHO,W,3rd,547,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 71, CHO 66)",2,17
+329,330,Kemba Walker,2019-12-31,BOS,@,CHO,W,4th,332,1,"Kemba Walker makes 2-pt jump shot from 3 ft (BOS 96, CHO 79)",2,3
+330,331,Kemba Walker,2019-12-31,BOS,@,CHO,W,4th,358,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 96, CHO 82)",2,17
+331,332,Kemba Walker,2019-12-31,BOS,@,CHO,W,4th,457,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Marcus Smart) (BOS 102, CHO 83)",2,1
+332,333,Kemba Walker,2019-12-28,BOS,,TOR,L,1st,64,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 2, TOR 2)",2,1
+333,334,Kemba Walker,2019-12-28,BOS,,TOR,L,1st,98,0,"Kemba Walker misses 2-pt jump shot from 3 ft (BOS 2, TOR 4)",2,3
+334,335,Kemba Walker,2019-12-28,BOS,,TOR,L,1st,249,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 7, TOR 11)",3,27
+335,336,Kemba Walker,2019-12-28,BOS,,TOR,L,1st,305,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Daniel Theis) (BOS 11, TOR 13)",2,2
+336,337,Kemba Walker,2019-12-28,BOS,,TOR,L,1st,534,0,"Kemba Walker misses 2-pt jump shot from 4 ft (BOS 19, TOR 25)",2,4
+337,338,Kemba Walker,2019-12-28,BOS,,TOR,L,2nd,265,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 35, TOR 40)",2,1
+338,339,Kemba Walker,2019-12-28,BOS,,TOR,L,2nd,323,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 37, TOR 42)",3,26
+339,340,Kemba Walker,2019-12-28,BOS,,TOR,L,2nd,478,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 39, TOR 51)",3,25
+340,341,Kemba Walker,2019-12-28,BOS,,TOR,L,2nd,545,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Jaylen Brown) (BOS 43, TOR 53)",2,2
+341,342,Kemba Walker,2019-12-28,BOS,,TOR,L,2nd,720,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 54, TOR 59)",3,26
+342,343,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,62,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Gordon Hayward) (BOS 58, TOR 62)",2,2
+343,344,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,84,0,"Kemba Walker misses 3-pt jump shot from 29 ft (BOS 58, TOR 62)",3,29
+344,345,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,105,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 58, TOR 62)",3,28
+345,346,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,267,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 63, TOR 70)",2,2
+346,347,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,435,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Enes Kanter) (BOS 70, TOR 78)",3,27
+347,348,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,465,0,"Kemba Walker misses 2-pt jump shot from 19 ft (BOS 70, TOR 80)",2,19
+348,349,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,572,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 75, TOR 84)",3,28
+349,350,Kemba Walker,2019-12-28,BOS,,TOR,L,3rd,617,0,"Kemba Walker misses 2-pt layup from 5 ft (BOS 75, TOR 84)",2,5
+350,351,Kemba Walker,2019-12-28,BOS,,TOR,L,4th,193,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 82, TOR 93)",2,3
+351,352,Kemba Walker,2019-12-28,BOS,,TOR,L,4th,276,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 85, TOR 98)",3,27
+352,353,Kemba Walker,2019-12-28,BOS,,TOR,L,4th,510,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 92, TOR 109)",3,23
+353,354,Kemba Walker,2019-12-28,BOS,,TOR,L,4th,548,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 92, TOR 109)",3,24
+354,355,Kemba Walker,2019-12-28,BOS,,TOR,L,4th,607,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 96, TOR 111)",2,1
+355,356,Kemba Walker,2019-12-27,BOS,,CLE,W,1st,121,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 4, CLE 4)",3,26
+356,357,Kemba Walker,2019-12-27,BOS,,CLE,W,1st,311,1,"Kemba Walker makes 2-pt layup from 3 ft (assist by Enes Kanter) (BOS 15, CLE 13)",2,3
+357,358,Kemba Walker,2019-12-27,BOS,,CLE,W,1st,365,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Grant Williams) (BOS 19, CLE 16)",2,2
+358,359,Kemba Walker,2019-12-27,BOS,,CLE,W,1st,479,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Cedi Osman) (BOS 24, CLE 19)",2,3
+359,360,Kemba Walker,2019-12-27,BOS,,CLE,W,2nd,353,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 48, CLE 28)",3,26
+360,361,Kemba Walker,2019-12-27,BOS,,CLE,W,2nd,381,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 48, CLE 30)",3,26
+361,362,Kemba Walker,2019-12-27,BOS,,CLE,W,2nd,605,0,"Kemba Walker misses 2-pt jump shot from 20 ft (BOS 60, CLE 45)",2,20
+362,363,Kemba Walker,2019-12-27,BOS,,CLE,W,2nd,664,1,"Kemba Walker makes 2-pt jump shot from 16 ft (BOS 62, CLE 47)",2,16
+363,364,Kemba Walker,2019-12-27,BOS,,CLE,W,2nd,678,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 62, CLE 47)",3,25
+364,365,Kemba Walker,2019-12-27,BOS,,CLE,W,3rd,33,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 62, CLE 47)",3,26
+365,366,Kemba Walker,2019-12-27,BOS,,CLE,W,3rd,108,1,"Kemba Walker makes 3-pt jump shot from 24 ft (assist by Gordon Hayward) (BOS 68, CLE 51)",3,24
+366,367,Kemba Walker,2019-12-27,BOS,,CLE,W,3rd,187,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 68, CLE 53)",3,26
+367,368,Kemba Walker,2019-12-27,BOS,,CLE,W,3rd,469,1,"Kemba Walker makes 2-pt jump shot from 14 ft (BOS 86, CLE 67)",2,14
+368,369,Kemba Walker,2019-12-27,BOS,,CLE,W,3rd,502,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 86, CLE 69)",3,26
+369,370,Kemba Walker,2019-12-27,BOS,,CLE,W,4th,249,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 102, CLE 90)",2,4
+370,371,Kemba Walker,2019-12-25,BOS,@,TOR,W,1st,72,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 0, TOR 4)",3,25
+371,372,Kemba Walker,2019-12-25,BOS,@,TOR,W,1st,154,0,"Kemba Walker misses 2-pt layup from 1 ft (BOS 2, TOR 10)",2,1
+372,373,Kemba Walker,2019-12-25,BOS,@,TOR,W,1st,193,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Gordon Hayward) (BOS 7, TOR 10)",3,26
+373,374,Kemba Walker,2019-12-25,BOS,@,TOR,W,1st,212,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Jayson Tatum) (BOS 9, TOR 10)",2,1
+374,375,Kemba Walker,2019-12-25,BOS,@,TOR,W,1st,397,0,"Kemba Walker misses 2-pt jump shot from 10 ft (BOS 11, TOR 14)",2,10
+375,376,Kemba Walker,2019-12-25,BOS,@,TOR,W,1st,572,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Jayson Tatum) (BOS 20, TOR 14)",3,25
+376,377,Kemba Walker,2019-12-25,BOS,@,TOR,W,2nd,295,1,"Kemba Walker makes 2-pt jump shot from 13 ft (BOS 37, TOR 32)",2,13
+377,378,Kemba Walker,2019-12-25,BOS,@,TOR,W,2nd,399,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 45, TOR 37)",3,26
+378,379,Kemba Walker,2019-12-25,BOS,@,TOR,W,2nd,511,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 49, TOR 41)",3,26
+379,380,Kemba Walker,2019-12-25,BOS,@,TOR,W,3rd,43,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 58, TOR 49)",3,26
+380,381,Kemba Walker,2019-12-25,BOS,@,TOR,W,3rd,203,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 66, TOR 54)",3,26
+381,382,Kemba Walker,2019-12-25,BOS,@,TOR,W,3rd,312,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 73, TOR 59)",3,27
+382,383,Kemba Walker,2019-12-25,BOS,@,TOR,W,3rd,345,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 73, TOR 59)",3,26
+383,384,Kemba Walker,2019-12-25,BOS,@,TOR,W,3rd,482,0,"Kemba Walker misses 2-pt layup from 4 ft (block by OG Anunoby) (BOS 78, TOR 64)",2,4
+384,385,Kemba Walker,2019-12-25,BOS,@,TOR,W,3rd,504,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 78, TOR 64)",3,26
+385,386,Kemba Walker,2019-12-25,BOS,@,TOR,W,4th,498,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 109, TOR 90)",2,3
+386,387,Kemba Walker,2019-12-22,BOS,,CHO,W,1st,35,1,"Kemba Walker makes 2-pt layup from 3 ft (assist by Jaylen Brown) (BOS 2, CHO 0)",2,3
+387,388,Kemba Walker,2019-12-22,BOS,,CHO,W,1st,63,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Daniel Theis) (BOS 5, CHO 3)",3,26
+388,389,Kemba Walker,2019-12-22,BOS,,CHO,W,1st,141,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Miles Bridges) (BOS 7, CHO 6)",2,4
+389,390,Kemba Walker,2019-12-22,BOS,,CHO,W,1st,399,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 15, CHO 20)",3,26
+390,391,Kemba Walker,2019-12-22,BOS,,CHO,W,1st,477,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 21, CHO 23)",2,1
+391,392,Kemba Walker,2019-12-22,BOS,,CHO,W,1st,504,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 21, CHO 23)",3,28
+392,393,Kemba Walker,2019-12-22,BOS,,CHO,W,2nd,348,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Jaylen Brown) (BOS 43, CHO 47)",3,27
+393,394,Kemba Walker,2019-12-22,BOS,,CHO,W,2nd,681,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 57, CHO 56)",3,25
+394,395,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,50,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 59, CHO 58)",3,27
+395,396,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,56,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Daniel Theis) (BOS 62, CHO 58)",3,27
+396,397,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,164,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 67, CHO 60)",3,27
+397,398,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,475,1,"Kemba Walker makes 3-pt jump shot from 24 ft (assist by Jaylen Brown) (BOS 78, CHO 73)",3,24
+398,399,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,549,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 82, CHO 73)",2,3
+399,400,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,584,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 82, CHO 75)",2,3
+400,401,Kemba Walker,2019-12-22,BOS,,CHO,W,3rd,720,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 84, CHO 77)",3,26
+401,402,Kemba Walker,2019-12-22,BOS,,CHO,W,4th,551,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 110, CHO 93)",3,27
+402,403,Kemba Walker,2019-12-20,BOS,,DET,W,1st,192,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 11, DET 8)",3,25
+403,404,Kemba Walker,2019-12-20,BOS,,DET,W,1st,449,0,"Kemba Walker misses 2-pt jump shot from 21 ft (BOS 17, DET 15)",2,21
+404,405,Kemba Walker,2019-12-20,BOS,,DET,W,2nd,318,0,"Kemba Walker misses 2-pt jump shot from 16 ft (BOS 43, DET 33)",2,16
+405,406,Kemba Walker,2019-12-20,BOS,,DET,W,2nd,453,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 46, DET 35)",2,4
+406,407,Kemba Walker,2019-12-20,BOS,,DET,W,3rd,105,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 62, DET 52)",3,26
+407,408,Kemba Walker,2019-12-20,BOS,,DET,W,4th,167,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 96, DET 73)",3,25
+408,409,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,167,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 3, DAL 3)",3,25
+409,410,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,256,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Dorian Finney-Smith) (BOS 5, DAL 8)",2,2
+410,411,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,353,1,"Kemba Walker makes 2-pt jump shot from 6 ft (BOS 9, DAL 14)",2,6
+411,412,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,377,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 12, DAL 14)",3,25
+412,413,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,415,1,"Kemba Walker makes 2-pt jump shot from 16 ft (BOS 14, DAL 16)",2,16
+413,414,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,445,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 17, DAL 16)",3,26
+414,415,Kemba Walker,2019-12-18,BOS,@,DAL,W,1st,527,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Grant Williams) (BOS 23, DAL 20)",3,25
+415,416,Kemba Walker,2019-12-18,BOS,@,DAL,W,2nd,371,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 36, DAL 39)",2,2
+416,417,Kemba Walker,2019-12-18,BOS,@,DAL,W,2nd,462,0,"Kemba Walker misses 2-pt jump shot from 24 ft (BOS 38, DAL 43)",2,24
+417,418,Kemba Walker,2019-12-18,BOS,@,DAL,W,3rd,144,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 55, DAL 62)",3,25
+418,419,Kemba Walker,2019-12-18,BOS,@,DAL,W,3rd,205,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 57, DAL 64)",3,25
+419,420,Kemba Walker,2019-12-18,BOS,@,DAL,W,3rd,234,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 57, DAL 64)",3,25
+420,421,Kemba Walker,2019-12-18,BOS,@,DAL,W,3rd,513,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 68, DAL 69)",2,2
+421,422,Kemba Walker,2019-12-18,BOS,@,DAL,W,3rd,707,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Kristaps Porziņģis) (BOS 76, DAL 73)",2,3
+422,423,Kemba Walker,2019-12-18,BOS,@,DAL,W,4th,403,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Brad Wanamaker) (BOS 91, DAL 82)",3,25
+423,424,Kemba Walker,2019-12-18,BOS,@,DAL,W,4th,521,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 100, DAL 88)",3,25
+424,425,Kemba Walker,2019-12-18,BOS,@,DAL,W,4th,596,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 100, DAL 94)",3,26
+425,426,Kemba Walker,2019-12-18,BOS,@,DAL,W,4th,617,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 104, DAL 94)",2,1
+426,427,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,93,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 2, PHI 3)",2,17
+427,428,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,130,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Gordon Hayward) (BOS 5, PHI 3)",3,26
+428,429,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,190,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 9, PHI 5)",2,2
+429,430,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,400,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Jaylen Brown) (BOS 18, PHI 12)",3,26
+430,431,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,434,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 18, PHI 15)",3,27
+431,432,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,495,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 23, PHI 18)",3,27
+432,433,Kemba Walker,2019-12-12,BOS,,PHI,L,1st,577,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 26, PHI 24)",3,26
+433,434,Kemba Walker,2019-12-12,BOS,,PHI,L,2nd,377,1,"Kemba Walker makes 2-pt jump shot from 11 ft (BOS 46, PHI 40)",2,11
+434,435,Kemba Walker,2019-12-12,BOS,,PHI,L,2nd,407,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 46, PHI 40)",3,25
+435,436,Kemba Walker,2019-12-12,BOS,,PHI,L,2nd,454,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 46, PHI 42)",3,25
+436,437,Kemba Walker,2019-12-12,BOS,,PHI,L,2nd,458,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Daniel Theis) (BOS 49, PHI 42)",3,26
+437,438,Kemba Walker,2019-12-12,BOS,,PHI,L,2nd,501,0,"Kemba Walker misses 2-pt layup at rim (BOS 50, PHI 44)",2,0
+438,439,Kemba Walker,2019-12-12,BOS,,PHI,L,2nd,564,1,"Kemba Walker makes 2-pt jump shot from 12 ft (BOS 55, PHI 47)",2,12
+439,440,Kemba Walker,2019-12-12,BOS,,PHI,L,3rd,68,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 59, PHI 59)",3,27
+440,441,Kemba Walker,2019-12-12,BOS,,PHI,L,3rd,285,0,"Kemba Walker misses 2-pt jump shot from 14 ft (BOS 68, PHI 67)",2,14
+441,442,Kemba Walker,2019-12-12,BOS,,PHI,L,3rd,434,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 72, PHI 72)",2,15
+442,443,Kemba Walker,2019-12-12,BOS,,PHI,L,3rd,530,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Jayson Tatum) (BOS 78, PHI 76)",3,27
+443,444,Kemba Walker,2019-12-12,BOS,,PHI,L,4th,288,0,"Kemba Walker misses 3-pt jump shot from 25 ft (block by Matisse Thybulle) (BOS 88, PHI 90)",3,25
+444,445,Kemba Walker,2019-12-12,BOS,,PHI,L,4th,458,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 92, PHI 97)",3,25
+445,446,Kemba Walker,2019-12-12,BOS,,PHI,L,4th,621,0,"Kemba Walker misses 2-pt layup at rim (BOS 100, PHI 106)",2,0
+446,447,Kemba Walker,2019-12-12,BOS,,PHI,L,4th,712,0,"Kemba Walker misses 3-pt jump shot from 26 ft (block by Matisse Thybulle) (BOS 109, PHI 115)",3,26
+447,448,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,107,1,"Kemba Walker makes 2-pt layup at rim (assist by Jayson Tatum) (BOS 7, IND 5)",2,0
+448,449,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,289,1,"Kemba Walker makes 2-pt jump shot from 16 ft (assist by Gordon Hayward) (BOS 14, IND 15)",2,16
+449,450,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,405,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Jaylen Brown) (BOS 21, IND 18)",3,27
+450,451,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,438,1,"Kemba Walker makes 3-pt jump shot from 28 ft (assist by Jaylen Brown) (BOS 25, IND 20)",3,28
+451,452,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,491,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 28, IND 20)",3,27
+452,453,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,515,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Jaylen Brown) (BOS 30, IND 21)",2,1
+453,454,Kemba Walker,2019-12-11,BOS,@,IND,L,1st,567,0,"Kemba Walker misses 3-pt jump shot from 29 ft (BOS 30, IND 21)",3,29
+454,455,Kemba Walker,2019-12-11,BOS,@,IND,L,2nd,428,0,"Kemba Walker misses 2-pt jump shot from 10 ft (BOS 42, IND 46)",2,10
+455,456,Kemba Walker,2019-12-11,BOS,@,IND,L,2nd,509,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 44, IND 53)",3,27
+456,457,Kemba Walker,2019-12-11,BOS,@,IND,L,2nd,532,0,"Kemba Walker misses 2-pt layup from 1 ft (BOS 44, IND 54)",2,1
+457,458,Kemba Walker,2019-12-11,BOS,@,IND,L,2nd,578,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Semi Ojeleye) (BOS 47, IND 57)",3,25
+458,459,Kemba Walker,2019-12-11,BOS,@,IND,L,2nd,654,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 52, IND 59)",3,27
+459,460,Kemba Walker,2019-12-11,BOS,@,IND,L,2nd,717,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 56, IND 61)",2,2
+460,461,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,29,1,"Kemba Walker makes 3-pt jump shot from 28 ft (assist by Jaylen Brown) (BOS 60, IND 61)",3,28
+461,462,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,98,1,"Kemba Walker makes 3-pt jump shot from 29 ft (assist by Jaylen Brown) (BOS 64, IND 63)",3,29
+462,463,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,192,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 68, IND 68)",2,2
+463,464,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,346,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 75, IND 72)",2,1
+464,465,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,389,0,"Kemba Walker misses 2-pt layup at rim (BOS 75, IND 74)",2,0
+465,466,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,542,1,"Kemba Walker makes 2-pt jump shot from 19 ft (BOS 84, IND 81)",2,19
+466,467,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,572,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 86, IND 81)",2,2
+467,468,Kemba Walker,2019-12-11,BOS,@,IND,L,3rd,621,0,"Kemba Walker misses 3-pt jump shot from 29 ft (BOS 87, IND 82)",3,29
+468,469,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,405,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 102, IND 100)",3,28
+469,470,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,480,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 104, IND 105)",2,17
+470,471,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,504,1,"Kemba Walker makes 3-pt jump shot from 28 ft (assist by Jayson Tatum) (BOS 107, IND 107)",3,28
+471,472,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,616,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 109, IND 111)",3,27
+472,473,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,710,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 117, IND 118)",2,2
+473,474,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,716,0,"Kemba Walker misses 3-pt jump shot from 33 ft (BOS 117, IND 120)",3,33
+474,475,Kemba Walker,2019-12-11,BOS,@,IND,L,4th,720,0,"Kemba Walker misses 3-pt jump shot from 53 ft (BOS 117, IND 122)",3,53
+475,476,Kemba Walker,2019-12-09,BOS,,CLE,W,1st,69,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 4, CLE 0)",2,2
+476,477,Kemba Walker,2019-12-09,BOS,,CLE,W,1st,156,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 7, CLE 4)",3,27
+477,478,Kemba Walker,2019-12-09,BOS,,CLE,W,1st,484,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 24, CLE 13)",3,28
+478,479,Kemba Walker,2019-12-09,BOS,,CLE,W,2nd,388,1,"Kemba Walker makes 2-pt layup from 3 ft (assist by Gordon Hayward) (BOS 44, CLE 34)",2,3
+479,480,Kemba Walker,2019-12-09,BOS,,CLE,W,2nd,468,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 44, CLE 37)",3,26
+480,481,Kemba Walker,2019-12-09,BOS,,CLE,W,2nd,501,1,"Kemba Walker makes 3-pt jump shot from 30 ft (assist by Jaylen Brown) (BOS 47, CLE 37)",3,30
+481,482,Kemba Walker,2019-12-09,BOS,,CLE,W,2nd,689,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 53, CLE 40)",3,27
+482,483,Kemba Walker,2019-12-09,BOS,,CLE,W,2nd,719,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 53, CLE 40)",3,28
+483,484,Kemba Walker,2019-12-09,BOS,,CLE,W,3rd,85,1,"Kemba Walker makes 2-pt jump shot from 13 ft (assist by Daniel Theis) (BOS 59, CLE 40)",2,13
+484,485,Kemba Walker,2019-12-09,BOS,,CLE,W,3rd,498,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 79, CLE 52)",2,2
+485,486,Kemba Walker,2019-12-09,BOS,,CLE,W,4th,426,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 97, CLE 81)",3,26
+486,487,Kemba Walker,2019-12-09,BOS,,CLE,W,4th,478,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 100, CLE 83)",3,26
+487,488,Kemba Walker,2019-12-09,BOS,,CLE,W,4th,508,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 103, CLE 83)",3,25
+488,489,Kemba Walker,2019-12-06,BOS,,DEN,W,1st,16,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 2, DEN 0)",2,3
+489,490,Kemba Walker,2019-12-06,BOS,,DEN,W,1st,86,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 5, DEN 0)",3,25
+490,491,Kemba Walker,2019-12-06,BOS,,DEN,W,1st,429,0,"Kemba Walker misses 2-pt jump shot from 11 ft (BOS 18, DEN 14)",2,11
+491,492,Kemba Walker,2019-12-06,BOS,,DEN,W,2nd,330,1,"Kemba Walker makes 2-pt jump shot from 14 ft (BOS 47, DEN 32)",2,14
+492,493,Kemba Walker,2019-12-06,BOS,,DEN,W,2nd,353,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Nikola Jokić) (BOS 47, DEN 32)",2,3
+493,494,Kemba Walker,2019-12-06,BOS,,DEN,W,2nd,506,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 51, DEN 39)",3,25
+494,495,Kemba Walker,2019-12-06,BOS,,DEN,W,2nd,623,0,"Kemba Walker misses 2-pt layup from 5 ft (BOS 51, DEN 45)",2,5
+495,496,Kemba Walker,2019-12-06,BOS,,DEN,W,2nd,658,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Enes Kanter) (BOS 53, DEN 45)",2,2
+496,497,Kemba Walker,2019-12-06,BOS,,DEN,W,2nd,691,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 53, DEN 45)",3,26
+497,498,Kemba Walker,2019-12-06,BOS,,DEN,W,3rd,68,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 55, DEN 47)",2,3
+498,499,Kemba Walker,2019-12-06,BOS,,DEN,W,3rd,268,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Enes Kanter) (BOS 63, DEN 53)",3,27
+499,500,Kemba Walker,2019-12-06,BOS,,DEN,W,3rd,320,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 63, DEN 53)",3,28
+500,501,Kemba Walker,2019-12-06,BOS,,DEN,W,3rd,416,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 67, DEN 57)",2,2
+501,502,Kemba Walker,2019-12-06,BOS,,DEN,W,3rd,448,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 67, DEN 57)",3,27
+502,503,Kemba Walker,2019-12-06,BOS,,DEN,W,4th,432,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 96, DEN 79)",3,27
+503,504,Kemba Walker,2019-12-06,BOS,,DEN,W,4th,511,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 102, DEN 83)",3,28
+504,505,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,62,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 0, MIA 0)",3,26
+505,506,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,107,0,"Kemba Walker misses 2-pt jump shot from 16 ft (BOS 2, MIA 2)",2,16
+506,507,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,185,1,"Kemba Walker makes 2-pt jump shot from 9 ft (BOS 4, MIA 5)",2,9
+507,508,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,285,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 9, MIA 12)",3,26
+508,509,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,437,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 16, MIA 19)",3,26
+509,510,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,464,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 16, MIA 22)",3,27
+510,511,Kemba Walker,2019-12-04,BOS,,MIA,W,1st,517,0,"Kemba Walker misses 2-pt jump shot from 9 ft (BOS 16, MIA 22)",2,9
+511,512,Kemba Walker,2019-12-04,BOS,,MIA,W,2nd,348,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Jayson Tatum) (BOS 34, MIA 37)",3,26
+512,513,Kemba Walker,2019-12-04,BOS,,MIA,W,2nd,460,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 38, MIA 39)",3,26
+513,514,Kemba Walker,2019-12-04,BOS,,MIA,W,2nd,646,1,"Violation by Team (def goaltending) (MIA 41, BOS 47)",4,1
+514,515,Kemba Walker,2019-12-04,BOS,,MIA,W,3rd,91,1,"Personal foul by Jayson Tatum (drawn by Jimmy Butler) (MIA 44, BOS 56)",4,4
+515,516,Kemba Walker,2019-12-04,BOS,,MIA,W,3rd,270,1,"Meyers Leonard misses 3-pt jump shot from 23 ft (MIA 52, BOS 63)",3,23
+516,517,Kemba Walker,2019-12-04,BOS,,MIA,W,3rd,718,0,"Offensive rebound by Robert Williams (BOS 82, MIA 69)",8,2
+517,518,Kemba Walker,2019-12-04,BOS,,MIA,W,4th,22,0,"Offensive rebound by Team (BOS 82, MIA 69)",8,2
+518,519,Kemba Walker,2019-12-04,BOS,,MIA,W,4th,60,0,"Defensive rebound by Chris Silva (MIA 69, BOS 84)",6,9
+519,520,Kemba Walker,2019-12-04,BOS,,MIA,W,4th,560,1,"Jayson Tatum misses 3-pt jump shot from 26 ft (BOS 107, MIA 87)",3,26
+520,521,Kemba Walker,2019-12-04,BOS,,MIA,W,4th,630,1,"Chris Silva enters the game for Bam Adebayo (MIA 88, BOS 110)",8,8
+521,522,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,148,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Jayson Tatum) (BOS 4, NYK 7)",2,2
+522,523,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,245,0,"Kemba Walker misses 2-pt jump shot from 7 ft (block by Kevin Knox) (BOS 9, NYK 11)",2,7
+523,524,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,311,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Jayson Tatum) (BOS 13, NYK 12)",3,26
+524,525,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,368,1,"Kemba Walker makes 2-pt layup from 5 ft (BOS 16, NYK 16)",2,5
+525,526,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,495,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 19, NYK 20)",3,25
+526,527,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,501,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 19, NYK 20)",3,27
+527,528,Kemba Walker,2019-12-01,BOS,@,NYK,W,1st,720,0,"Kemba Walker misses 2-pt jump shot from 6 ft (BOS 31, NYK 30)",2,6
+528,529,Kemba Walker,2019-12-01,BOS,@,NYK,W,2nd,343,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 43, NYK 44)",3,23
+529,530,Kemba Walker,2019-12-01,BOS,@,NYK,W,2nd,436,0,"Kemba Walker misses 2-pt jump shot from 11 ft (BOS 46, NYK 44)",2,11
+530,531,Kemba Walker,2019-12-01,BOS,@,NYK,W,3rd,16,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Dennis Smith) (BOS 58, NYK 58)",2,3
+531,532,Kemba Walker,2019-12-01,BOS,@,NYK,W,3rd,128,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 61, NYK 64)",3,23
+532,533,Kemba Walker,2019-12-01,BOS,@,NYK,W,3rd,366,0,"Kemba Walker misses 2-pt layup from 3 ft (block by RJ Barrett) (BOS 66, NYK 73)",2,3
+533,534,Kemba Walker,2019-12-01,BOS,@,NYK,W,3rd,404,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Brad Wanamaker) (BOS 71, NYK 73)",3,25
+534,535,Kemba Walker,2019-12-01,BOS,@,NYK,W,3rd,431,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 71, NYK 76)",3,26
+535,536,Kemba Walker,2019-12-01,BOS,@,NYK,W,4th,472,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Jaylen Brown) (BOS 101, NYK 95)",3,25
+536,537,Kemba Walker,2019-12-01,BOS,@,NYK,W,4th,544,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 104, NYK 95)",3,25
+537,538,Kemba Walker,2019-12-01,BOS,@,NYK,W,4th,663,1,"Kemba Walker makes 2-pt jump shot from 13 ft (BOS 112, NYK 103)",2,13
+538,539,Kemba Walker,2019-12-01,BOS,@,NYK,W,4th,702,0,"Kemba Walker misses 2-pt jump shot from 11 ft (BOS 112, NYK 104)",2,11
+539,540,Kemba Walker,2019-11-29,BOS,@,BRK,L,1st,236,1,"Kemba Walker makes 2-pt jump shot from 14 ft (BOS 8, BRK 14)",2,14
+540,541,Kemba Walker,2019-11-29,BOS,@,BRK,L,1st,292,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 11, BRK 17)",3,26
+541,542,Kemba Walker,2019-11-29,BOS,@,BRK,L,2nd,464,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 43, BRK 48)",2,3
+542,543,Kemba Walker,2019-11-29,BOS,@,BRK,L,2nd,508,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 45, BRK 48)",3,26
+543,544,Kemba Walker,2019-11-29,BOS,@,BRK,L,2nd,563,0,"Kemba Walker misses 2-pt layup from 5 ft (BOS 45, BRK 53)",2,5
+544,545,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,50,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 55, BRK 60)",2,17
+545,546,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,129,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 59, BRK 62)",2,2
+546,547,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,310,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 64, BRK 71)",3,26
+547,548,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,397,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 64, BRK 74)",2,2
+548,549,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,451,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 64, BRK 77)",2,3
+549,550,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,477,1,"Kemba Walker makes 2-pt layup from 5 ft (BOS 68, BRK 80)",2,5
+550,551,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,490,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 69, BRK 83)",3,26
+551,552,Kemba Walker,2019-11-29,BOS,@,BRK,L,3rd,539,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 71, BRK 83)",3,26
+552,553,Kemba Walker,2019-11-29,BOS,@,BRK,L,4th,350,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 94, BRK 102)",2,1
+553,554,Kemba Walker,2019-11-29,BOS,@,BRK,L,4th,415,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 94, BRK 104)",3,27
+554,555,Kemba Walker,2019-11-29,BOS,@,BRK,L,4th,574,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 100, BRK 107)",2,3
+555,556,Kemba Walker,2019-11-29,BOS,@,BRK,L,4th,610,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 100, BRK 109)",3,27
+556,557,Kemba Walker,2019-11-29,BOS,@,BRK,L,4th,692,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 107, BRK 111)",2,1
+557,558,Kemba Walker,2019-11-29,BOS,@,BRK,L,4th,714,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 107, BRK 112)",3,27
+558,559,Kemba Walker,2019-11-27,BOS,,BRK,W,1st,33,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 0, BRK 2)",3,26
+559,560,Kemba Walker,2019-11-27,BOS,,BRK,W,1st,323,0,"Kemba Walker misses 2-pt layup from 5 ft (BOS 10, BRK 10)",2,5
+560,561,Kemba Walker,2019-11-27,BOS,,BRK,W,1st,468,0,"Kemba Walker misses 2-pt layup from 7 ft (BOS 19, BRK 16)",2,7
+561,562,Kemba Walker,2019-11-27,BOS,,BRK,W,1st,507,1,"Kemba Walker makes 2-pt jump shot from 22 ft (BOS 23, BRK 19)",2,22
+562,563,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,254,1,"Kemba Walker makes 2-pt jump shot from 14 ft (BOS 39, BRK 39)",2,14
+563,564,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,282,0,"Kemba Walker misses 2-pt layup from 5 ft (block by Garrett Temple) (BOS 39, BRK 39)",2,5
+564,565,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,395,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 44, BRK 44)",3,27
+565,566,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,442,1,"Kemba Walker makes 2-pt layup from 4 ft (BOS 46, BRK 46)",2,4
+566,567,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,479,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 49, BRK 49)",3,26
+567,568,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,506,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 49, BRK 52)",3,25
+568,569,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,665,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 57, BRK 60)",3,25
+569,570,Kemba Walker,2019-11-27,BOS,,BRK,W,2nd,692,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 57, BRK 63)",2,15
+570,571,Kemba Walker,2019-11-27,BOS,,BRK,W,3rd,128,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 64, BRK 69)",3,26
+571,572,Kemba Walker,2019-11-27,BOS,,BRK,W,3rd,257,1,"Kemba Walker makes 2-pt layup from 5 ft (BOS 70, BRK 73)",2,5
+572,573,Kemba Walker,2019-11-27,BOS,,BRK,W,3rd,321,1,"Kemba Walker makes 2-pt layup from 3 ft (assist by Jayson Tatum) (BOS 74, BRK 75)",2,3
+573,574,Kemba Walker,2019-11-27,BOS,,BRK,W,3rd,350,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 78, BRK 78)",3,26
+574,575,Kemba Walker,2019-11-27,BOS,,BRK,W,3rd,371,0,"Kemba Walker misses 2-pt jump shot from 19 ft (BOS 78, BRK 78)",2,19
+575,576,Kemba Walker,2019-11-27,BOS,,BRK,W,3rd,435,0,"Kemba Walker misses 2-pt jump shot from 17 ft (BOS 80, BRK 81)",2,17
+576,577,Kemba Walker,2019-11-27,BOS,,BRK,W,4th,319,0,"Kemba Walker misses 2-pt layup from 4 ft (BOS 104, BRK 96)",2,4
+577,578,Kemba Walker,2019-11-27,BOS,,BRK,W,4th,410,0,"Kemba Walker misses 3-pt jump shot from 26 ft (block by Joe Harris) (BOS 104, BRK 101)",3,26
+578,579,Kemba Walker,2019-11-27,BOS,,BRK,W,4th,411,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 107, BRK 101)",3,27
+579,580,Kemba Walker,2019-11-27,BOS,,BRK,W,4th,483,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 110, BRK 102)",3,26
+580,581,Kemba Walker,2019-11-27,BOS,,BRK,W,4th,497,1,"Kemba Walker makes 2-pt jump shot from 14 ft (BOS 112, BRK 102)",2,14
+581,582,Kemba Walker,2019-11-27,BOS,,BRK,W,4th,609,1,"Kemba Walker makes 2-pt jump shot from 17 ft (assist by Jaylen Brown) (BOS 119, BRK 108)",2,17
+582,583,Kemba Walker,2019-11-22,BOS,@,DEN,L,1st,24,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 0, DEN 0)",3,26
+583,584,Kemba Walker,2019-11-22,BOS,@,DEN,L,1st,265,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 2, DEN 6)",2,15
+584,585,Kemba Walker,2019-11-22,BOS,@,DEN,L,1st,571,0,"Kemba Walker misses 2-pt jump shot from 11 ft (BOS 11, DEN 23)",2,11
+585,586,Kemba Walker,2019-11-20,BOS,@,LAC,L,1st,70,0,"Kemba Walker misses 2-pt layup from 5 ft (block by Patrick Beverley) (BOS 0, LAC 3)",2,5
+586,587,Kemba Walker,2019-11-20,BOS,@,LAC,L,1st,104,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 0, LAC 3)",3,26
+587,588,Kemba Walker,2019-11-20,BOS,@,LAC,L,1st,199,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 2, LAC 6)",2,2
+588,589,Kemba Walker,2019-11-20,BOS,@,LAC,L,1st,231,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 2, LAC 6)",3,26
+589,590,Kemba Walker,2019-11-20,BOS,@,LAC,L,1st,371,0,"Kemba Walker misses 3-pt jump shot from 24 ft (BOS 7, LAC 12)",3,24
+590,591,Kemba Walker,2019-11-20,BOS,@,LAC,L,2nd,456,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Ivica Zubac) (BOS 33, LAC 33)",2,2
+591,592,Kemba Walker,2019-11-20,BOS,@,LAC,L,2nd,477,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Ivica Zubac) (BOS 33, LAC 35)",2,3
+592,593,Kemba Walker,2019-11-20,BOS,@,LAC,L,3rd,116,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Patrick Beverley) (BOS 45, LAC 45)",2,4
+593,594,Kemba Walker,2019-11-20,BOS,@,LAC,L,3rd,150,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Kawhi Leonard) (BOS 45, LAC 48)",2,4
+594,595,Kemba Walker,2019-11-20,BOS,@,LAC,L,3rd,348,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Daniel Theis) (BOS 58, LAC 56)",3,27
+595,596,Kemba Walker,2019-11-20,BOS,@,LAC,L,3rd,444,0,"Kemba Walker misses 2-pt layup from 3 ft (block by Montrezl Harrell) (BOS 58, LAC 58)",2,3
+596,597,Kemba Walker,2019-11-20,BOS,@,LAC,L,4th,226,1,"Kemba Walker makes 3-pt jump shot from 28 ft (assist by Brad Wanamaker) (BOS 81, LAC 73)",3,28
+597,598,Kemba Walker,2019-11-20,BOS,@,LAC,L,4th,270,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 81, LAC 73)",3,25
+598,599,Kemba Walker,2019-11-20,BOS,@,LAC,L,4th,345,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Brad Wanamaker) (BOS 86, LAC 76)",3,27
+599,600,Kemba Walker,2019-11-20,BOS,@,LAC,L,4th,616,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 94, LAC 90)",3,25
+600,601,Kemba Walker,2019-11-20,BOS,@,LAC,L,4th,685,0,"Kemba Walker misses 2-pt layup at rim (BOS 94, LAC 92)",2,0
+601,602,Kemba Walker,2019-11-20,BOS,@,LAC,L,OT,720,0,"Kemba Walker misses 3-pt jump shot from 24 ft (block by Kawhi Leonard) (BOS 104, LAC 107)",3,24
+602,603,Kemba Walker,2019-11-18,BOS,@,PHO,W,1st,153,1,"Kemba Walker makes 2-pt jump shot from 22 ft (assist by Jayson Tatum) (BOS 2, PHO 3)",2,22
+603,604,Kemba Walker,2019-11-18,BOS,@,PHO,W,1st,225,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 2, PHO 6)",3,26
+604,605,Kemba Walker,2019-11-18,BOS,@,PHO,W,1st,280,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 2, PHO 8)",3,25
+605,606,Kemba Walker,2019-11-18,BOS,@,PHO,W,1st,371,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 9, PHO 11)",2,1
+606,607,Kemba Walker,2019-11-18,BOS,@,PHO,W,1st,420,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 9, PHO 13)",3,25
+607,608,Kemba Walker,2019-11-18,BOS,@,PHO,W,2nd,341,1,"Kemba Walker makes 2-pt jump shot from 23 ft (assist by Jaylen Brown) (BOS 36, PHO 36)",2,23
+608,609,Kemba Walker,2019-11-18,BOS,@,PHO,W,2nd,371,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Marcus Smart) (BOS 39, PHO 38)",3,25
+609,610,Kemba Walker,2019-11-18,BOS,@,PHO,W,2nd,451,1,"Jump ball: Jaylen Brown vs. Frank Kaminsky (Marcus Smart gains possession) (BOS 42, PHO 40)",4,2
+610,611,Kemba Walker,2019-11-18,BOS,@,PHO,W,2nd,500,0,"Defensive rebound by Grant Williams (BOS 44, PHO 40)",4,4
+611,612,Kemba Walker,2019-11-18,BOS,@,PHO,W,2nd,706,0,"Defensive rebound by Marcus Smart (BOS 55, PHO 42)",5,5
+612,613,Kemba Walker,2019-11-18,BOS,@,PHO,W,2nd,720,1,"Offensive rebound by Jayson Tatum (BOS 55, PHO 42)",5,5
+613,614,Kemba Walker,2019-11-18,BOS,@,PHO,W,3rd,48,0,"Defensive rebound by Marcus Smart (BOS 59, PHO 42)",5,9
+614,615,Kemba Walker,2019-11-18,BOS,@,PHO,W,3rd,373,0,"Tyler Johnson enters the game for Devin Booker (PHO 56, BOS 67)",5,6
+615,616,Kemba Walker,2019-11-18,BOS,@,PHO,W,3rd,436,1,"Kelly Oubre makes free throw 2 of 2 (PHO 57, BOS 69)",2,2
+616,617,Kemba Walker,2019-11-18,BOS,@,PHO,W,3rd,482,1,"Turnover by Kelly Oubre (bad pass; steal by Robert Williams) (PHO 57, BOS 71)",5,7
+617,618,Kemba Walker,2019-11-18,BOS,@,PHO,W,3rd,525,0,"Defensive rebound by Robert Williams (BOS 73, PHO 57)",7,3
+618,619,Kemba Walker,2019-11-18,BOS,@,PHO,W,4th,365,1,"Turnover by Tyler Johnson (bad pass; steal by Semi Ojeleye) (PHO 73, BOS 90)",7,3
+619,620,Kemba Walker,2019-11-18,BOS,@,PHO,W,4th,416,0,"Elie Okobo enters the game for Dario Šarić (PHO 73, BOS 94)",7,3
+620,621,Kemba Walker,2019-11-18,BOS,@,PHO,W,4th,476,0,"Defensive rebound by Jaylen Brown (BOS 94, PHO 75)",9,4
+621,622,Kemba Walker,2019-11-17,BOS,@,SAC,L,1st,176,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Marcus Smart) (BOS 8, SAC 6)",2,2
+622,623,Kemba Walker,2019-11-17,BOS,@,SAC,L,1st,278,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 10, SAC 11)",3,27
+623,624,Kemba Walker,2019-11-17,BOS,@,SAC,L,1st,297,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 12, SAC 11)",2,3
+624,625,Kemba Walker,2019-11-17,BOS,@,SAC,L,1st,400,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 12, SAC 16)",3,26
+625,626,Kemba Walker,2019-11-17,BOS,@,SAC,L,1st,425,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 12, SAC 16)",2,2
+626,627,Kemba Walker,2019-11-17,BOS,@,SAC,L,2nd,472,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Marcus Smart) (BOS 36, SAC 40)",2,1
+627,628,Kemba Walker,2019-11-17,BOS,@,SAC,L,2nd,667,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 43, SAC 48)",3,25
+628,629,Kemba Walker,2019-11-17,BOS,@,SAC,L,3rd,14,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 48, SAC 50)",2,3
+629,630,Kemba Walker,2019-11-17,BOS,@,SAC,L,3rd,76,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 48, SAC 52)",2,2
+630,631,Kemba Walker,2019-11-17,BOS,@,SAC,L,3rd,536,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 65, SAC 63)",2,2
+631,632,Kemba Walker,2019-11-17,BOS,@,SAC,L,3rd,557,0,"Kemba Walker misses 2-pt layup from 2 ft (block by Richaun Holmes) (BOS 65, SAC 66)",2,2
+632,633,Kemba Walker,2019-11-17,BOS,@,SAC,L,4th,703,0,"Buddy Hield makes 2-pt jump shot from 20 ft (SAC 98, BOS 97)",2,20
+633,634,Kemba Walker,2019-11-15,BOS,@,GSW,W,1st,120,0,"Kemba Walker misses 2-pt jump shot from 12 ft (BOS 3, GSW 5)",2,12
+634,635,Kemba Walker,2019-11-15,BOS,@,GSW,W,1st,206,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 7, GSW 7)",3,26
+635,636,Kemba Walker,2019-11-15,BOS,@,GSW,W,1st,344,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 8, GSW 16)",3,26
+636,637,Kemba Walker,2019-11-15,BOS,@,GSW,W,1st,508,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 10, GSW 25)",3,25
+637,638,Kemba Walker,2019-11-15,BOS,@,GSW,W,2nd,454,0,"Turnover by D'Angelo Russell (bad pass; steal by Jaylen Brown) (GSW 45, BOS 42)",4,5
+638,639,Kemba Walker,2019-11-15,BOS,@,GSW,W,2nd,531,1,"Defensive rebound by Kemba Walker (BOS 44, GSW 47)",4,4
+639,640,Kemba Walker,2019-11-15,BOS,@,GSW,W,2nd,602,0,"Draymond Green makes 2-pt jump shot from 3 ft (assist by D'Angelo Russell) (GSW 49, BOS 50)",2,3
+640,641,Kemba Walker,2019-11-15,BOS,@,GSW,W,2nd,665,0,"Willie Cauley-Stein makes 2-pt layup from 2 ft (assist by D'Angelo Russell) (GSW 51, BOS 52)",2,2
+641,642,Kemba Walker,2019-11-15,BOS,@,GSW,W,2nd,720,0,"Defensive rebound by Kemba Walker (BOS 52, GSW 51)",5,2
+642,643,Kemba Walker,2019-11-15,BOS,@,GSW,W,3rd,124,0,"Turnover by Eric Paschall (bad pass; steal by Kemba Walker) (GSW 53, BOS 59)",5,3
+643,644,Kemba Walker,2019-11-15,BOS,@,GSW,W,3rd,161,0,"Defensive rebound by Jaylen Brown (BOS 59, GSW 53)",5,9
+644,645,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,216,1,"Jayson Tatum misses 2-pt jump shot from 12 ft (BOS 80, GSW 84)",2,12
+645,646,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,333,0,"Omari Spellman misses free throw 2 of 2 (GSW 86, BOS 86)",2,2
+646,647,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,381,0,"Daniel Theis makes 2-pt dunk from 2 ft (assist by Jaylen Brown) (BOS 88, GSW 86)",2,2
+647,648,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,423,1,"Offensive rebound by Team (GSW 88, BOS 88)",8,8
+648,649,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,455,1,"Willie Cauley-Stein enters the game for Glenn Robinson (GSW 88, BOS 90)",8,8
+649,650,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,490,0,"Shooting foul by Jaylen Brown (drawn by Eric Paschall) (GSW 90, BOS 92)",9,0
+650,651,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,580,1,"Defensive rebound by Willie Cauley-Stein (GSW 95, BOS 92)",9,5
+651,652,Kemba Walker,2019-11-15,BOS,@,GSW,W,4th,701,1,"Turnover by Eric Paschall (lost ball; steal by Jayson Tatum) (GSW 97, BOS 100)",9,7
+652,653,Kemba Walker,2019-11-13,BOS,,WAS,W,1st,89,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 4, WAS 4)",3,26
+653,654,Kemba Walker,2019-11-13,BOS,,WAS,W,1st,376,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Marcus Smart) (BOS 18, WAS 18)",3,25
+654,655,Kemba Walker,2019-11-13,BOS,,WAS,W,1st,421,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 23, WAS 18)",2,2
+655,656,Kemba Walker,2019-11-13,BOS,,WAS,W,1st,514,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 24, WAS 25)",3,25
+656,657,Kemba Walker,2019-11-13,BOS,,WAS,W,2nd,509,0,"Marcus Smart misses 2-pt jump shot from 18 ft (BOS 56, WAS 56)",2,18
+657,658,Kemba Walker,2019-11-13,BOS,,WAS,W,2nd,636,1,"Thomas Bryant misses 2-pt layup from 5 ft (WAS 58, BOS 61)",2,5
+658,659,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,281,1,"Troy Brown misses 3-pt jump shot from 25 ft (WAS 77, BOS 85)",3,25
+659,660,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,308,1,"Thomas Bryant misses 3-pt jump shot from 24 ft (WAS 77, BOS 88)",3,24
+660,661,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,380,0,"Defensive rebound by Thomas Bryant (WAS 79, BOS 90)",7,9
+661,662,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,442,1,"Semi Ojeleye enters the game for Enes Kanter (BOS 90, WAS 86)",9,0
+662,663,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,577,1,"Ish Smith enters the game for Thomas Bryant (WAS 90, BOS 98)",9,0
+663,664,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,630,0,"Shooting foul by Kemba Walker (drawn by Moritz Wagner) (WAS 92, BOS 102)",9,2
+664,665,Kemba Walker,2019-11-13,BOS,,WAS,W,3rd,695,0,"Defensive rebound by Jordan McRae (WAS 96, BOS 102)",9,6
+665,666,Kemba Walker,2019-11-13,BOS,,WAS,W,4th,437,0,"Isaiah Thomas makes 2-pt layup from 2 ft (assist by Ish Smith) (WAS 119, BOS 131)",2,2
+666,667,Kemba Walker,2019-11-13,BOS,,WAS,W,4th,538,0,"Offensive rebound by Thomas Bryant (WAS 121, BOS 137)",1,21
+667,668,Kemba Walker,2019-11-13,BOS,,WAS,W,4th,617,0,"Rui Hachimura makes free throw 2 of 2 (WAS 128, BOS 137)",2,2
+668,669,Kemba Walker,2019-11-13,BOS,,WAS,W,4th,654,1,"Thomas Bryant misses free throw 1 of 2 (WAS 132, BOS 137)",1,2
+669,670,Kemba Walker,2019-11-11,BOS,,DAL,W,1st,100,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Daniel Theis) (BOS 4, DAL 0)",2,1
+670,671,Kemba Walker,2019-11-11,BOS,,DAL,W,1st,162,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 6, DAL 0)",3,25
+671,672,Kemba Walker,2019-11-11,BOS,,DAL,W,1st,311,0,"Kemba Walker misses 2-pt layup from 5 ft (block by Kristaps Porziņģis) (BOS 15, DAL 5)",2,5
+672,673,Kemba Walker,2019-11-11,BOS,,DAL,W,1st,398,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 15, DAL 7)",3,26
+673,674,Kemba Walker,2019-11-11,BOS,,DAL,W,1st,525,1,"Kemba Walker makes 3-pt jump shot from 24 ft (BOS 20, DAL 15)",3,24
+674,675,Kemba Walker,2019-11-11,BOS,,DAL,W,2nd,681,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 52, DAL 50)",3,25
+675,676,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,170,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Daniel Theis) (BOS 62, DAL 57)",3,25
+676,677,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,322,1,"Luka Dončić makes 2-pt layup from 1 ft (DAL 59, BOS 69)",2,1
+677,678,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,341,0,"Defensive rebound by Kemba Walker (BOS 72, DAL 59)",7,2
+678,679,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,370,0,"Luka Dončić makes free throw 2 of 2 (DAL 61, BOS 72)",2,2
+679,680,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,572,1,"Brad Wanamaker enters the game for Marcus Smart (BOS 76, DAL 71)",7,6
+680,681,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,620,1,"Maxi Kleber makes 3-pt jump shot from 24 ft (assist by Luka Dončić) (DAL 74, BOS 79)",3,24
+681,682,Kemba Walker,2019-11-11,BOS,,DAL,W,3rd,709,0,"Violation by Team (def goaltending) (BOS 84, DAL 79)",8,4
+682,683,Kemba Walker,2019-11-11,BOS,,DAL,W,4th,398,1,"Defensive rebound by Team (BOS 91, DAL 92)",9,1
+683,684,Kemba Walker,2019-11-11,BOS,,DAL,W,4th,444,1,"Offensive rebound by Team (BOS 94, DAL 93)",9,4
+684,685,Kemba Walker,2019-11-11,BOS,,DAL,W,4th,468,1,"Offensive rebound by Team (DAL 93, BOS 98)",9,3
+685,686,Kemba Walker,2019-11-11,BOS,,DAL,W,4th,492,0,"Luka Dončić misses 2-pt jump shot from 10 ft (DAL 94, BOS 101)",2,10
+686,687,Kemba Walker,2019-11-09,BOS,@,SAS,W,1st,194,0,"Kemba Walker misses 2-pt jump shot from 11 ft (BOS 7, SAS 10)",2,11
+687,688,Kemba Walker,2019-11-09,BOS,@,SAS,W,1st,284,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Jaylen Brown) (BOS 14, SAS 10)",3,25
+688,689,Kemba Walker,2019-11-09,BOS,@,SAS,W,1st,398,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 22, SAS 14)",3,28
+689,690,Kemba Walker,2019-11-09,BOS,@,SAS,W,1st,429,1,"Kemba Walker makes 2-pt layup from 4 ft (BOS 24, SAS 17)",2,4
+690,691,Kemba Walker,2019-11-09,BOS,@,SAS,W,2nd,313,0,"Derrick White makes 2-pt layup from 1 ft (assist by DeMar DeRozan) (SAS 38, BOS 50)",2,1
+691,692,Kemba Walker,2019-11-09,BOS,@,SAS,W,2nd,342,0,"DeMar DeRozan makes 2-pt jump shot from 22 ft (assist by Derrick White) (SAS 40, BOS 51)",2,22
+692,693,Kemba Walker,2019-11-09,BOS,@,SAS,W,2nd,396,0,"Turnover by Jakob Poeltl (lost ball; steal by Marcus Smart) (SAS 40, BOS 53)",4,0
+693,694,Kemba Walker,2019-11-09,BOS,@,SAS,W,2nd,617,0,"Defensive rebound by Jaylen Brown (BOS 64, SAS 50)",6,4
+694,695,Kemba Walker,2019-11-09,BOS,@,SAS,W,2nd,664,1,"Offensive rebound by Kemba Walker (BOS 64, SAS 51)",6,4
+695,696,Kemba Walker,2019-11-09,BOS,@,SAS,W,2nd,692,0,"Defensive rebound by Kemba Walker (BOS 68, SAS 51)",6,8
+696,697,Kemba Walker,2019-11-09,BOS,@,SAS,W,3rd,76,0,"Loose ball foul by Trey Lyles (drawn by Jayson Tatum) (SAS 56, BOS 74)",5,6
+697,698,Kemba Walker,2019-11-09,BOS,@,SAS,W,3rd,104,1,"Bryn Forbes makes 3-pt jump shot from 26 ft (assist by Dejounte Murray) (SAS 59, BOS 74)",3,26
+698,699,Kemba Walker,2019-11-09,BOS,@,SAS,W,3rd,153,1,"Trey Lyles makes 3-pt jump shot from 23 ft (assist by Bryn Forbes) (SAS 62, BOS 78)",3,23
+699,700,Kemba Walker,2019-11-09,BOS,@,SAS,W,3rd,472,0,"Defensive rebound by Kemba Walker (BOS 90, SAS 77)",9,0
+700,701,Kemba Walker,2019-11-09,BOS,@,SAS,W,3rd,490,1,"Defensive rebound by Robert Williams (BOS 90, SAS 78)",9,0
+701,702,Kemba Walker,2019-11-09,BOS,@,SAS,W,3rd,670,1,"DeMar DeRozan misses 2-pt jump shot from 10 ft (SAS 87, BOS 101)",2,10
+702,703,Kemba Walker,2019-11-09,BOS,@,SAS,W,4th,260,0,"Defensive rebound by Dejounte Murray (SAS 100, BOS 117)",1,0
+703,704,Kemba Walker,2019-11-09,BOS,@,SAS,W,4th,292,1,"Defensive rebound by Lonnie Walker (SAS 100, BOS 117)",1,0
+704,705,Kemba Walker,2019-11-09,BOS,@,SAS,W,4th,324,0,"Dejounte Murray misses 2-pt layup from 1 ft (SAS 100, BOS 120)",2,1
+705,706,Kemba Walker,2019-11-09,BOS,@,SAS,W,4th,417,1,"Rudy Gay misses 2-pt layup from 4 ft (SAS 102, BOS 122)",2,4
+706,707,Kemba Walker,2019-11-07,BOS,@,CHO,W,1st,12,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 0, CHO 0)",2,2
+707,708,Kemba Walker,2019-11-07,BOS,@,CHO,W,1st,154,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 2, CHO 5)",3,26
+708,709,Kemba Walker,2019-11-07,BOS,@,CHO,W,2nd,398,0,"Marcus Smart enters the game for Carsen Edwards (BOS 38, CHO 32)",3,8
+709,710,Kemba Walker,2019-11-07,BOS,@,CHO,W,2nd,462,0,"Turnover by Devonte' Graham (offensive foul) (CHO 32, BOS 41)",3,2
+710,711,Kemba Walker,2019-11-07,BOS,@,CHO,W,2nd,685,0,"Cody Martin makes free throw 1 of 1 (CHO 40, BOS 52)",1,1
+711,712,Kemba Walker,2019-11-07,BOS,@,CHO,W,2nd,720,0,"Devonte' Graham makes 3-pt jump shot from 26 ft (CHO 43, BOS 52)",3,26
+712,713,Kemba Walker,2019-11-07,BOS,@,CHO,W,3rd,172,1,"Defensive rebound by Gordon Hayward (BOS 59, CHO 46)",5,9
+713,714,Kemba Walker,2019-11-07,BOS,@,CHO,W,3rd,203,0,"Turnover by Terry Rozier (back court) (CHO 46, BOS 61)",4,6
+714,715,Kemba Walker,2019-11-07,BOS,@,CHO,W,3rd,285,1,"Violation by Team (def goaltending) (BOS 63, CHO 48)",6,3
+715,716,Kemba Walker,2019-11-07,BOS,@,CHO,W,3rd,462,1,"Marvin Williams makes 2-pt jump shot from 3 ft (assist by Devonte' Graham) (CHO 56, BOS 69)",2,3
+716,717,Kemba Walker,2019-11-07,BOS,@,CHO,W,3rd,549,1,"Defensive rebound by Brad Wanamaker (BOS 72, CHO 59)",7,2
+717,718,Kemba Walker,2019-11-07,BOS,@,CHO,W,3rd,687,0,"Bismack Biyombo makes 2-pt hook shot from 3 ft (assist by Malik Monk) (CHO 65, BOS 82)",2,3
+718,719,Kemba Walker,2019-11-05,BOS,@,CLE,W,1st,123,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 7, CLE 2)",3,28
+719,720,Kemba Walker,2019-11-05,BOS,@,CLE,W,1st,151,0,"Kemba Walker misses 2-pt layup at rim (BOS 7, CLE 2)",2,0
+720,721,Kemba Walker,2019-11-05,BOS,@,CLE,W,1st,309,1,"Kemba Walker makes 2-pt jump shot from 8 ft (BOS 11, CLE 3)",2,8
+721,722,Kemba Walker,2019-11-05,BOS,@,CLE,W,1st,551,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Gordon Hayward) (BOS 24, CLE 16)",3,26
+722,723,Kemba Walker,2019-11-05,BOS,@,CLE,W,1st,668,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 30, CLE 21)",2,2
+723,724,Kemba Walker,2019-11-05,BOS,@,CLE,W,2nd,392,0,"Kemba Walker misses 2-pt jump shot from 13 ft (BOS 46, CLE 35)",2,13
+724,725,Kemba Walker,2019-11-05,BOS,@,CLE,W,2nd,434,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 46, CLE 37)",3,25
+725,726,Kemba Walker,2019-11-05,BOS,@,CLE,W,2nd,501,0,"Kemba Walker misses 2-pt jump shot from 9 ft (block by Collin Sexton) (BOS 48, CLE 42)",2,9
+726,727,Kemba Walker,2019-11-05,BOS,@,CLE,W,2nd,507,0,"Kemba Walker misses 2-pt jump shot from 6 ft (block by Jordan Clarkson) (BOS 48, CLE 42)",2,6
+727,728,Kemba Walker,2019-11-05,BOS,@,CLE,W,3rd,299,1,"Semi Ojeleye enters the game for Gordon Hayward (BOS 69, CLE 59)",6,9
+728,729,Kemba Walker,2019-11-05,BOS,@,CLE,W,3rd,352,0,"Defensive rebound by Tristan Thompson (CLE 61, BOS 72)",6,1
+729,730,Kemba Walker,2019-11-05,BOS,@,CLE,W,3rd,369,1,"Kevin Love makes 2-pt hook shot from 12 ft (CLE 65, BOS 75)",2,12
+730,731,Kemba Walker,2019-11-05,BOS,@,CLE,W,3rd,458,0,"Defensive rebound by Kevin Love (CLE 65, BOS 75)",6,5
+731,732,Kemba Walker,2019-11-05,BOS,@,CLE,W,4th,445,1,"Kevin Love makes 2-pt jump shot from 12 ft (CLE 103, BOS 113)",2,12
+732,733,Kemba Walker,2019-11-05,BOS,@,CLE,W,4th,489,0,"Defensive rebound by Kevin Love (CLE 103, BOS 113)",1,3
+733,734,Kemba Walker,2019-11-05,BOS,@,CLE,W,4th,598,0,"Offensive rebound by Team (BOS 113, CLE 110)",1,13
+734,735,Kemba Walker,2019-11-05,BOS,@,CLE,W,4th,611,1,"Kemba Walker makes 3-pt jump shot from 28 ft (BOS 116, CLE 110)",3,28
+735,736,Kemba Walker,2019-11-05,BOS,@,CLE,W,4th,642,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 116, CLE 113)",2,15
+736,737,Kemba Walker,2019-11-05,BOS,@,CLE,W,4th,695,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 116, CLE 113)",3,27
+737,738,Kemba Walker,2019-11-01,BOS,,NYK,W,1st,217,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 10, NYK 4)",2,1
+738,739,Kemba Walker,2019-11-01,BOS,,NYK,W,1st,428,1,"Kemba Walker makes 2-pt jump shot from 19 ft (BOS 14, NYK 10)",2,19
+739,740,Kemba Walker,2019-11-01,BOS,,NYK,W,1st,470,0,"Kemba Walker misses 2-pt jump shot from 18 ft (BOS 14, NYK 13)",2,18
+740,741,Kemba Walker,2019-11-01,BOS,,NYK,W,2nd,278,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 34, NYK 29)",3,27
+741,742,Kemba Walker,2019-11-01,BOS,,NYK,W,2nd,361,1,"Kemba Walker makes 2-pt layup from 2 ft (assist by Marcus Smart) (BOS 38, NYK 34)",2,2
+742,743,Kemba Walker,2019-11-01,BOS,,NYK,W,2nd,470,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 38, NYK 37)",3,27
+743,744,Kemba Walker,2019-11-01,BOS,,NYK,W,2nd,556,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 40, NYK 41)",2,15
+744,745,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,273,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 63, NYK 59)",2,2
+745,746,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,465,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 70, NYK 63)",3,27
+746,747,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,498,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 70, NYK 66)",3,26
+747,748,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,503,0,"Kemba Walker misses 2-pt layup from 7 ft (block by RJ Barrett) (BOS 70, NYK 66)",2,7
+748,749,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,523,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Gordon Hayward) (BOS 73, NYK 69)",3,25
+749,750,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,567,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 73, NYK 72)",3,25
+750,751,Kemba Walker,2019-11-01,BOS,,NYK,W,3rd,720,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 75, NYK 74)",3,26
+751,752,Kemba Walker,2019-11-01,BOS,,NYK,W,4th,382,0,"Kemba Walker misses 2-pt layup from 4 ft (block by Mitchell Robinson) (BOS 84, NYK 84)",2,4
+752,753,Kemba Walker,2019-11-01,BOS,,NYK,W,4th,401,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 86, NYK 86)",2,2
+753,754,Kemba Walker,2019-11-01,BOS,,NYK,W,4th,508,1,"Instant Replay (Challenge: Ruling Stands) (BOS 92, NYK 91)",9,2
+754,755,Kemba Walker,2019-11-01,BOS,,NYK,W,4th,540,0,"Defensive rebound by Jayson Tatum (BOS 95, NYK 91)",9,5
+755,756,Kemba Walker,2019-11-01,BOS,,NYK,W,4th,690,0,"Defensive rebound by Gordon Hayward (BOS 100, NYK 97)",1,0
+756,757,Kemba Walker,2019-10-30,BOS,,MIL,W,1st,283,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 7, MIL 10)",3,27
+757,758,Kemba Walker,2019-10-30,BOS,,MIL,W,1st,337,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 7, MIL 15)",2,3
+758,759,Kemba Walker,2019-10-30,BOS,,MIL,W,1st,439,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 13, MIL 22)",3,27
+759,760,Kemba Walker,2019-10-30,BOS,,MIL,W,1st,472,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Robert Williams) (BOS 16, MIL 22)",3,27
+760,761,Kemba Walker,2019-10-30,BOS,,MIL,W,2nd,330,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 31, MIL 44)",2,2
+761,762,Kemba Walker,2019-10-30,BOS,,MIL,W,2nd,369,1,"Kemba Walker makes 2-pt jump shot from 10 ft (BOS 33, MIL 46)",2,10
+762,763,Kemba Walker,2019-10-30,BOS,,MIL,W,2nd,445,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 33, MIL 49)",3,26
+763,764,Kemba Walker,2019-10-30,BOS,,MIL,W,2nd,683,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 42, MIL 55)",3,27
+764,765,Kemba Walker,2019-10-30,BOS,,MIL,W,3rd,299,0,"Kemba Walker misses 2-pt jump shot from 13 ft (BOS 54, MIL 69)",2,13
+765,766,Kemba Walker,2019-10-30,BOS,,MIL,W,3rd,370,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 58, MIL 71)",3,25
+766,767,Kemba Walker,2019-10-30,BOS,,MIL,W,3rd,474,0,"Kemba Walker misses 2-pt layup from 2 ft (BOS 64, MIL 71)",2,2
+767,768,Kemba Walker,2019-10-30,BOS,,MIL,W,3rd,480,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 64, MIL 71)",3,23
+768,769,Kemba Walker,2019-10-30,BOS,,MIL,W,3rd,545,1,"Kemba Walker makes 2-pt layup at rim (BOS 69, MIL 76)",2,0
+769,770,Kemba Walker,2019-10-30,BOS,,MIL,W,4th,449,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 101, MIL 90)",3,25
+770,771,Kemba Walker,2019-10-30,BOS,,MIL,W,4th,479,0,"Kemba Walker misses 3-pt jump shot from 31 ft (BOS 101, MIL 90)",3,31
+771,772,Kemba Walker,2019-10-30,BOS,,MIL,W,4th,503,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 104, MIL 92)",3,26
+772,773,Kemba Walker,2019-10-30,BOS,,MIL,W,4th,530,1,"Kemba Walker makes 2-pt jump shot from 21 ft (BOS 106, MIL 93)",2,21
+773,774,Kemba Walker,2019-10-30,BOS,,MIL,W,4th,554,0,"Kemba Walker misses 3-pt jump shot from 28 ft (BOS 106, MIL 93)",3,28
+774,775,Kemba Walker,2019-10-30,BOS,,MIL,W,4th,640,0,"Kemba Walker misses 2-pt layup from 10 ft (block by Giannis Antetokounmpo) (BOS 106, MIL 96)",2,10
+775,776,Kemba Walker,2019-10-26,BOS,@,NYK,W,1st,63,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 2, NYK 4)",2,15
+776,777,Kemba Walker,2019-10-26,BOS,@,NYK,W,1st,306,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 6, NYK 16)",2,2
+777,778,Kemba Walker,2019-10-26,BOS,@,NYK,W,1st,329,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 6, NYK 16)",3,26
+778,779,Kemba Walker,2019-10-26,BOS,@,NYK,W,1st,357,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 6, NYK 16)",3,26
+779,780,Kemba Walker,2019-10-26,BOS,@,NYK,W,2nd,264,1,"Kemba Walker makes 3-pt jump shot from 27 ft (BOS 34, NYK 27)",3,27
+780,781,Kemba Walker,2019-10-26,BOS,@,NYK,W,2nd,364,1,"Kemba Walker makes 3-pt jump shot from 27 ft (assist by Carsen Edwards) (BOS 39, NYK 35)",3,27
+781,782,Kemba Walker,2019-10-26,BOS,@,NYK,W,2nd,455,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 41, NYK 37)",3,27
+782,783,Kemba Walker,2019-10-26,BOS,@,NYK,W,2nd,633,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 46, NYK 47)",3,27
+783,784,Kemba Walker,2019-10-26,BOS,@,NYK,W,3rd,125,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Robert Williams) (BOS 54, NYK 56)",2,1
+784,785,Kemba Walker,2019-10-26,BOS,@,NYK,W,3rd,157,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 57, NYK 58)",3,26
+785,786,Kemba Walker,2019-10-26,BOS,@,NYK,W,3rd,205,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Semi Ojeleye) (BOS 60, NYK 60)",3,26
+786,787,Kemba Walker,2019-10-26,BOS,@,NYK,W,3rd,231,1,"Kemba Walker makes 3-pt jump shot from 25 ft (assist by Gordon Hayward) (BOS 63, NYK 60)",3,25
+787,788,Kemba Walker,2019-10-26,BOS,@,NYK,W,4th,236,0,"Kemba Walker misses 3-pt jump shot from 23 ft (BOS 90, NYK 81)",3,23
+788,789,Kemba Walker,2019-10-26,BOS,@,NYK,W,4th,269,1,"Kemba Walker makes 2-pt layup from 1 ft (BOS 95, NYK 81)",2,1
+789,790,Kemba Walker,2019-10-26,BOS,@,NYK,W,4th,310,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 98, NYK 83)",3,26
+790,791,Kemba Walker,2019-10-26,BOS,@,NYK,W,4th,352,1,"Kemba Walker makes 2-pt jump shot from 11 ft (BOS 100, NYK 85)",2,11
+791,792,Kemba Walker,2019-10-26,BOS,@,NYK,W,4th,481,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 112, NYK 87)",3,25
+792,793,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,177,0,"Kemba Walker misses 2-pt layup at rim (block by Fred VanVleet) (BOS 9, TOR 7)",2,0
+793,794,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,204,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 9, TOR 8)",3,25
+794,795,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,292,0,"Kemba Walker misses 2-pt jump shot from 10 ft (BOS 11, TOR 10)",2,10
+795,796,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,350,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 13, TOR 10)",2,15
+796,797,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,355,0,"Kemba Walker misses 2-pt layup at rim (BOS 13, TOR 10)",2,0
+797,798,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,438,0,"Kemba Walker misses 2-pt jump shot from 15 ft (BOS 13, TOR 12)",2,15
+798,799,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,470,1,"Kemba Walker makes 2-pt layup from 1 ft (assist by Grant Williams) (BOS 15, TOR 12)",2,1
+799,800,Kemba Walker,2019-10-25,BOS,,TOR,W,1st,564,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 17, TOR 15)",3,25
+800,801,Kemba Walker,2019-10-25,BOS,,TOR,W,2nd,460,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 38, TOR 38)",3,25
+801,802,Kemba Walker,2019-10-25,BOS,,TOR,W,3rd,95,1,"Kemba Walker makes 2-pt jump shot from 15 ft (BOS 55, TOR 54)",2,15
+802,803,Kemba Walker,2019-10-25,BOS,,TOR,W,3rd,118,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 55, TOR 54)",3,25
+803,804,Kemba Walker,2019-10-25,BOS,,TOR,W,3rd,243,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 59, TOR 57)",2,2
+804,805,Kemba Walker,2019-10-25,BOS,,TOR,W,3rd,541,1,"Kemba Walker makes 3-pt jump shot from 25 ft (BOS 72, TOR 75)",3,25
+805,806,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,173,1,"Kemba Walker makes 2-pt jump shot from 14 ft (BOS 84, TOR 89)",2,14
+806,807,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,202,1,"Kemba Walker makes 3-pt jump shot from 26 ft (BOS 87, TOR 89)",3,26
+807,808,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,242,1,"Kemba Walker makes 2-pt layup from 3 ft (BOS 89, TOR 91)",2,3
+808,809,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,298,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 93, TOR 95)",2,2
+809,810,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,328,0,"Kemba Walker misses 2-pt layup from 2 ft (block by OG Anunoby) (BOS 93, TOR 98)",2,2
+810,811,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,491,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 104, TOR 102)",3,26
+811,812,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,583,0,"Kemba Walker misses 3-pt jump shot from 27 ft (BOS 110, TOR 106)",3,27
+812,813,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,616,0,"Kemba Walker misses 2-pt jump shot from 7 ft (BOS 110, TOR 106)",2,7
+813,814,Kemba Walker,2019-10-25,BOS,,TOR,W,4th,699,0,"Kemba Walker misses 2-pt jump shot from 12 ft (BOS 110, TOR 106)",2,12
+814,815,Kemba Walker,2019-10-23,BOS,@,PHI,L,1st,93,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 2, PHI 2)",3,26
+815,816,Kemba Walker,2019-10-23,BOS,@,PHI,L,1st,275,1,"Kemba Walker makes 2-pt jump shot from 15 ft (BOS 9, PHI 7)",2,15
+816,817,Kemba Walker,2019-10-23,BOS,@,PHI,L,1st,321,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 11, PHI 9)",3,26
+817,818,Kemba Walker,2019-10-23,BOS,@,PHI,L,2nd,306,1,"Kemba Walker makes 3-pt jump shot from 26 ft (assist by Brad Wanamaker) (BOS 35, PHI 32)",3,26
+818,819,Kemba Walker,2019-10-23,BOS,@,PHI,L,2nd,381,1,"Kemba Walker makes 2-pt jump shot from 8 ft (BOS 39, PHI 33)",2,8
+819,820,Kemba Walker,2019-10-23,BOS,@,PHI,L,2nd,405,0,"Kemba Walker misses 2-pt layup from 6 ft (block by Matisse Thybulle) (BOS 40, PHI 33)",2,6
+820,821,Kemba Walker,2019-10-23,BOS,@,PHI,L,2nd,627,0,"Kemba Walker misses 3-pt jump shot from 25 ft (BOS 48, PHI 43)",3,25
+821,822,Kemba Walker,2019-10-23,BOS,@,PHI,L,2nd,684,0,"Kemba Walker misses 2-pt jump shot from 10 ft (BOS 48, PHI 47)",2,10
+822,823,Kemba Walker,2019-10-23,BOS,@,PHI,L,2nd,714,0,"Kemba Walker misses 2-pt jump shot from 5 ft (BOS 48, PHI 49)",2,5
+823,824,Kemba Walker,2019-10-23,BOS,@,PHI,L,3rd,77,0,"Kemba Walker misses 2-pt jump shot from 14 ft (BOS 48, PHI 54)",2,14
+824,825,Kemba Walker,2019-10-23,BOS,@,PHI,L,3rd,211,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 50, PHI 60)",3,26
+825,826,Kemba Walker,2019-10-23,BOS,@,PHI,L,3rd,356,0,"Kemba Walker misses 2-pt layup from 3 ft (BOS 55, PHI 64)",2,3
+826,827,Kemba Walker,2019-10-23,BOS,@,PHI,L,3rd,432,0,"Kemba Walker misses 2-pt jump shot from 20 ft (BOS 58, PHI 64)",2,20
+827,828,Kemba Walker,2019-10-23,BOS,@,PHI,L,3rd,661,0,"Kemba Walker misses 2-pt jump shot from 12 ft (block by Matisse Thybulle) (BOS 66, PHI 73)",2,12
+828,829,Kemba Walker,2019-10-23,BOS,@,PHI,L,4th,49,0,"Kemba Walker misses 2-pt jump shot from 11 ft (BOS 69, PHI 77)",2,11
+829,830,Kemba Walker,2019-10-23,BOS,@,PHI,L,4th,206,0,"Kemba Walker misses 2-pt jump shot from 20 ft (BOS 73, PHI 83)",2,20
+830,831,Kemba Walker,2019-10-23,BOS,@,PHI,L,4th,259,0,"Kemba Walker misses 3-pt jump shot from 26 ft (BOS 73, PHI 85)",3,26
+831,832,Kemba Walker,2019-10-23,BOS,@,PHI,L,4th,548,1,"Kemba Walker makes 2-pt layup from 2 ft (BOS 88, PHI 99)",2,2
