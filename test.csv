@@ -1,0 +1,31 @@
+,Team,Num_words,Checking
+0,"['Atlanta Hawks', ['Atlanta', 'Hawks', 'Georgia', 'MLK']]",10,False
+1,"['Boston Celtics', ['Boston', 'Celtics', 'Celtic', 'Green']]",699,False
+2,"['Brooklyn Nets', ['Brooklyn', 'Nets', 'Bedford', 'New Jersey']]",1133,False
+3,"['Charlotte Hornets', ['Charlotte', 'Hornets', 'MJ']]",64,False
+4,"['Chicago Bulls', ['Bulls', 'Chicago', 'deep dish']]",155,False
+5,"['Cleveland Cavaliers', ['Cavs', 'Sexland', 'Cleveland', 'Cavaliers', 'sex land']]",13,False
+6,"['Dallas Mavericks', ['Dallas', 'Mavericks', 'Mavs', 'Cuban']]",22,False
+7,"['Denver Nuggets', ['Denver', 'Nuggets', 'nug', 'colorado']]",154,False
+8,"['Detroit Pistons', ['Detroit', 'Pistons', 'Det', 'motor city']]",0,False
+9,"['Golden State Warriors', ['Golden', 'State', 'Warriors', 'San Francisco', 'bay']]",264,False
+10,"['Houston Rockets', ['Houston', 'Rockets', 'hou']]",0,False
+11,"['Indiana Pacers', ['Indiana', 'Pacers']]",0,False
+12,"['LA Clippers', ['LA', 'Clippers']]",0,False
+13,"['Los Angeles Lakers', ['Los', 'Angeles', 'Lakers']]",12,False
+14,"['Memphis Grizzlies', ['Griz', 'Memphis', 'Grizzlies', 'Tennesee']]",144,False
+15,"['Miami Heat', ['Miami', 'Heat', 'South Beach']]",25,False
+16,"['Milwaukee Bucks', ['Milwaukee', 'Bucks', 'Fear', 'deer']]",641,False
+17,"['Minnesota Timberwolves', ['Minnesota', 'Timberwolves', 'wolves']]",0,False
+18,"['New Orleans Pelicans', ['New Orleans', 'Pelicans', 'Pels']]",5,False
+19,"['New York Knicks', ['New York', 'Knicks', 'Knickerbokers']]",0,False
+20,"['Oklahoma City Thunder', ['OKC', 'ok c', 'ok see', 'Oklahoma City', 'Oklahoma', 'Thunder']]",0,False
+21,"['Orlando Magic', ['Orlando', 'Majic']]",0,False
+22,"['Philadelphia 76ers', ['Philly', 'Philadelphia', '76', '76ers', 'sixers']]",32,False
+23,"['Phoenix Suns', ['Phoenix', 'Suns', 'Arizona', 'Bright future']]",489,True
+24,"['Portland Trail_Blazers', ['Portland', 'Trailblazers', 'blazers', 'rip city', 'rose garden', 'moda center', 'Terry Stotts']]",1,False
+25,"['Sacramento Kings', ['Sacramento', 'Kings', 'Sac', 'sac town', 'sactown']]",0,False
+26,"['San Antonio Spurs', ['San Antonio', 'Spurs', 'pop', 'popavich']]",0,False
+27,"['Toronto Raptors', ['Toronto', 'Raptors', 'Tampa', 'Canada']]",22,False
+28,"['Utah Jazz', ['Utah', 'Jazz', 'Salt Lake']]",65,False
+29,"['Washington Wizards', ['Washington', 'Wizzards', 'Wa', 'D.C.']]",0,False
